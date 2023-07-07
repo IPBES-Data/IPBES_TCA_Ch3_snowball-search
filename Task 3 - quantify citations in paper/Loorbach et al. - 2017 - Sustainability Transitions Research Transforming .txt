@@ -1,0 +1,2085 @@
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Annual Review of Environment and Resources
+
+Sustainability Transitions
+Research: Transforming
+Science and Practice for
+Societal Change
+Derk Loorbach, Niki Frantzeskaki, and Flor Avelino
+Dutch Research Institute for Transitions, Erasmus University Rotterdam, 3000 DR Rotterdam,
+The Netherlands; email: loorbach@drift.eur.nl
+
+Annu. Rev. Environ. Resour. 2017. 42:599–626
+
+Keywords
+
+First published online as a Review in Advance on
+July 10, 2017
+
+sustainability transitions research, transdisciplinarity, transition governance
+
+The Annual Review of Environment and Resources is
+online at environ.annualreviews.org
+https://doi.org/10.1146/annurev-environ102014-021340
+c 2017 by Annual Reviews.
+Copyright 
+All rights reserved
+
+ANNUAL
+REVIEWS
+
+Further
+
+Click here to view this article's
+online features:
+• Download ﬁgures as PPT slides
+• Navigate linked references
+• Download citations
+• Explore related articles
+• Search keywords
+
+Abstract
+The article describes the field of sustainability transitions research, which
+emerged in the past two decades in the context of a growing scientific and
+public interest in large-scale societal transformation toward sustainability.
+We describe how different scientific approaches and methodological positions explore diverse types of transitions and provide the basis for multiple
+theories and models for governance of sustainability transitions. We distinguish three perspectives in studying transitions: socio-technical, socioinstitutional, and socio-ecological. Although the field as a whole is very heterogeneous, commonalities can be characterized in notions such as path
+dependencies, regimes, niches, experiments, and governance. These more
+generic concepts have been adopted within the analytical perspective of transitions, which has led three different types of approaches to dealing with
+agency in transitions: analytical, evaluative, and experimental. The field has
+by now produced a broad theoretical and empirical basis along with a variety of social transformation strategies and instruments, impacting disciplinary scientific fields as well as (policy) practice. In this article, we try to
+characterize the field by identifying its main perspectives, approaches and
+shared concepts, and its relevance to real-world sustainability problems and
+solutions.
+
+599
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+Contents
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+1. INTRODUCTION: SUSTAINABILITY AND TRANSITIONS . . . . . . . . . . . . . . . . 600
+2. TRANSITIONS RESEARCH: INTELLECTUAL ORIGINS,
+EMERGENCE, AND OUTREACH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 602
+3. UNDERSTANDING TRANSITIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 605
+3.1. Nonlinearity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 607
+3.2. Multilevel Dynamics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 607
+3.3. Coevolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 608
+3.4. Emergence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 608
+3.5. Variation and Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 608
+4. DIFFERENT APPROACHES IN TRANSITIONS RESEARCH . . . . . . . . . . . . . . . . 608
+4.1. Socio-Technical Approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 609
+4.2. Socio-Institutional Approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 610
+4.3. Socio-Ecological Approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 611
+5. GOVERNANCE IN TRANSITIONS RESEARCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 612
+5.1. Multi-Actor Dynamics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 614
+5.2. Reframing the Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 614
+5.3. Importance of Visioning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 614
+5.4. Importance of Experimenting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 614
+5.5. Importance of Learning and Evaluating . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 615
+6. APPROACHES TO GOVERNANCE IN TRANSITIONS . . . . . . . . . . . . . . . . . . . . . . 615
+6.1. Analyzing Governance in Transitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 615
+6.2. Evaluating Governance in Transitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 616
+6.3. Experimental Exploration of Transition Governance . . . . . . . . . . . . . . . . . . . . . . . . . 616
+7. SUSTAINABILITY TRANSITIONS RESEARCH AND ITS CHALLENGES . . 617
+
+1. INTRODUCTION: SUSTAINABILITY AND TRANSITIONS
+The term transition is broadly used in many scientific disciplines and refers to a nonlinear shift from
+one dynamic equilibrium to another. It has been regularly used in disciplines such as demography
+(demographic transition), ecology (ecosystem transitions), psychology (development transitions),
+and physics (phase transitions of substances). The term sustainability transitions is increasingly
+used to refer to large-scale societal changes, deemed necessary to solve “grand societal challenges.”
+In this article, we use this term as shorthand for transitions to sustainability—large-scale disruptive changes in societal systems that emerge over a long period of decades. These sustainability
+transitions are a threat to existing dynamically stable configurations facing persistent sustainability
+challenges, and they present opportunities for more radical, systemic, and accelerated change.
+A current and by now well-known example is the energy transition. Since at least the 1970s
+it has been argued that societies need to move away from fossil fuels toward renewable energy
+systems. But it has been only over the past decade or so that real progress is being made with
+the diffusion of renewable technologies. It coincides with increasing disruptions in markets for
+oil and gas, sharp declines in the use of coal, and struggling fossil energy companies. The current
+dynamics are only partly driven by incumbent actors and are heavily influenced by “outsiders” to
+the fossil energy system such as cooperatives and cities; companies such as Tesla, Siemens, Ikea, and
+Google; and social movements such as the divestment movement and the LINGO (“Leave It in the
+600
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+Ground”) campaign. The energy transition is thus much more than merely a technological shift;
+it is a power struggle and a socio-cultural change having a deep effect on incumbent institutions,
+routines, and beliefs. It has known a very long period of predevelopment and has in many countries
+now entered a period of turbulent and chaotic changes with uncertain outcomes. It is disrupting
+relatively stable energy systems that in their turn are the outcome of historical and similarly chaotic
+and unpredictable energy transitions. As with in the energy domain, many societal sectors have
+historically experienced such major shifts and are likely to do so again in the future (1, 2).
+At the end of the 1990s (3, 4), an inter- and transdisciplinary research field emerged based on
+the identified need to anticipate and adapt to such transitions to come and related it to the quest
+for accelerating sustainable development. Research in this field seeks to better understand the
+dynamics and mechanisms of sustainability transitions and the role of agency herein to develop
+better analytical tools and governance strategies. This field of sustainability transitions research
+(hereafter, transitions research) comprises a large variety of approaches and perspectives that in
+different ways have furthered insight into the persistency of unsustainable societal regimes and
+possible transition pathways and transition management strategies to escape lock-in. Since its
+introduction, the concept of sustainability transitions has been the subject of both scholarly and
+public debate and has developed into a diffuse international field of both applied and fundamental
+research. It has evolved to become a highly multi-, inter-, and transdisciplinary field in which the
+core concept of transitions serves as a bridge between different scientific disciplines and grand
+societal challenges. The field is increasingly global and covers a broad range of sectors, domains,
+and societal issues, ranging from energy, water, resources, food, and mobility to health care and
+education, and transitioning regions, cities, and communities toward sustainability.
+In this article, we describe how transitions research developed historically and provide a broad
+overview of the overarching scientific perspectives and their contributions. This overview is by
+definition limited and biased. It is limited in that we cannot extensively and completely do justice
+to all the different concepts, ideas, and perspectives in the field or the various ways in which
+it relates to established disciplines. The article is also biased in that it is largely based on the
+authors’ understanding and perception of the rapidly expanding field—in this case, a bias toward
+the origins of the field in the Netherlands and in Western European sustainability challenges
+in a developed, modern society. We do, however, seek to provide a review of the field that is
+inviting to scholars with a general interest in sustainability challenges from across the globe by
+developing a more open and reflexive description of the field. Earlier categorizations of the field
+(5, 6) identify several dominant schools of thought based on four central analytical concepts: the
+socio-technical multilevel model, the technological innovation systems approach, strategic niche
+management, and transition management. Although these four approaches certainly represent
+dominant concepts in transitions research, we understand these as part of a broader research
+perspective on sustainability transitions and address these as such.
+In this article, we also focus explicitly on how transitions research links to complex sustainability
+challenges. The field itself holds much research and many perspectives that are not explicit in this
+link or have no prescriptive ambitions, but in this article we consider all of the research that relates
+to understanding the dynamics and governance of large-scale nonlinear complex systems change
+related to grand societal challenges. Such understanding, the transitions research perspective
+argues, is necessary to address the grand societal challenges related to sustainability. This normative
+starting point has been very influential in the development of research in the field, explicitly seeking
+to inform governance and policy for sustainability transitions. Given the increasing recognition of
+the need and possibility of realizing more fundamental transitions as opposed to following gradual
+processes for reaching sustainable development, interest in transitions research has been steadily
+growing. From the very start, transitions research interacted with policy and society, and has
+www.annualreviews.org • Sustainability Transitions Research
+
+601
+
+ARI
+
+16 September 2017
+
+11:12
+
+enabled and informed governance concepts and strategies for transitions. A central thesis in the
+field is that grand societal challenges should be understood as systemic, and that dealing with such
+challenges is only possible through fundamental systemic changes in societal regimes. The core
+ambition of transitions research is to better understand such transitions, to anticipate and adapt
+to undesirable transitions (e.g., ecosystem collapse, economic breakdown, high-impact climate
+change), and to explore possibilities to advance and accelerate desired transitions.
+This perspective brings a sense of urgency and societal engagement to the research as well
+as the necessity to engage deeply in practical contexts where actors deal with transitions. It is
+increasingly recognized that such possible or actual transitions are not automatically desirable or
+beneficial to society at large. This has brought a new perspective to the thinking and practice
+of sustainable development. From a transition perspective, sustainable development policies and
+programs have focused too much on reducing unsustainability through optimization, thereby (unwillingly) adding to the lock-in of societal systems (7). At the same time, the transition perspective
+suggests that momentum for systemic change is building. The Sustainable Development Goals
+and the COP21 Paris Agreement signal that the need for change is no longer questioned, and
+the overall direction away from a fossil-based economy is clear. It further empowers and accelerates an enormous amount of disruptive innovations, including technological innovations (e.g.,
+renewable energy technologies, 3D printing, circular design, electric mobility, energy-providing
+buildings), institutional and economic change (e.g., divestment, sharing and social economy, social
+entrepreneurship, alternative and digital currencies), as well as changing lifestyle practices (e.g.,
+vegetarianism, ecotourism, low-impact lifestyles, sustainable clothing).
+The article is structured as follows. Section 2 describes the intellectual origins and evolution of
+the field going back to its roots in the 1990s, while acknowledging the sources of inspiration from
+the decades before. By sketching this history, we show how transitions research has developed
+as an interdiscipline, that the concept of sustainability transitions has and still is functioning
+as a boundary object bridging scientific disciplines as well as science and (policy) practice. We
+illustrate this by describing the intellectual growth, as well as how the research gained a foothold
+in research funding and policy programs. In Section 3 we describe what we consider to be the shared
+conceptual basis for understanding transitions as well as the main scientific perspectives in the field
+and what their specific contributions are. Section 4 describes the different ways in which the role
+of agency and governance are conceptualized in transitions research, and how these are translated
+into experimental interventions in real-life contexts. In Section 5 we summarize the position and
+contributions of transitions research and we reflect on the main challenges and prospects.
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+2. TRANSITIONS RESEARCH: INTELLECTUAL ORIGINS,
+EMERGENCE, AND OUTREACH
+In this section, we describe how the field and community of transitions research emerged at the
+intersection between science and policy, including its intellectual origins and expansions, as well
+its public uptake, outreach, and subsequent funding and support. During the 1990s, the concept of
+transitions emerged at different places in the scientific community as a novel concept to generally
+address large-scale societal change and sustainability (8–11). The field of transitions research,
+as it exists today, can be traced back to at least two major (clusters of ) intellectual roots in the
+1990s. The first was the broad category of innovation research, including science and technology
+studies, history of technology, evolutionary economics, and innovation policy (12–15). The second
+was the partly overlapping fields of environmental studies and sustainability sciences, including
+environmental assessment, integrated assessment, sustainability governance, and environmental
+policy (11, 16–18). Although this cluster represents a multitude of different disciplines, the streams
+602
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+feeding into transitions research addressed complex unstructured sustainability problems in the
+real world based on integrating different disciplines as well as tacit or lay knowledge. The field
+of transitions research was fueled by the realization that new research approaches are required to
+investigate the dynamics of complex societal problems and to guide the development of system
+solutions to address them.
+The initial focus of transitions research was on analyzing transitions in socio-technical systems (e.g., mobility, energy, agriculture). Already early on, the link between the more historical,
+innovation-oriented transitions research and sustainability and governance scholars led to formulating more abstract implications for government policy. From then on, transitions research
+broadened the focus toward societal systems more generally (e.g., regions, functional domains,
+cities) and to reflexive governance for sustainable development (3, 19, 20), including prescriptive
+design recommendations for transition management. Other more recent intellectual expansions
+of the field include an increasing focus on geographically delineated systems in transition, such
+as cities (21) and neighborhoods (22); socio-ecological system understandings; socio-economic
+trends and new economy phenomena (23, 24); issues of power, politics, actors, and discourse
+(25–27); and the role of civil society, grassroots initiatives, and social innovation (28, 29). These
+so-called intellectual expansions are not just a matter of additional disciplinary perspectives. They
+represent a shift in the object and dimensions of sustainability transitions: from a focus on sociotechnical systems to a recognition of socio-ecological, socio-economic, and socio-political systems
+as equally relevant objects of transition.
+Within the growing policy discourse on innovation for sustainability, the terms transition and
+system innovation first appeared and have continued to be applied as policy concepts. Today, we
+find this transition concept in various international policy contexts. For example, the European
+Environmental Agency, in its 2015 synthesis report on “the state and outlook” of the environment, explicitly argued that “living well within the limits of the planet requires a transition to
+a green economy,” and that it is necessary to respond to “systemic challenges” and to integrate
+“policy approaches for a long-term transition” (30). The Climate-KIC partnerships, one of the
+Knowledge & Innovation Community (KIC) programs of the European Institute of Technology
+(EIT), has elaborately integrated transition discourse as well as involved transitions researchers
+in various education and investment programs, and it recently launched the Transition Hub as a
+European competence and training center for applied transition management. Future Earth is a
+10-year international research program of the International Council for Science that aims to build
+knowledge about the environmental and human aspects of global change and to find solutions for
+sustainable development. Future Earth included as one of the guiding pillars in its program the
+“transformations to sustainability” to guide the debate and knowledge coproduction for global environmental research. Sustainability transitions research has been also adopted by the International
+Social Sciences Council that further elaborated on the importance to investigate and understand
+transformations to sustainability as a global agenda for social sciences research for the future.
+Beyond the European context, the Organisation for Economic Co-operation and Development
+(OECD) published a synthesis report in 2015 on “system innovation,” in which it consulted transitions researchers and drew on transition (management) literature to argue—inter alia—that “the
+dynamics of system innovation provide a new rationale for policy interventions, based not only on
+addressing single market failures but on solving interconnected problems through a combination
+of market mechanisms and policy tools” (31, p. 9).
+Among civil society and transnational grassroots networks, there is growing attention to
+transitions. The Transition Towns network, for instance, facilitates thousands of communities
+across the world working on “transitioning” neighborhoods and communities toward a more resilient and sustainable future (26). This Transition Towns network cooperates with several other
+www.annualreviews.org • Sustainability Transitions Research
+
+603
+
+ARI
+
+16 September 2017
+
+11:12
+
+grassroots organizations, for instance, under the European Network for Community-led Initiatives
+on Climate Change and Sustainability (ECOLISE), which promotes and supports local communities across Europe “in their efforts to build pathways to a sustainable future” (see their mission
+statement, here: http://www.ecolise.eu/). The Smart CSO (Civil Society Organisations) Lab is
+an international network of more than 1,000 activists, CSO leaders, and researchers “aiming to
+fundamentally rethink and redesign how activists and change agents in civil society can effectively
+work towards a systemic change.” This systemic change is referred to as “the Great Transition,”
+and the Smart CSO Lab proposes five leverage points as a basis for “a meta-theory of change for
+the Great Transition from a CSO perspective,” which is based on transitions research literature
+and its Multi-level Perspective (MLP) (32). Related to that, the Great Transition network, which
+has its headquarters at the Tellus Institute in Boston, Massachusetts, involves a “global, interdisciplinary group of hundreds of scholars and activists who share a common goal of elaborating
+visions and pathways for a Great Transition” (http://greattransition.org/).
+When we look further back into the past, we find that one of the first public networks to
+explicitly embrace the sustainability transition discourse emerged in the Netherlands at the turn
+of the century, when the Dutch national government officially announced transition policy. In
+2001 the concepts of transition and transition management were introduced in the fourth Dutch
+National Environmental Policy Plan (NMP4). Four transitions were identified as necessary: (a) to
+sustainable energy, (b) to sustainable use of biodiversity and natural resources, (c) to sustainable
+agriculture, and (d) to sustainable mobility (5). Transition management was presented as “a strategy
+to deal with environmental degradation by stimulating sustainable development as a specific aim
+of policy making” (33). The following is necessary, according to VROM (33):
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+To solve the big environmental problems we need system innovation which may take various forms. The
+[system] innovation may take the form of a societal transformation process that may take one generation
+or more. For the transformation to happen, economic, social-cultural and institutional changes are
+needed that reinforce each other. [N]ew parties and innovative technologies play an important role.
+It is not a matter for the government alone but for the whole of society. [M]anagement of transitions
+requires a form of process management in which uncertainty, complexity and interdependencies are
+addressed.
+
+In conjunction with the introduction of the NMP4, the Dutch government funded a national
+research program to develop a knowledge base for sustainability transitions, which helped to
+develop the basis for transitions research. This 20 million euro research program Knowledge
+Network for Transitions and System Innovation (KSI) was funded between 2004 and 2010 as one
+of 38 knowledge programs to stimulate sustainable innovation in the Netherlands. Together with
+the other programs, it was part of a wider transition network of organizations, institutes, programs,
+and partnerships in the Netherlands, with its own conferences, meetings, and communication. This
+transition network included a Competence Centre for Transitions and the Knowledge Centre for
+Transitions. Many of the programs that were funded, included international researchers that would
+partly use the funding to enable meetings with other researchers, not only in the Netherlands,
+but also beyond. The KSI network used part of the funding to organize the first International
+Sustainability Transition (IST) conference in Amsterdam in 2009.
+After the KSI funding stopped in 2010, many researchers that had been involved in the community from various places of the world founded the international Sustainability Transitions
+Research Network (STRN). Although the STRN itself is informal and formally unfunded, many
+of the researchers and institutes involved receive extensive public funding to conduct (applied)
+transitions research. Today, such research funding is available from several international sources,
+604
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+including the European Union’s FP7 and Horizon Program, the Joint Program Initiative of Urban
+Europe, and national funding schemes in Europe, Australia, Canada, and Japan. In this way, an
+increasing global and heterogeneous research field of transitions research has emerged and still
+is developing. The next section describes some of the analytical core concepts and ideas that are
+central to transitions research.
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+3. UNDERSTANDING TRANSITIONS
+Transitions in their literal sense refer to the process of change from one state to another. In
+transitions research, the term refers to the process of change from one system state to another via
+a period of nonlinear disruptive change. Such systemic change, by definition, is the result of an
+interplay of a variety of changes at different levels and in different domains that somehow interact
+and reinforce each other to produce a fundamental qualitative change in a societal system. The
+notion of transitions, present in many scientific disciplines for more than a century (see also 34),
+in general thus refers to a qualitative change in the state of a complex system. Transitions research
+applies this perspective to complex societal systems, asking how these could make a structural
+qualitative shift from (perceived) persistent unsustainability toward a more sustainable state.
+The core idea in transitions research is that disruptive systemic change can be located in socalled regimes: the dominant order in a societal (sub)system. The concept of regime is perhaps the
+most central notion in transition studies: a dominant and stable configuration in a societal system.
+In the context of the MLP, the notion of a socio-technical regime was introduced by Rip, Schot
+and Kemp (13, 35) and further popularized by Geels (36) to help explain path dependency and
+lock-in of existing socio-technical systems around specific technologies such as the steam engine or
+coal-fired power plants. It was introduced combined with the multiphase model of transitions (3),
+which identified four phases of predevelopment, take-off, acceleration, and stabilization, through
+which a transition occurred. The novelty introduced by this transition perspective was that it
+understands a dominant configuration or regime in the context of its interaction with changing
+external (landscape) factors, preferences, and pressures as well as in interaction with emerging
+novelties, innovations, and alternatives. Societal regimes (e.g., dominant technologies, institutions,
+routines, cultures) emerge out of historical transitions and develop path-dependently through
+processes of optimization and incremental innovation. As the broader societal context changes and
+new radical alternatives develop and emerge, regimes inevitably will enter a process of increased
+stress, internal crises, destabilization, and shock-wise systemic reconfiguration (37, 38). Figure 1
+shows this original multilevel, multiphase perspective on transitions.
+This original multilevel and multiphase concept of transitions emphasized transitions as processes of innovation. Over time these have been extended to include more detailed understandings
+of the underlying patterns and mechanisms as well as to understand transitions as combined processes of building up and breaking down. Inevitably this is part of how complex societal systems
+evolve. Path dependency is inevitable because of sunk investments, benefits of scale, and the coevolutionary dynamic within a regime. But such path dependencies over time ultimately imply
+the inability to change beyond optimization, hence causing systemic tensions and problems. Once
+disturbed by external crises, internal tensions or better alternatives (37, 39, 40), reorganization
+toward a new equilibrium is by definition shock-wise and whimsical, creating chaotic and unpredictable patterns of change. Where initially experimentation and acceleration were the main foci
+in transitions research, in recent years increasing attention is given to processes of destabilization,
+emergence, and institutional change. By building on historical cases as well as reflecting on and
+analyzing currently evolving transitions, a theoretical basis has been developed that identifies the
+different patterns and mechanisms of change that drive nonlinear structural change in complex
+www.annualreviews.org • Sustainability Transitions Research
+
+605
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+a
+
+b
+Stabilization
+
+System state
+
+Increasing structuration of
+activities in local practices
+
+Landscape
+
+Patchwork
+of regimes
+
+Lock-in
+
+Predevelopment Acceleration Take-off
+
+Niches
+(novelty)
+
+Backlash
+System
+breakdown
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Time
+
+c
+Socio-technical
+landscape
+(exogenous
+context)
+Landscape developments
+put pressure on the existing regime,
+which opens up, creating windows
+of opportunity for novelties.
+
+Increasing structuration of
+activities in local practices
+
+Markets, user
+preferences
+
+Sociotechnical
+regime
+
+New regime
+influences
+landscape
+
+Industry
+Science
+Policy
+Culture
+Technology
+The socio-technical regime is dynamically stable.
+On different dimensions there are ongoing processes.
+
+New configuration breaks through, taking
+advantage of windows of opportunity.
+Adjustments occur in the socio-technical regime.
+
+Elements become aligned
+and stabilize in a dominant design.
+Internal momentum increases.
+
+External influences on niches
+(via expectations and networks)
+
+Niche
+innovations
+Small networks of actors support novelties on the basis of expectations and visions.
+Learning processes take place on multiple dimensions (co-construction).
+Efforts are made to link different elements in a seamless web.
+
+Time
+Figure 1
+The original multilevel, multiphase perspective on transitions with (a) the multilevel model depicting the coevolution between
+landscape, socio-technical regimes, and niches; (b) socio-technical regime change as result of coevolving landscape pressures and
+emerging niches over time; and (c) the multiphase concept illustrating the nonlinearity of transitions and different types of pathways.
+Panels adapted with permission from References 35, 4, and 124, respectively.
+
+606
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+societal systems. Figure 2 shows this analytical model to understand and study the dynamics of
+transitions.
+This analytical model of transitions provides a systematic way to reflect on ongoing and past
+transitions as evolutionary revolutions in complex societal systems. It builds on several core concepts that bring more specificity to understanding the type of change inherent to transitions
+and to understanding how transitions research studies complex changes in society. These are the
+following.
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+3.1. Nonlinearity
+Transitions are disruptive changes that develop in a shock-wise manner rather than in a gradual
+way. Research in the field therefore distinguishes change in general from transitions insofar as it
+is concerned with stepwise changes into a qualitatively different state. The notion of disruptive
+change is present in many disciplines that are drawn upon by transitions researchers. Perhaps
+most prominent is the idea of punctuated equilibria and tipping points in evolutionary biology
+and ecology. But similar nonlinearities are studied in innovation sciences, often referred to as
+disruptive innovation.
+
+3.2. Multilevel Dynamics
+Transitions are located in a particular system but are always conceptualized as the result of interacting dynamics at multiple levels. The most basic distinction that is shared within the field is that
+between the context (landscape), the dominant configuration (regime), and alternatives (niches)
+(41). But the concept of transitions implies a nested perspective: The transitions on which we focus are also part of higher-level transitions, and include lower-level transitions. Analytically, this
+means that transitions are always related to their context and that attention is given to interscale
+
+Optimizatio
+n
+
+Desta
+bili
+zat
+ion
+
+Ch
+ao
+s
+
+tion
+Experimenta
+
+Ac c e
+
+tion
+lera
+
+ce
+en
+g
+r
+e
+Em
+
+n
+atio
+aliz
+n
+io
+ut
+tit
+s
+In
+
+ization
+Stabil
+
+Br
+ea
+kd
+ow
+n
+
+Pha
+se o
+u
+
+t
+
+Figure 2
+Dynamics of societal transitions as iterative processes of build-up and breakdown over a period of decades. In
+a changing societal context, established regimes develop path-dependently through optimization, while
+change agents start to experiment with alternative ideas, technologies, and practices. Over time pressures on
+regimes to transform increase, leading to destabilization as alternatives start to accelerate and emerge. The
+actual transition is then chaotic and disruptive and new combinations of emerging alternatives and
+transformative regime elements grow into a new regime. In this process elements of an old regime that do
+not transform are broken down and phase out.
+www.annualreviews.org • Sustainability Transitions Research
+
+607
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+dynamics, be it technologically (e.g., upscaling), institutionally (e.g., multilevel governance), or
+spatially (e.g., spatial diffusion).
+
+3.3. Coevolution
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+The nonlinear and multilevel understanding of transitions also includes an understanding of complex system change as the result of interacting types of changes. What is studied is not innovation
+or change in one dimension or domain, but by definition, across domains. It is based on the notion that innovation itself is a systemic process whereby, for example, technological innovation
+interacts with social and institutional changes in a coevolutionary way, meaning that through their
+interaction the interacting elements themselves also change (42, 43). In transitions research this
+is often referred to as multidomain, and in practice implies including a variety of technological,
+social, economic, ecological, and institutional factors in the analysis. Coevolution implies thinking
+beyond linear causalities: It is not a matter of asking what comes first or what causes what, but
+rather a matter of acknowledging how different phenomena shape and relate to each other over
+longer periods of time.
+
+3.4. Emergence
+Closely related to the coevolutionary perspective is the notion of emergence and surprise. The
+concept of transitions implies the emergence of a new dynamically stable order out of a process of
+chaotic, coevolutionary change. In other words, transitions are the outcome of all sorts of actions
+and changes that somehow lead to new structures in a way that was not foreseen or planned
+in advance. Besides the practical impossibility of predicting the outcomes of complex societal
+changes over a period of decades, the notion of emergence in transition studies thus also refers to
+the insights from complex systems theory relating to chaos and order. Transitions are considered to
+be societal processes of fundamental change including emergent and coordinated characteristics.
+Coordinated emergence describes the principle of radical change in incremental steps. In this way,
+a transition can be coordinated by creating shared future orientations and guiding values and at
+the same time creating space for experimentation and diversity in the short term, allowing for new
+solutions and ways of organizing to emerge.
+
+3.5. Variation and Selection
+Novelty as outcome of a processes of experimentation and learning-by-doing (either technological, institutional or governance innovation) plays a crucial role in the way sustainability transitions
+are instigated, accelerated, and triggered. Different approaches emphasize various forms of innovation and how they relate with the disruptive novelty creation and ultimately systemic change.
+More recent work in sustainability transitions research also focuses on the role of social innovation produced by civil society (initiatives, organizations, social business models, movements) in
+sustainability transitions. This focus on transformative social innovations also broadens the understanding of innovation and the ability to develop effective innovation policies or strategies to
+include altering values and beliefs at the collective level, creating and establishing social-ecological
+lifestyles, and reflexive practices as experiments contributing to transitions.
+
+4. DIFFERENT APPROACHES IN TRANSITIONS RESEARCH
+The core ideas in transitions research have been taken up in a range of disciplines, domains,
+and research fields. Depending on the entry point, transitions researchers approach the question
+608
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+of large-scale societal change in different ways: as technological, institutional, social, ecological,
+economic, or cultural. This has led to the development of theories and perspectives on different
+types and dimensions of transitions or, arguably, different angles or perspectives on sustainability
+transitions based on the main societal problem or solution taken as a starting point. We argue
+that the strength of the field is that it allows for very fundamental differences in ideas about the
+role of research and how to approach research on transitions, while at the same time enabling
+debates across disciplines and approaches through the joint language and concepts of transitions.
+This has led to ongoing debates between different perspectives with regard to the nature of “what”
+is involved in transition, how that can best be studied, and what the insights imply for practice.
+These debates create the kind of dynamic, exchange, critical reflection, and intellectual deepening
+that has driven knowledge development and integration.
+The most central debate concerns the notion of transition itself, represented in the three
+parts of Grin et al.’s (4) Transitions to Sustainable Development: New Directions in the Study of Long
+Term Transformative Change. Part 1 represents the historical perspective on transitions, which
+reconstructs historical socio-technical system changes and argues that transitions can be analyzed
+only in hindsight. Part 2 represents the focus on recent (contemporary) and emerging transitions,
+assuming that the underlying patterns and dynamics of historical transitions can be used as bases for
+hypothesizing possible future patterns and possible interventions. This part of transitions research
+rather anticipates and explores the possibility and desirability of future transitions as an inevitable
+outcome of path dependencies that produce symptoms of unsustainability. Part 3 represents the
+more external reflexive approach that understands transitions as emerging and whose research
+functions to describe and reflect on unfolding patterns of change. Each approach has its merits
+and specific understandings of the role of researchers, and transitions research does not strive for
+consensus or uniform definitions. Transitions research aims to offer frameworks, concepts, and a
+language that helps to facilitate and structure discussion and reflection across different disciplines
+and domains.
+Many of the ongoing debates within transitions research relate to the differences in epistemological and disciplinary backgrounds from which transitions are studied. In the next sections,
+we describe three dominant and prominent approaches and the motivations behind these. We
+use the term approach to refer to the way the topic of transition is approached scientifically,
+epistemologically, and normatively. Although some are more driven toward description and conceptual understanding, most of the transitions research explicitly pursues a normative goal, i.e.,
+understanding sustainability transitions. The three approaches we discern are similar in their
+interest and focus on transitions but different in how they seek to understand these, what the
+core subject of transition is, and which drivers and mechanisms they attach the most explanatory
+value to. We discern the following distinctive research approaches to study transitions, each with
+their own respective disciplinary and methodological backgrounds and objectives: socio-technical,
+socio-institutional, and socio-ecological.
+
+4.1. Socio-Technical Approach
+The socio-technical approach has its roots in science and technology studies and lies at the roots
+of transitions research. Although there is increasing attention to other approaches, many transitions researchers take a socio-technical approach to studying transitions. Socio-technical regimes
+that have emerged around dominant technologies are the subject of transitions. Innovation takes
+a prominent role in understanding the dynamics of path dependency, sunk costs, lock-in, and
+disruption. Typical examples under study are systems in which infrastructures and technologies
+play an important role: energy, mobility, or water. Two major analytical lenses include the MLP
+and the Technological Innovations Systems (TIS) framework.
+www.annualreviews.org • Sustainability Transitions Research
+
+609
+
+ARI
+
+16 September 2017
+
+11:12
+
+Studies into socio-technical transitions are heavily influenced by the MLP and research into the
+history of technology (13). In general, empirical studies are considering processes of technological
+substitution (e.g., from horses-and-carriage to automobile) as a result of the interplay between
+incumbent regime structures, external landscape pressures, and emerging niches. Such niches
+are considered as protected spaces necessary for innovations to mature vis-à-vis incumbent sociotechnical regimes. Niche creation and development can be a market based or a government-driven
+process. On the basis of several empirical case studies, different transition pathways have been
+conceptualized (40), as have the evolution of niches and how they can be understood (44, 45).
+Within socio-technical transitions research, innovation journeys (46) are reconstructed through
+desk research and data analysis to map the patterns and dynamics of regime change. The origins of
+this perspective are innovation studies, history of technology, constructive technology assessment,
+and economics of innovation (47). The MLP is increasingly used to assess the potential of emerging
+and desired technologies against the background of incumbent structures and technologies. The
+insights stemming from socio-technical research provide basic starting points for nurturing and
+managing niches (see Section 5).
+A related perspective that has a more explicit focus on innovation policy is that of TIS (48),
+which understands (technological) innovation as a systemic process in which technologies coevolve
+with an emerging market structure, a governance context, and user preferences (49, 50). Without
+explicitly considering an incumbent regime context, TIS seeks to understand the mechanisms that
+enable technological innovations and provides an assessment framework according to governance
+guidelines. These are conceptualized as the “motors” of innovation (51), e.g., those factors that
+determine the extent to which a new technology is able to scale up and diffuse into an existing
+market.
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+4.2. Socio-Institutional Approach
+This term refers to a wider range of approaches that draw from social sciences to understand
+systemic changes in complex societal systems. These approaches draw from social sciences such as
+economics, political science, sociology, governance studies, and geography. We refer to these as
+socio-institutional, as these approaches identify institutionalized cultures, structures, and practices
+(52) as regimes in which transitional change takes place. These approaches often focus on specific
+sectors or geographical areas that face persistent problems. Although technologies might play an
+important role in understanding transitional change, the emphasis is rather on how incumbent
+routines, powers, interests, discourses, and regulations create path dependencies and how these are
+challenged by (transformative) social innovations. The socio-institutional perspective is applied to
+societal systems facing persistent environmental challenges such as mobility, waste management,
+and energy but increasingly also to systems such as health care, education, finance, and democracy.
+Examples of this approach are studies on societal transitions (23, 53), practice-based transitions
+(54), transitions in consumption and production (55, 56, 57), and spatial transitions (58). Typically
+this approach focuses explicitly on the role of agency and governance in such transitions and takes a
+more reflexive stance. It highlights issues of normativity, ambiguity and social construction (59) as
+well as reflects upon the interaction between multiple regimes (60). In addition, there is attention
+for social learning (61), culture and daily practices as factors that have a strong influence on the
+direction and dynamics of transitions.
+In the socio-institutional approach, institutional dynamics (62, 63) are addressed more prominently to explain inertia and lock-in as well as to critically explore issues of power, politics, and
+agency (64–66). These have led to a series of theoretical and empirical studies into power and
+politics in transitions (25, 67–70). These include research on dialectics and Trojan horses (71),
+610
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+international energy policy, development in relation to transitions, and politics of space (72, 73).
+These studies emphasize that sustainability transitions are inherently political as they imply systemic change often directly. But they also draw attention to socio-political transitions themselves,
+such as the transition in democracy (74) and from centralized governance structures to decentralized, not-for-profit community-based and/or Third-Sector-based energy cooperatives (75, 76).
+More attention for such socio-political dimensions is being developed concurrently with adjacent
+fields of grassroots innovation and social innovation (77, 78). Increasingly, attention is drawn to
+applying transitions research to governance systems and democratic regimes as such, considering
+the current ways in which societies are organized as dominant locked-in regimes that are vulnerable to transition pressures (73). The focus on socio-institutional dimensions of change often relates
+to a more normative orientation toward emerging or ongoing transitions and therefore also draws
+on different types of methods and epistemologies than the socio-technical approaches that tend
+to be more analytical and descriptive. In this approach, also more qualitative, action-oriented, and
+transdisciplinary methods are common.
+
+4.3. Socio-Ecological Approach
+A third distinct suite of approaches builds on insight from ecology, biology, complex adaptive
+systems theory, ecosystem services, and adaptive governance. The socio-ecological approach has
+its roots in ecology and resilience theory (79), seeking to understand (in)stability in ecosystems
+but evolved to look at coupled socio-ecological systems. Transitions in ecosystems are understood
+as nonlinear shifts from one attractor basin to another passing certain “tipping points.” These
+shifts from one dynamic equilibrium to another are nonlinear, almost irreversible, and follow a
+pattern of buildup, stabilization, breakdown, and recovery (80). Within the resilience approach,
+the interplay between such ecological transitions and the societal context is addressed, and it
+examines the way in which this context pushes ecosystems beyond tipping points and planetary
+boundaries (81, 82). Research on planetary boundaries provides a frame of reference for mapping
+and assessing the accelerated impacts of anthropogenic activities and connects with the ways the
+UN Sustainable Development Goals can facilitate a process of tackling global change by addressing
+the interconnected planetary boundaries. Planetary boundaries provide also the frame of reference
+for actions required to re-establish planetary resilience and are signposts on thresholds of socioecological systems and their change. Here often the term transformation is used to address the need
+for systemic sustainable solutions, whereas resilience is related to the ability of a system to withstand
+shocks while maintaining function as well as to transform anticipating external pressures, shocks
+and threats. Interestingly, the resilience perspective has originated from the desire to sustain
+ecosystems in their current “attractor basins” (similar to the notion of regime) and to prevent
+catastrophic collapse. The concept of resilience found applications in broader domains including
+policy and planning with often a non-normative understanding neglecting that there is desirable
+and undesirable resilience in systems; for example, corruption is an undesirable but very resilient
+system. Resilience research in general has a very long history and applications in understanding its
+drivers and institutions, but more coordinated research into socio-ecological transitions did not
+develop until the 1990s.
+The socio-ecological perspective is applied in different ways, including a focus on metabolism
+(83), external catalyzing events (84, 85), or the alternation of different dynamic processes (also
+known as panarchy) (80). Over the past years, the socio-ecological perspective has increasingly
+engaged with issues such as biodiversity and nature, nature-based solutions and ecosystem services,
+and climate resilience (86). Inevitably also more attention to the role of agency and governance
+has developed producing concepts such as adaptive governance and stewardship (87, 88, 89).
+www.annualreviews.org • Sustainability Transitions Research
+
+611
+
+EG42CH22-Loorbach
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Table 1
+
+ARI
+
+16 September 2017
+
+11:12
+
+Three different perspectives on sustainability transitions
+Socio-technical
+
+Socio-institutional
+
+Disciplines
+
+Innovation studies, history,
+technology, science and technology
+studies, practice theory
+
+Sociology, governance, policy,
+economics, geography, political
+science
+
+Ecology, biology, governance
+
+Socio-ecological
+
+Focus
+
+Technology in social context
+Analysis of (historical) innovation
+journeys
+
+Institutions, agency, power
+Analysis of networks, social
+innovation and governance
+
+Ecology and socio-ecological
+relations
+Analysis of system vulnerability and
+transformative capacity
+
+Main
+analytical
+lenses
+
+Seamless web, multilevel perspective,
+path dependency, strategic niche
+management
+
+Culture, structure, and practices;
+power in transition; transition
+management, multi-actor
+perspective
+
+Panarchy, resilience, adaptive and
+transformative capacity, navigating,
+planetary boundaries
+
+Approach
+to the
+energy
+transition
+
+Emphasis on technological
+innovation, e.g., transition from
+combustion engine to electric car or
+from coal-fired power plants to
+solar panels in a societal context
+through dedicated innovation policy
+
+Emphasis on political and
+institutional change, e.g., from
+central to decentral energy
+production as a shift in power
+from centralized monopolies to
+decentralized networks through
+countermovement and disruption
+
+Emphasis on ecological thresholds
+and extraction of fossil resources to
+renewable resources within closed
+cycles through adaptive
+management
+
+By studying dynamics in a great variety of socio-ecological systems, research has been able to
+identify different types of human-ecosystem interactions that either negatively influence ecosystem
+resilience or might help to strengthen it. These are captured by theoretical concepts and insights
+relating to thresholds, maladaptive persistent states in complex systems, and panarchy. But often
+it is argued that transitions in social contexts are necessary to sustain the stability of ecosystems
+and/or enhance their capacity to deal with disturbances (through transformation) (90). Table 1
+summarizes the different perspectives and their specific characteristics; Figure 3 illustrates the
+three approaches and typical empirical domains of research.
+
+5. GOVERNANCE IN TRANSITIONS RESEARCH
+Analytically, the understanding of transition processes can be distinguished from the understanding of how actors (can) influence transition processes: The first object of study is referred to as
+transition dynamics, the latter as transition governance. The question of governance in sustainability transitions is at the heart of transitions research. The main driver behind the emergence
+of transitions research has been the search for new insights and ideas to understand how to steer
+clear from unsustainability lock-in and how to mobilize and empower disruptive innovations and
+transformative capacity from the system toward desirable sustainability transitions. To this end,
+the system (dynamics) approaches provide a useful analytical basis but also a starting point for
+exploring the role of agency in transitions and specifically on how agency might influence the
+pace and direction of transitions and ultimately how such agency can be stimulated to contribute
+to sustainability transitions. This thinking positions transitions research as a field that asks new
+questions for governance—not only understanding the ways that existing instruments and institutional responses contribute to sustainable ends but also the inner workings of policy and
+governance. Transitions research advocates that governance is a multi-actor process in which systemic solutions, disruptive innovations, and (reflexive) institutions are formed by experimenting
+and learning.
+612
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+Socio-ecological
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Forestry
+Fisheries
+Agriculture
+Biodiversity
+
+Socio-institutional
+
+Nonlinearity
+Multilevel
+Coevolution
+Emergence
+Regimes
+Niches
+
+Health care
+Education
+Labor
+Finance
+
+Socio-technical
+Energy
+Mobility
+Water
+Waste
+
+Figure 3
+Three approaches to studying sustainability transitions that each present different ways to understand
+sustainability transitions, in a more socio-technical, socio-ecological, or socio-institutional way. Although
+these approaches share a similar interest in the nonlinear process of transitions, they come from different
+disciplinary and epistemological backgrounds and bring different types of insights and methods to
+sustainability transitions research.
+
+Transition governance ideas build on the idea that the network society facilitates all sorts of ways
+through which actors organize themselves to produce solutions to societal problems drawing on
+insights from governance literature around (meta-)governance (91–93) and network governance
+(94–97). Transition governance then seeks to influence how actors do this and how different types
+of agency add up by adding the perspective of transitions as regime shifts in societal systems that are
+by definition (partly) initiated outside incumbent structures, vested interests, and dominant institutions during predevelopment and destabilization. Combined with the argument that dominant
+governance logics of state and market are at odds with sustainability, transition governance generally calls for targeted strategies to empower context-specific transformative solutions developed
+in multi-actor networks. This implies, for example, a specific focus on radical and transformative
+technological and social innovation in earlier stages of transitions as well as strategies focused on
+dealing with regime destabilization and institutionalization of emerging transitions.
+The field of sustainability transitions by now includes several different approaches to understanding and operationalizing transition governance, including strategic niche management (40),
+reflexive governance (98), transition management (99), and policies for innovation systems (50).
+What these different approaches have in common is particular attention for system innovation
+and socio-technical coevolution. This diverse subfield of transition governance can in turn be
+positioned in relation to the broader context of an environmental governance for transformation
+(82, 100, 101) and sustainability governance (102, 103). The diversity of analytical perspectives to
+understand transitions is thus complemented with a perhaps even larger diversity of approaches
+toward their governance. As Patterson et al. (104) summarize, “a variety of conceptual approaches
+have been developed to understand and analyze societal transition or transformation processes,
+including: socio-technical transitions, social-ecological systems, sustainability pathways, and transformative adaptation.” These approaches, albeit different, also share many common characteristics
+and elements summarized below.
+www.annualreviews.org • Sustainability Transitions Research
+
+613
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+5.1. Multi-Actor Dynamics
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Several transition scholars have emphasized how transitions involve multiple actors from various
+institutional backgrounds (e.g., market, government, science, civil society) and that the shifting
+power relations and role constellations between different actors is inherent to any transition process
+(25, 26, 105). Acknowledging that some actors might be more related to regime contexts than
+others and that individuals might be more flexible in relating themselves to niches or regimes draws
+attention to issues of power asymmetries and the different types of influence actors have (63, 106,
+107). Transitions research therefore seeks to understand how different types and forms of agency
+influence the speed and direction of transitions and how they can be engaged, can be empowered,
+and can more effectively contribute to desired transitions. This includes an interest in processes
+of institutional change and structuration as well as in roles of radical outsiders, frontrunners, or
+marginalized groups.
+
+5.2. Reframing the Problem
+Societal consensus around problems influences where investments and actions are directed. Historical transitions underline the importance of such discursive changes at the societal level through
+which persistent problems are recognized and translated into new future directions and ultimately
+into interventions. An important element in transition governance is therefore the support and
+development of shared and deeper insight and the need for systemic change. It uses transition
+concepts to broaden the ways in which actors understand complex societal problems. It does so
+by introducing thinking in terms of symptoms of underlying persistent problems, path dependencies and lock-in, and unproductive niche-regime interaction. Going through such processes in a
+participatory way stimulates development of a (new) shared discourse (108–110).
+
+5.3. Importance of Visioning
+An important driver for innovation and experimentation at all levels is the belief actors have in
+alternative futures and fundamental values that they strive to realize. Visioning alternative system
+futures, scenario-building, and backcasting (111, 112) are therefore important tools in transition
+governance to facilitate and empower actors and networks, so that they can more strategically
+work on transitions, explore more radical innovation trajectories, and formulate alternative goals
+and agendas. A vision is useful in giving direction, but the importance of the vision itself should
+not be overstated as there are often many different visions competing in a context where all sorts
+of uncertainties and seemingly random events might take over. The role of visions in transition
+governance is thus mainly to motivate, coordinate, and empower actions in the short term and
+medium term (113).
+
+5.4. Importance of Experimenting
+As transitions are complex and unstructured processes of change, a process of learning-by-doing
+and doing-by-learning is the only way to adapt, change, and transform existing dominant cultures, structures, and practices. The transition perspective views alternatives to the dominant as
+experimental as they might inform how a desired transition might unfold. Experimenting is therefore a way to unpack complexity and to gather evidence on the new relations and new roles that
+a transition requires. Sustainability transitions therefore require technological, organizational,
+place-explicit, and governance experimentations (114–116).
+
+614
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+5.5. Importance of Learning and Evaluating
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+In real-life contexts, achieving social innovation, by definition, implies social learning: reshaping
+social interactions, roles, knowledge, language and practices. It is evident that besides transfer
+of knowledge, contexts also influence behavioral and mental change in actors. Thus, transition
+approaches seek to develop (physical, emotional, network, process) contexts that make actors
+reflect, rethink, and reshape their thoughts and actions (117, 118). Transition governance therefore
+calls for continuous learning and adapting. Systematic transition monitoring and evaluation can
+help reflect on how deliberate actions interact with broader societal transition dynamics and vice
+versa. Such systematic reflections that focus on dynamics and processes rather than implementation
+or output can help to reorient interventions and identify new opportunities (119, 120).
+
+6. APPROACHES TO GOVERNANCE IN TRANSITIONS
+There are three distinct ways that transitions research is seeking to address the questions of agency
+in (sustainability) transitions and formulate ideas and approaches for intervening in transitions in
+order to guide and accelerate these to sustainability. These are theorizing and analyzing governance in transitions, evaluating formal (transition or innovation based) policy in transitions,
+and experimental exploration of interventions in transitions (see also Figure 4). We provide an
+overview of all three approaches.
+
+6.1. Analyzing Governance in Transitions
+As government organizations and established policies are by definition part of dominant regimes,
+transitions research seeks to understand the role of societal forms of agency at different levels
+
+Analytical
+Governance
+Social learning
+Institutions
+Actors
+
+Evaluative
+
+Power
+Agency
+Discourse
+Visions
+Experimentation
+Learning
+
+Social innovation
+Experiments
+Programs
+Monitoring
+
+Experimental
+Transition arenas
+Niche experiments
+Action research
+Scenarios
+
+Figure 4
+Three approaches to governance in transitions research that represent different ways to study and
+conceptualize the role of agency and intervention. They all relate to sustainability transitions by focusing on
+issues such as the role of power, discourse, and experimentation in influencing sustainability transitions. But
+these approaches differ in terms of their scientific approaches and because they produce different tools and
+instruments for analyzing, evaluating, or experimentally influencing (transformative) agency in the context of
+sustainability transitions.
+
+www.annualreviews.org • Sustainability Transitions Research
+
+615
+
+ARI
+
+16 September 2017
+
+11:12
+
+and how they might interact with institutional and policy change. The perspective of reflexive
+governance (121, 122) more broadly looks at how interaction patterns between different actors in
+the context of persistent problems and transitional dynamics (do not) lead to learning, behavioral
+change, and ultimately systemic change. This broader perspective is applied to different types of
+transitions such as the transition in water management (123, 124). The more specific framework
+of transition management has also been applied as a descriptive lens to understand and explain
+the impact of governance processes on past transitions through retrospective case studies (73).
+Examples are reconstructions of how individuals and transition arenas influenced or “managed”
+the course and direction of historical transitions such as in urban water management (63, 116,
+125) and waste management (126). Such studies show how an alternative “transition” discourse
+emerged in coevolution with transformative networks, increasing regime tensions, and growing
+societal pressure. Such networks were able to “play into” incidents such as floods or droughts to
+advance sustainability transitions toward adaptive water governance.
+The approach of strategic niche management builds on the idea of niches as incubation spaces
+for disruptive innovations that are in practice often facilitated through government interventions.
+SNM has informed and served as a framework to analyze niche emergence in specific sectors
+such as energy (127, 128) and to examine movements active in urban contexts (129, 130). SNM
+and constructive technology assessment (131) are used to explore the role of social and technology learning in socio-technical transitions (132). Recognizing key requirements of such learning
+processes, tensions between government levels regarding the role of local needs for directing
+innovations are addressed.
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+6.2. Evaluating Governance in Transitions
+Since the beginning of the take-up of transitions research in formal policy programs, starting with
+the Dutch energy transition program, policy scholars have been using the transition perspective
+to reflect on and evaluate transition policies. This research deepens our understanding of the
+role of policy in sustaining existing regimes and advancing sustainability transitions. Some studies
+critically reflect on the implementation and use of transition management in public policy, debating
+issues of political and power asymmetries (133–136), dilemmas of participation, unmanageability
+of transitions, and the incumbent role of central government itself (137–141). But more broadly
+does this type of research investigate to what extent explicitly transition-oriented policies work
+and in which types of policy mixes (142, 143).
+But transition perspectives also serve to evaluate more general, innovation-based policies and
+formulate recommendations to gear innovation policies more toward transitions. The TIS approach, for example, was and is used in various ways to structure policies for innovation pathways,
+evaluating the developed transition agendas, and formulating new policy interventions (50, 51,
+144). Such evaluative studies have also been applied in health care (52), agriculture (145, 146),
+and mobility (147). These studies inform policy processes by providing a broader transition perspective and raising questions about the focus of innovation, for example, questioning the integral
+nature of policies that often lack attention to upscaling or institutionalization, or raising attention
+to incumbent and competing policies in other domains. Such evaluations often create the space
+for experimental governance processes.
+
+6.3. Experimental Exploration of Transition Governance
+There are several operational tools based on transitions research to try to influence the speed and
+direction of transitions. Examples of such tools are transition arenas, scenarios, and experiments
+616
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+(see also http://www.transitiepraktijk.nl/en). We describe two approaches that have from the
+beginning sought to provide an integrated framework or approach to influence specific dynamics in
+transitions. These take the insights into the system and agency dynamics in transitions as a starting
+point. These are strategic niche management (41, 115, 148, 149) and transition management (3,
+19, 99, 150). Strategic niche management can be regarded as both a research model as well as
+a policy tool (115) and refers to the process of deliberately managing niche formation processes
+through real-life experiments. The core idea is that through experiments with new technologies
+and new socio-technical arrangements, processes of coevolution can be stimulated (35, 43, 151).
+Technologies as well as the contexts (e.g., user preferences, networks, regulation, complementary
+technologies, expectations) in which they develop are worked on simultaneously. Consequently,
+new, more sustainable patterns might emerge, partly embodied in new technologies and in new
+practices based on new experiences and ideas (151). Such experiments can be envisaged as (part of ) a
+niche in which technologies are specified and consumers are defined and concretized. Experiments
+make it possible to establish an open-ended search and learning process, and to work toward societal
+embedding and adoption of a new technology (148).
+Transition management provides a framework and set of tools developing transition-based
+governance strategies, including a broader range of governance instruments such as transition
+arenas, transition scenarios, transition experiments, and transition monitoring. Over the past
+15 years, transition management has been applied to a diverse range of sustainability questions,
+policy contexts, and geographical scales (73, 152) and has become one of the most prevalent
+approaches currently used in parts of Europe to scientifically ground and advance in practice
+the governance of sustainability transitions. The applications have shown that the approach is
+able to support governance of, and for, sustainability transitions (72, 73, 153, 154). In practice
+especially, the transition arena has served to create new networks, discourses, transition agendas,
+and experiments, influencing policy and practice. Reviewing transition management applications
+in developed (Western) European contexts, Loorbach et al. (59) acknowledge that transition
+management is “so far not achieving the aspired large scale systemic changes.” They identify
+several challenges in relation to governance interventions including the question of inclusivity (of,
+e.g., marginalized perspectives), facilitation techniques for social learning and capacity building,
+and regime persistence. This points to current research directions for transition management,
+such as explorations of institutional change and formal policy (27, 52, 62, 63, 74), new forms of
+power (25, 75, 155, 156), and the role of researchers (157).
+
+7. SUSTAINABILITY TRANSITIONS RESEARCH
+AND ITS CHALLENGES
+The field of sustainability transitions has evolved rapidly over the past 15 years. It has become
+a distinct area of research into the nonlinear dynamics of societal change, highly relevant to
+policy and society in the context of grand societal challenges. It has produced several innovative
+concepts, approaches, and instruments that support interdisciplinary and applied research and
+serve innovation practices and policy. It has shaped understanding in policy and society when
+it comes to complex persistent problems. Transition concepts have been used as an underlying
+rationale for certain policy programs at local, national, and international levels and are used as
+an approach to facilitate transformative networks and experiments and to evaluate innovation
+policies. It has added to the development of inter- and transdisciplinarity in academia and is at
+the forefront of what is now increasingly referred to as transformative science (158, 159). This is
+reflected in the way that the field has coevolved with societal change and public discourse, iterates
+www.annualreviews.org • Sustainability Transitions Research
+
+617
+
+ARI
+
+16 September 2017
+
+11:12
+
+with society, and continuously adapts to new issues and questions. This way the field achieves
+plurality while maintaining coherence and direction.
+We have shown that although the field is multidisciplinary, indeed it should be characterized
+as a true field given the shared—even if diverse—notions among the several disciplines, a shared
+interest in a specific type of societal change, and the development of a set of structures to facilitate
+exchange and cooperation. Besides the structural characteristics of a field (e.g., network, journal,
+conferences), it also has a specific culture of interdisciplinarity and quite active groups doing
+research at the intersection between science and society. In this article, we have tried to describe
+the emergence and diversity of transitions research. Transitions research ranges from formal
+(theorizing and describing dynamics in complex societal systems) to interdisciplinary (analyzing
+specific complex societal problems) and applied (experimental testing of hypotheses). We have
+also touched on the diversity of contexts in which the different transition approaches are applied,
+ranging from environmental to economic and spatial systems.
+The growing diversity and increasing societal relevance also pose serious challenges for transitions research. Transitions research developed from a marginal, radical idea advocated by a limited
+number of researchers (niche level) to having shared structures, a dominant discourse, and shared
+practices (niche regime). Such regime characteristics might also complicate further broadening
+and scaling up of the field as it possibly comes with, for example, superficial uses of the concepts,
+fueling skepticism and resistance against the transdisciplinary nature of the research or its “objective” to address such complex and large-scale change. But this lock-in might be enhanced by
+scholars in the field itself, once the frontrunners and now regime actors that might become defensive and unwelcoming to radically renew, revise, or reinvent dominant models and frameworks in
+an ever changing societal context.
+A challenge for the field is thus to stay open to new ideas and different types of societal
+challenges and contexts while maintaining the critical reflexivity and core concepts to facilitate the
+interdisciplinary exchange. New issues that are already emerging, within the context of the current
+transition management regime, are, for example, investigating processes of destabilization and
+collapse (39), economic stagnation and degrowth (160), transition in the democratic system (74),
+and bridging the gap between descriptive analytical transition dynamics and prescriptive transition
+policies (39, 52). However, to really bring the academic and societal potential of transitions research
+to a new level, there is a need for an opening up toward even more heterogeneous perspectives
+and approaches and a critical reflexive evaluation of the field itself. One of the main challenges will
+be translating transitions research to developing contexts. So far developing countries and their
+sustainability challenges have been only sporadically addressed in transitions research even though
+the urgency and gravity of the problems are enormous. Another big challenge is dealing with actual
+crises and shocks emerging in many transition domains: How resilient is the transition theory itself
+as ideas on experimentation and analysis seem to be rather insignificant in the context of largescale disruptive change? Only if transitions research can keep opening up to new perspectives and
+challenges can it renew its capacity for innovation, strengthen its transformative academic impact,
+and enlarge its contribution to societal sustainability.
+By its diversity and societal orientation, we characterize sustainability transitions research as a
+transdisciplinary field, acknowledging that it also involves disciplinary, positivist, and theoretical
+approaches (158, 161, 162). Combined, do all these different approaches and perspectives in a way
+reflect the inherent complexities of the challenges of sustainable development? In that way, the field
+of sustainability transitions research fits within a broader debate around the changing role of science
+under the headers of “postnormal” (163) or “sustainability science” (158, 164). When considering
+the academic merits of transitions research and its contribution to sustainability science, points for
+consideration include the explicit focus on processes that activate sustainability and the practices of
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+618
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+sustainability research at universities (165, 166). Transitions research therefore has a very specific
+identity, as it has developed around a recognizable and shared focus on a specific type of change
+and has a very strong social science/applied side, whereas (especially the US interpretation of )
+sustainability science aligns closer with natural sciences.
+Thus, the very idea of researching sustainability transitions as an act of governance in such
+transitions gives transitions research a very specific character. It necessitates continuous critical
+self-reflection, multi- and interdisciplinary debates, and strong feedback loops from practice, either
+through societal engagement or exchange (161, 167). To cover the whole spectrum required to
+produce theory and hypotheses, experimentally test these in real life, critically reflect, and revise,
+there are many different epistemological positions in the field. These range from modeling (37,
+168, 169) and conceptual (62, 170) to empirical and applied research (171). It is impossible to be
+complete, but the richness of positions and perspectives arguably is a big strength of transitions
+research given that in this way, it facilitates the common research journey supporting the societal
+search for sustainability (167, 172).
+
+DISCLOSURE STATEMENT
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that
+might be perceived as affecting the objectivity of this review.
+
+ACKNOWLEDGMENTS
+This article was made possible by the support of the ARTS project (http://www.
+acceleratingtransitions.eu), which is funded by the European Union’s (EU’s) Seventh Framework Program (FP7) grant agreement 603654, and the Transformative Social Innovation Theory
+(TRANSIT) project, which is funded by FP7 grant agreement 613169. The views expressed in
+this article are solely the responsibility of the authors and do not necessarily reflect the views of
+the EU. The authors are very grateful for Sarah Rach in assisting with finalizing an earlier version
+of the article.
+
+LITERATURE CITED
+1. Sovacool BK. 2016. How long will it take? Conceptualizing the temporal dynamics of energy transitions.
+Energy Res. Soc. Sci. 13:202–15
+2. Verbong G, Loorbach D, eds. 2012. Governing the Energy Transition: Reality, Illusion or Necessity? New
+York: Routledge
+3. Rotmans J, Kemp R, van Asselt M. 2001. More evolution than revolution: transition management in
+public policy. Foresight 3:15–31
+4. Grin J, Rotmans J, Schot J, (collaboration with) Geels FW, Loorbach D, eds. 2010. Transitions to Sustainable Development: New Directions in the Study of Long Term Transformative Change. New York: Routledge
+5. Markard J, Raven R, Truffer B. 2012. Sustainability transitions: an emerging field of research and its
+prospects. Res. Policy 41:955–67
+6. Van den Bergh, Jeroen CJM, Truffer B, Kallis G. 2011. Environmental innovation and societal transitions: introduction and overview. Environ. Innov. Soc. Transit. 1:1–23
+7. Frantzeskaki N, Loorbach D. 2010. Towards governing infrasystem transitions: Reinforcing lock-in or
+facilitating change? Technol. Forecast. Soc. Change 77:1292–301
+8. O’Riordan T. 1996. Politics of Climate Change: A European Perspective. London: Psychology Press
+9. Raskin P. 2002. Great Transition: The Promise and Lure of the Time Ahead. Boston: Stockholm Environ.
+Inst.
+www.annualreviews.org • Sustainability Transitions Research
+
+619
+
+ARI
+
+16 September 2017
+
+11:12
+
+10. Costanza R. 1992. Ecological Economics: The Science and Management of Sustainability. New York: Columbia
+Univ. Press
+11. Kemp R. 1994. Technology and the transition to environmental sustainability. The problem of technological regime shifts. Futures 26:1023–46
+12. Geels FW, en Kemp R. 2000. Transities vanuit sociotechnisch perspectief. Maastricht, Neth.: MERIT,
+Maastricht Univ.
+13. Rip A, Kemp R. 1998. Technological change. In Human Choice and Climate Change, Vol. 2, ed. S Rayner,
+EL Malone, pp. 327–99. Columbus, Ohio: Battelle Press
+14. Arthur WB. 1994. Increasing Returns and Path Dependence in the Economy. Ann Arbor, MI: Univ. Michigan
+Press
+15. van den Bergh JCJM, Gowdy JM. 2000. Evolutionary theories in environmental and resource economics:
+approaches and applications. Environ. Resour. Econ. 17:37–57
+16. O’Riordan T. 2001. Globalism, Localism, and Identity: Fresh Perspectives on the Transition to Sustainability.
+London: Earthscan
+17. Van Asselt MBA, Rotmans J. 1996. Uncertainty in perspective. Glob. Environ. Change 6:121–57
+18. Rotmans J. 1998. Methods for IA: the challenges and opportunities ahead. Environ. Model. Assess. 3:155–
+79
+19. Loorbach D. 2007. Transition Management: New Mode of Governance for Sustainable Development. Rotterdam, Neth.: Erasmus Univ. Rotterdam Press
+20. Voss J, Bauknecht D, Kemp R, eds. 2006. Reflexive Governance for Sustainable Development. Cheltenham,
+UK: Edward Elgar
+21. Wolfram M. 2015. Conceptualizing urban transformative capacity: a framework for research and policy.
+Cities 50:121–30
+22. Wittmayer JM, van Steenbergen F, Rok A, Roorda C. 2015. Governing sustainability: a dialogue between
+Local Agenda 21 and transition management. Local Environ. 21:939–55
+23. Loorbach DA, Lijnis Huffenreuter R. 2013. Exploring the economic crisis from a transition management
+perspective. Environ. Innov. Soc. Transit. 6:35–46
+24. van den Bergh JCJM. 2013. Economic-financial crisis and sustainability transition: introduction to the
+special issue. Environ. Innov. Soc. Transit. 6:1–8
+25. Avelino F, Wittmayer JM. 2016. Shifting power relations in sustainability transitions: a multi-actor
+perspective. J. Environ. Policy Plann. 18:628–49
+26. Grin J, Rotmans J, Schot J. 2011. On patterns and agency in transition dynamics: some key insights from
+the KSI programme. Environ. Innov. Soc. Transit. 1:76–81
+27. Paredis E. 2013. A Winding Road: Transition Management, Policy Change and the Search for Sustainable
+Development. Ghent, Belg.: Ghent Univ.
+28. Seyfang G, Haxeltine A. 2012. Growing grassroots innovations: exploring the role of community-based
+initiatives in governing sustainable energy transitions. Environ. Plann. C 30:381–400
+29. Smith A. 2012. Civil society in sustainable energy transitions. In Governing the Energy Transition: Reality,
+Illusion, or Necessity?, ed. G Verbong, D Loorbach, pp. 190–202. New York: Routledge
+30. European Environment Agency (EEA). 2015. SOER 2015—the European environment—state and outlook
+2015: a comprehensive assessment of the European environment’s state, trends and prospects, in a global context.
+Rep., EEA, Cph., Den. http://www.eea.europa.eu/soer
+31. Organisation for Economic Co-operation and Development (OECD). 2015. System innovation: synthesis report. Rep., OECD, Paris. http://www.innovationpolicyplatform.org/sites/default/files/general/
+SYSTEMINNOVATION_FINALREPORT.pdf
+32. Naberhaus M. 2011. Effective strategies for the great transition: five leverage points for civil society organisations. Conf. Pap., Smart CSO, London. http://www.smart-csos.org/images/Documents/Smart%
+20CSOs%20Report%20english.pdf
+33. VROM. 2001. Where There’s a Will There’s a World. The Hague, Neth.: Ministry Hous., Spatial Plann.
+Environ. (VROM)
+34. Gersick CJG. 1991. Revolutionary change theories: a multi-level exploration of the punctuated equilibrium paradigm. Acad. Manag. Rev. 16:10–36
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+620
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+35. Rip A. 1995. Introduction of new technology: making use of recent insights from sociology and economics
+of technology. Technol. Anal. Strateg. Manag. 7:417–31
+36. Geels FW. 2002. Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study. Res. Policy 31:1257–74
+37. De Haan J. 2010. Towards transition theory. PhD thesis, Erasmus Univ., Rotterdam, Neth. https://
+repub.eur.nl/pub/20593/
+38. Geels F. 2006. Major system change through stepwise reconfiguration: a multi-level analysis of the
+transformation of American factory production. Technol. Soc. 28:445–76
+39. Turnheim B, Berkhout F, Geels F, Hof A, McMeekin A, et al. 2015. Evaluating sustainability transitions pathways: bridging analytical approaches to address governance challenges. Glob. Environ. Change
+35:239–53
+40. Geels FW, Schot J. 2007. Typology of sociotechnical transition pathways. Res. Policy 36:399–417
+41. Kemp R, Schot J, Hoogma R. 1998. Regime shifts to sustainability through processes of niche formation:
+the approach of strategic niche management. Technol. Anal. Strateg. Manag. 10:175–96
+42. Van den Bergh J, Stagl S. 2004. Coevolution of economic behaviour and institutions: towards a theory
+of institutional change. J. Evol. Econ. 13:289–317
+43. Geels F. 2005. Coevolution of technology and society: the multi-level perspective and a case study—the
+transition in water supply and personal hygiene in the Netherlands (1850–1930). Technol. Soc. 27(3):363–
+97
+44. Raven R. 2007. Niche accumulation and hybridisation strategies in transition processes towards a sustainable energy system: an assessment of differences and pitfalls. Energy Policy 35:2390–400
+45. Geels F, Raven R. 2006. Non-linearity and expectations in niche-development trajectories: ups and
+downs in Dutch biogas development (1973–2003). Technol. Anal. Strateg. Manag. 18:375–92
+46. Elzen B, Wieczorek A. 2005. Transitions towards sustainability through system innovation. Technol.
+Forecast. Soc. Change 72:651–61
+47. Smith A, Voß J-P, Grin J. 2010. Innovation studies and sustainability transitions: the allure of the multilevel perspective and its challenges. Res. Policy 39:435–48
+48. Bergek A, Jacobsson S, Carlsson B, Lindmark S, Rickne A. 2008. Analyzing the functional dynamics of
+technological innovation systems: a scheme of analysis. Res. Policy 37:407–29
+49. Jørgensen U. 2012. Mapping and navigating transitions—the multi-level perspective compared with
+arenas of development. Res. Policy 41:996–1010
+50. Hekkert MP, Suurs RA, Negro SO, Kuhlmann S, Smits R. 2007. Functions of innovation systems: a new
+approach for analysing technological change. Technol. Forecast. Soc. Change 74:413–32
+51. Suurs RA. 2009. Motors of Sustainable Innovation: Towards a Theory on the Dynamics of Technological Innovation Systems. Utrecht, Neth.: Utrecht Univ. https://dspace.library.uu.nl/handle/1874/33346
+52. van Raak R. 2016. Transition policies: Connecting system dynamics, governance and instruments in an
+application to Dutch healthcare. PhD thesis, Erasmus Univ., Rotterdam, Neth. https://repub.eur.
+nl/pub/80061/
+53. Frantzeskaki N, Loorbach D, Meadowcroft J. 2012. Governing societal transitions to sustainability. Int.
+J. Sustain. Dev. 15:19–36
+54. Shove E, Walker G. 2010. Governing transitions in the sustainability of everyday life. Res. Policy 39:471–6
+55. Cohen MJ, Brown HS, Vergragt P. 2013. Innovations in Sustainable Consumption: New Economics, Sociotechnical Transitions and Social Practices. Cheltenham, UK: Edward Elgar
+56. Cohen MJ, Szejnwald Brown H, Vergragt PJ, eds. 2017. Social Change and the Coming of Post-consumer
+Society: Theoretical Advances and Policy Implications. New York: Routledge
+57. Tukker A, Emmert S, Charter M, Vezzoli C, Sto E, et al. 2008. Fostering change to sustainable consumption and production: an evidence based view. J. Clean. Prod. 16:1218–25
+58. Coenen L, Benneworth P, Truffer B. 2012. Toward a spatial perspective on sustainability transitions.
+Res. Policy 41:968–79
+59. Loorbach D, Avelino F, Haxeltine A, Wittmayer J, O’Riordan T, et al. 2016. The economic crisis as a
+game changer? Exploring the role of social construction in sustainability transitions. Ecol. Soc. 21:15
+60. Konrad K, Truffer B, Voß J. 2008. Multi-regime dynamics in the analysis of sectoral transformation
+potentials: Evidence from German utility sectors. J. Clean. Prod. 16:1190–202
+www.annualreviews.org • Sustainability Transitions Research
+
+621
+
+ARI
+
+16 September 2017
+
+11:12
+
+61. Beers PJ, Sol J, Wals A. 2010. Social learning in a multi-actor innovation context. Presented at Int. Farm.
+Syst. Assoc. Conf., Vienna, Austria, 3–7 July
+62. Fuenfschilling L, Truffer B. 2014. The structuration of socio-technical regimes—conceptual foundations
+from institutional theory. Res. Policy 43:772–91
+63. Brown RR, Farrelly MA, Loorbach DA. 2013. Actors working the institutions in sustainability transitions:
+the case of Melbourne’s stormwater management. Glob. Environ. Change 23:701–18
+64. Shove E, Walker G. 2008. Transition management and the politics of shape shifting. Environ. Plann. A
+40:1012–14
+65. Hendriks CM. 2009. Policy design without democracy? Making democratic sense of transition management. Policy Sci. 42:341–68
+66. Meadowcroft J. 2009. What about the politics? Sustainable development, transition management, and
+long term energy transitions. Policy Sci. 42:323–40
+67. Kern F, Howlett M. 2009. Implementing transition management as policy reforms: A case study of the
+Dutch energy sector. Policy Sci. 42:391–408
+68. Voß J, Smith A, Grin J. 2009. Designing long-term policy: rethinking transition management. Policy Sci.
+42:275–302
+69. Avelino F. 2011. Power in transition: empowering discourses on sustainability transitions. PhD thesis, Erasmus
+Univ., Rotterdam, Neth. https://repub.eur.nl/pub/30663
+70. Hoffman J. 2013. Theorizing power in transition studies: the role of creativity and novel practices in
+structural change. Policy Sci. 46:257–75
+71. Pel B. 2015. Trojan horses in transitions: a dialectical perspective on innovation “capture.” J. Environ.
+Policy Plann. 18:673–91
+72. Loorbach D, Wittmayer JM, Shiroyama H, Fujino J, Mizuguchi S, eds. 2016. Governance of Urban
+Sustainability Transitions: European and Asian Experiences, Vol. 1. Tokyo: Springer
+73. Frantzeskaki N, Castán Broto V, Coenen L, Loorbach D, eds. 2017. Urban Sustainability Transitions.
+London: Routledge
+74. Jhagroe S, Loorbach D. 2015. See no evil, hear no evil: the democratic potential of transition management. Environ. Innov. Soc. Transit. 15:65–83
+75. Arentsen M, Bellekom S. 2014. Power to the people: Local energy initiatives as seedbeds of innovation?
+Energy Sustain. Soc. 4:1–12
+76. Späth P, Rohracher H. 2010. ‘Energy regions’: the transformative power of regional discourses on
+socio-technical futures. Res. Policy 39:449–58
+77. Avelino F, Dumitru A, Longhurst N, Wittmayer J, Hielscher S, et al. 2015. Transitions towards new
+economies? A transformative social innovation perspective. Work. Pap. 3, TRANSIT
+78. Haxeltine A, Wittmayer J, Avelino F, Kemp R, Weaver P, et al. 2013. Transformative social innovations: a
+sustainability transition perspective on social innovation. Presented Soc. Front. Next Edge Soc. Innov. Res.,
+Nov. 13–14, Glasgow Caledonian Univ., London
+79. Holling CS. 1973. Resilience and stability of ecological systems. Annu. Rev. Ecol. Syst. 4:1–23
+80. Gunderson L, Holling CS, eds. 2002. Panarchy: Understanding Transformations in Human and Natural
+Systems. Washington, DC: Island Press
+81. Rockstrom J, Steffen W, Noone K, Persson A, Chapin FS, et al. 2009. A safe operating space for humanity.
+Nature 461:472–75
+82. Galaz V, Biermann F, Crona B, Loorbach D, Folke C, et al. 2012. “Planetary boundaries”—exploring
+the challenges for global environmental governance. Curr. Opin. Environ. Sustain. 4:80–87
+83. Haberl H, Fischer-Kowalski M, Krausmann F, Martinez-Alier J, Winiwarter V. 2011. A socio-metabolic
+transition towards sustainability? Challenges for another great transformation. Sustainable Dev. 19:1–14
+84. Folke C, Hahn T, Olsson P, Norberg J. 2005. Adaptive governance of socio-ecological systems. Annu.
+Rev. Environ. Resour. 30:441–73
+85. Krausmann F, Schandl H, Sieferle RP. 2008. Socio-ecological regime transitions in Austria and the
+United Kingdom. Ecol. Econ. 65:187–201
+86. Haase D, Frantzeskaki N, Elmqvist T. 2014. Ecosystem services in urban landscapes: practical applications and governance implications. Ambio 43:407–12
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+622
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+87. Chapin III FS, Kofinas GP, Folke C, Chapin MC. 2009. Principles of Ecosystem Stewardship: Resilience-Based
+Natural Resource Management in a Changing World. New York: Springer-Verlag
+88. Steffen W, Persson Å, Deutsch L, Zalasiewicz J, Williams M, et al. 2011. The Anthropocene: from global
+change to planetary stewardship. AMBIO: A J. Hum. Environ. 40:739–61
+89. Österblom H, Gårdmark A, Bergström L, Müller-Karulis B, Folke C, et al. 2010. Making the ecosystem
+approach operational—Can regime shifts in ecological-and governance systems facilitate the transition?
+Mar. Policy 34:1290–99
+90. Olsson P, Galaz V, Boonstra WJ. 2014. Sustainability transformations: a resilience perspective. Ecol. Soc.
+19:1
+91. Jessop B. 2003. Governance and metagovernance: on reflexivity, requisite variety, and requisite irony. In
+Governance, as Social and Political Communication, ed. H Bang, pp. 142–72. Manchester, UK: Manchester
+Univ. Press
+92. Rhodes RAW. 1996. The new governance: governing without government. Polit. Stud. 44:652–67
+93. Beck U, Giddens A, Lash S. 1994. Reflexive Modernization: Politics, Tradition and Aesthetics in the Modern
+Social Order. Stanford, CA: Stanford Univ. Press
+94. Eising R, Kohler-Koch B. 1999. Introduction: network governance in the European Union. In The
+Transformation of Governance in the European Union, ed. B Kohler-Koch, R Eising, pp. 3–13. London:
+Routledge
+95. Hooghe L. and Marks G. 2001. Multi-level Governance and European Integration. Oxford, UK: Rowman
+& Littlefield
+96. Milward HB, Provan KG. 2000. How networks are governed. In Governance and Performance, ed. H
+Lynn, pp. 238–62. Washington, DC: Georgetown Univ. Press
+97. Scharpf F. 1997. The problem solving capacity of multi-level governance. J. Eur. Public Policy 4:520–38
+98. Voss JP, Bauknecht D, Kemp R, eds. 2006. Reflexive Governance for Sustainable Development. Cheltenham,
+UK: Edward Elgar Publ.
+99. Loorbach D. 2010. Transition management for sustainable development: a prescriptive, complexitybased governance framework. Governance 23:161–83
+100. Biermann F, Pattberg P. 2008. Global environmental governance: taking stock, moving forward. Annu.
+Rev. Environ. Resour. 33:277–94
+101. Lemos MC, Agrawal A. 2006. Environmental governance. Annu. Rev. Environ. Resour. 31:297–325
+102. Elkington J. 2006. Governance for sustainability. Corp. Gov. 14:522–29
+103. Nooteboom S. 2006. Adaptive Networks: The Governance for Sustainability. Rotterdam, Neth.: Erasmus
+Univ. Rotterdam Press
+104. Patterson J, Schulz K, Vervoort J, van der Hel S, Widerberg O, et al. 2016. Exploring the governance and politics of transformations towards sustainability. Environ. Innov. Soc. Transit. In press.
+http://dx.doi.org/10.1016/j.eist.2016.09.001
+105. Wittmayer J. 2016. Transition management, action research and actor roles: understanding local sustainability
+transitions. PhD thesis, Erasmus Univ., Rotterdam, Neth. http://hdl.handle.net/1765/94385
+106. Avelino F, Rotmans J. 2011. A dynamic conceptualization of power for sustainability research. J. Clean.
+Prod. 19:796–804
+107. Fischer L, Newig J. 2016. Importance of actors and agency in sustainability transitions: a systematic
+exploration of the literature. Sustainability 8:476
+108. Scholz RW, Spoerri A, Lang DJ. 2009. Problem structuring for transitions: the case of Swiss waste
+management. Futures 41:171–81
+109. Wiek A, Binder C, Scholz R. 2006. Functions of scenarios in transition processes. Futures 38:740–66
+110. Hisschemoller M, Hoppe R, Dunn WN, Ravetz JR, ed. 2001. Knowledge, Power, and Participation in
+Environmental Policy Analysis. New Brunswick, NJ: Transaction Publ.
+111. Sondeijker S, Geurts J, Rotmans Tukker A. 2006. Imagining sustainability: the added value of transition
+scenarios in transition management. Foresight 8:15–30
+112. Quist J, Vergragt P. 2006. Past and future of backcasting: the shift to stakeholder participation and a
+proposal for a methodological framework. Futures 38:1027–45
+113. Nevens F, Frantzeskaki N, Gorissen L, Loorbach D. 2013. Urban transition labs: co-creating transformative action for sustainable cities. J. Clean. Prod. 50:111–22
+www.annualreviews.org • Sustainability Transitions Research
+
+623
+
+ARI
+
+16 September 2017
+
+11:12
+
+114. Brown HS, Vergragt PJ, Green K, Berchicci L. 2004. Bounded sociotechnical experiments (BSTEs):
+higher order learning for transitions towards sustainable mobility. In System Innovation and the Transition
+to Sustainability: Theory, Evidence, and Policy, ed. B Elzen, FW Geels, K Green, pp. 191–222. Cheltenham,
+UK: Edward Elgar Publ.
+115. Raven R, Van den Bosch S, Weterings R. Transitions and strategic niche management: towards a competence kit for practitioners. Int. J. Technol. Manag. 51.1:57–74
+116. Bos J, Brown R. 2012. Governance experimentation and factors of success in socio-technical transitions
+in the urban water sector. Technol. Forecast. Soc. Change 79:1340–53
+117. Loeber A, Van Mierlo B, Leeuwis C, Grin J. 2007. The practical value of theory: conceptualizing learning
+in the pursuit of a sustainable development. In Social Learning Toward a More Sustainable World: Principles,
+Perspectives, and Praxis, ed. A Wals, T Van der Leij, pp. 83–98. Wageningen, Neth.: Wageningen Acad.
+Publ.
+118. Sol J, Beers PJ, Wals AE. 2013. Social learning in regional innovation networks: trust, commitment and
+reframing as emergent properties of interaction. J. Clean. Prod. 49:35–43
+119. Grin J, Weterings R. 2005. Reflexive monitoring of systems innovative projects: strategic nature and relevant
+competences. Presented at Open Meet. Human Dimensions Global Environ. Change Res. Commun., 6th,
+Bonn, Ger., Oct. 9–13
+120. Taanman M. 2014. Looking for transitions: a monitoring approach to improve transition programmes. PhD
+thesis, Erasmus Univ., Rotterdam, Neth. https://repub.eur.nl/pub/77582
+121. Hendriks CM, Grin J. 2007. Contextualizing reflexive governance: the politics of Dutch transitions to
+sustainability. J. Environ. Policy Plann. 9:333–50
+122. Voss J, Bauknecht D, Kemp R, ed. 2006. Reflexive Governance for Sustainable Development. Cheltenham,
+UK: Edward Elgar
+123. Pahl-Wostl C, Downing T, Kabat P, Magnuszewski P, Meigh J, et al. 2005. Transition to adaptive water
+management: The NeWater project. NeWater Work. Pap., Inst. Environ. Syst. Res., Univ. Osnabrück.
+http://nora.nerc.ac.uk/1018/
+124. Van der Brugge R, Rotmans J, Loorbach D. 2005. The transition in Dutch water management. Reg.
+Environ. Change 5:164
+125. de Haan FJ, Rogers BC, Frantzeskaki N, Brown R. 2015. Transitions through a lens of urban water.
+Environ. Innov. Sustain. Transit. 15:1–10
+126. Parto S, Loorbach D, Lansink A, Kemp R. 2007. Transitions and institutional change: the case of
+the Dutch waste subsystem. In Industrial Innovation and Environmental Regulation: Developing Workable
+Solutions, ed. S Parto, B Herbert-Copley, pp. 233–57. Tokyo: United Nations University Press
+127. Van Eijck J, Romijn H. 2008. Prospects for Jatropha biofuels in Tanzania: an analysis with strategic
+niche management. Energy Policy 36:311–25
+128. Van der Laak W, Raven R, Verbong G. 2007. Strategic niche management for biofuels: analysing past
+experiments for developing new biofuel policies. Energy Policy 35:3213–25
+129. Späth P, Rohracher H. 2012. Local demonstrations for global transitions—dynamics across governance
+levels fostering socio-technical regime change towards sustainability. Eur. Plann. Stud. 20:461–79
+130. Rohracher H. 2001. Managing the technological transition to sustainable construction of buildings: a
+socio-technical perspective. Technol. Anal. Strateg. Manag. 13:137–50
+131. Schot J, Rip A. 1997. The past and future of constructive technology assessment. Technol. Forecast. Soc.
+Change 54:251–68
+132. Schreuer A, Ornetzeder M, Rohracher H. 2010. Negotiating the local embedding of socio-technical
+experiments: a case study in fuel cell technology. Technol. Anal. Strateg. Manag. 22:729–43
+133. Shove E, Walker G. 2007. CAUTION! Transitions ahead: politics, practice, and sustainable transition
+management. Environ. Plann. A 39:763–70
+134. Meadowcroft J. 2011. Engaging with the politics of sustainability transitions. Environ. Innov. Soc. Transit.
+1:70–75
+135. Avelino F, Grin J, Pel B, Jhagroe S. 2016. The politics of sustainability transitions. J. Environ. Policy
+Plann. 18(5):557–67
+136. Hendriks CM, Grin J. 2007. Contextualizing reflexive governance: the politics of Dutch transitions to
+sustainability. J. Environ. Policy Plann. 9:333–50
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+624
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+ARI
+
+16 September 2017
+
+11:12
+
+137. Kern F, Smith A. 2007. Restructuring energy systems for sustainability? Energy transition policy in the
+Netherlands. Energy Policy 36:4093–103
+138. de Gooyert V, Rouwette E, van Kranenburg H, Freeman E, van Breen H. 2016. Sustainability transition
+dynamics: towards overcoming policy resistance. Technol. Forecast. Social Change 111:135–45
+139. Smith A, Kern F. 2009. The transitions storyline in Dutch environmental policy. Environ. Polit. 18:78–98
+140. Van Der Loo F, Loorbach D. 2012. The Dutch Energy Transition project (2000–2009). See Ref. 2,
+pp. 220–50
+141. Verbong G, Geels F. 2006. The ongoing energy transition: lessons from a socio-technical, multi-level
+analysis of the Dutch electricity system (1960–2004). Energy Policy 13:45–59
+142. Rogge KS, Reichardt K. 2016. Policy mixes for sustainability transitions: an extended concept and
+framework for analysis. Res. Policy 45:1620–35
+143. Kivimaa P, Kern F. 2016. Creative destruction or mere niche support? Innovation policy mixes for
+sustainability transitions. Res. Policy 45:205–17
+144. Alkemade F, Hekkert MP, Negro SO. 2011. Transition policy and innovation policy: Friends or foes?
+Environ. Innov. Societal Transitions 1:125–29
+145. Grin J. 2012. The politics of transition governance in Dutch agriculture. Conceptual understanding and
+implications for transition management. Int. J. Sustain. Dev. 15:72–89
+146. Spaargaren G, Oosterveer P, Loeber A. 2013. Food Practices in Transition: Changing Food Consumption,
+Retail and Production in the Age of Reflexive Modernity. New York: Routledge
+147. Geels F, Kemp R, Dudley G, Lyons G. 2011. Automobility in Transition? A Socio-technical Analysis of
+Sustainable Transport. New York: Routledge
+148. Hoogma R, Kemp R, Schot J, Truffer B. 2004. Experimenting for sustainable transport: the approach
+of strategic niche management. Technol. Anal. Strat. Manag. 16(4):561–66
+149. Schot J, Geels FW. 2008. Strategic niche management and sustainable innovation journeys: Theory,
+findings, research agenda, and policy. Technol. Anal. Strateg. Manag. 20:537–54
+150. Kemp R, Loorbach D. 2003. Governance for sustainability through transition management. Presented at
+Open Meet. Hum. Dimensions Glob. Environ. Change Res. Commun., Montreal, Canada, Oct. 16–18.
+http://sedac.ciesin.columbia.edu/openmeeting/side.html
+151. Kemp R, Rip A, Schot J. 2001. Constructing transition paths through the management of niches. In Path
+Dependence and Creation, ed. R Garud, P Karnoe, pp. 269–99. Mahwa, NJ: Lawrence Erlbaum
+152. Loorbach D. 2014. To Transition! Governance Panarchy in the New Transformation. Rotterdam, Neth.:
+Dutch. Res. Inst. Trans., Erasmus Univ.
+153. Nevens F, Frantzeskaki N, Gorissen L, Loorbach D. 2013. Urban transition labs: co-creating transformative action for sustainable cities. J. Clean. Prod. 50:111–22
+154. Ernston H, Van der Leeuw S, Redman C, Meffert D, Davis G, et al. 2010. Urban transitions: on urban
+resilience and human-dominated ecosystems. AMBIO: A J. Hum. Environ. 39:531–45
+155. Hess DJ. 2014. Sustainability transitions: a political coalition perspective. Res. Policy 43:278–83
+156. Bosman R, Loorbach D, Frantzeskaki N, Pistorius T. 2014. Discursive regime dynamics in the Dutch
+energy transition. Environ. Innov. Soc. Transit. 14:45–59
+157. Wittmayer JM, Schäpke N. 2014. Action, research and participation: roles of researchers in sustainability
+transitions. Sustain. Sci. 9:483–96
+158. Lang DJ, Wiek A, Bergmann M, Stauffacher M, Martens P, et al. 2012. Transdisciplinary research in
+sustainability science: practice, principles, and challenges. Sustain. Sci. 7:25–43
+159. Hadorn GH, Bradley D, Pohl C, Rist S, Wiesmann U. 2006. Implications of transdisciplinarity for
+sustainability research. Ecol. Econ. 60:119–28
+160. Kallis G, Kerschner C, Martinez-Alier J. 2012. The economics of degrowth. Ecol. Econ. 84:172–80
+161. Miller TR, Wiek A, Sarewitz D, Robinson J, Olsson L, et al. 2014. The future of sustainability science:
+a solutions-oriented research agenda. Sustainability Sci. 9:239–46
+162. Wittmayer J, Schäpke N, Feiner G, Piotrowski R, van Steenbergen F, Baasch S. 2013. Action research
+for sustainability: reflections on transition management in practice. Res. Brief, InContext, FP7. https://
+www.researchgate.net/profile/Niko_Schaepke/publication/262378898_Action_research_for_
+sustainability_-_Reflection_on_transition_management_in_practice/links/
+00b7d5378f4a31c5ad000000.pdf
+www.annualreviews.org • Sustainability Transitions Research
+
+625
+
+ARI
+
+16 September 2017
+
+11:12
+
+163. Funtowicz SO, Ravetz JR. 1993. Science for the post-normal age. Futures 25:739–55
+164. Kates RW, Clark WC, Corell R, Hall JM, Jaeger C, et al. 2001. Environment and development—
+sustainability science. Science 292:641–42
+165. Yarime M, Trencher G, Mino T, Scholz RW, Olsson L, et al. 2012. Establishing sustainability science
+in higher education institutions: towards an integration of academic development, institutionalization,
+and collaborations with stakeholders. Sustain. Sci. 7(1):101–13
+166. Trencher G, Bai X, Evans J, McCormick K, Yarime M. 2014. University partnerships for co-designing
+and co-producing urban sustainability. Glob. Environ. Change 28:153–65
+167. Loorbach D, Frantzeskaki N, Thissen W. 2011. A transition research perspective on governance for
+sustainability. In European Research on Sustainable Development, ed. C Jaeger, JD Tábara, J Jaeger, pp. 73–
+89. Berlin, Heidelberg: Springer
+168. Köhler J, Whitmarsh L, Nykvist B, Schilperoord M, Bergman N, Haxeltine A. 2009. A transitions model
+for sustainable mobility. Ecol. Econ. 68:2985–95
+169. Yücel G. 2010. Analyzing transition dynamics: The actor-option framework for modelling socio-technical systems. PhD Thesis, Delft Univ. Technol., Delft, Neth. http://repository.tudelft.nl/islandora/object/
+uuid%3Aef6df5cc-ac64-4b33-bc05-3d6a0b98727d?collection = research
+170. Frantzeskaki N, Grin J, Thissen W. 2016. Drifting between transitions, the case of the Greek environmental transition in relation to the river Acheloos Diversion project. Technol. Forecast. Soc. Change
+102:275–86
+171. Wittmayer JM, Schäpke N. 2014. Action, research and participation: roles of researchers in sustainability
+transitions. Sustain. Sci. 9:483–96
+172. Audet R. 2014. The double hermeneutic of sustainability transitions. Environ. Innov. Soc. Transit. 11:46–
+49
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+EG42CH22-Loorbach
+
+626
+
+Loorbach
+
+·
+
+Frantzeskaki
+
+·
+
+Avelino
+
+EG42_FrontMatter
+
+ARI
+
+22 September 2017
+
+Annual Review of
+Environment
+and Resources
+
+9:43
+
+Contents
+
+Volume 42, 2017
+
+I. Integrative Themes and Emerging Concerns
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Plastic as a Persistent Marine Pollutant
+Boris Worm, Heike K. Lotze, Isabelle Jubinville, Chris Wilcox, and Jenna Jambeck p p p p p p 1
+African Environmental Change from the Pleistocene
+to the Anthropocene
+Colin Hoag and Jens-Christian Svenning p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p27
+The Intergovernmental Panel on Climate Change: Challenges and
+Opportunities
+Mark Vardy, Michael Oppenheimer, Navroz K. Dubash, Jessica O’Reilly,
+and Dale Jamieson p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p55
+The Concept of the Anthropocene
+Yadvinder Malhi p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p77
+Marked for Life: Epigenetic Effects of Endocrine
+Disrupting Chemicals
+Miriam N. Jacobs, Emma L. Marczylo, Carlos Guerrero-Bosagna,
+and Joëlle Rüegg p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 105
+II. Earth’s Life Support Systems
+Degradation and Recovery in Changing Forest Landscapes:
+A Multiscale Conceptual Framework
+Jaboury Ghazoul and Robin Chazdon p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 161
+III. Human Use of the Environment and Resources
+Drivers of Human Stress on the Environment
+in the Twenty-First Century
+Thomas Dietz p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 189
+Linking Urbanization and the Environment: Conceptual and
+Empirical Advances
+Xuemei Bai, Timon McPhearson, Helen Cleugh, Harini Nagendra,
+Xin Tong, Tong Zhu, and Yong-Guan Zhu p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 215
+
+vi
+
+EG42_FrontMatter
+
+ARI
+
+22 September 2017
+
+9:43
+
+Debating Unconventional Energy: Social, Political,
+and Economic Implications
+Kate J. Neville, Jennifer Baka, Shanti Gamper-Rabindran, Karen Bakker,
+Stefan Andreasson, Avner Vengosh, Alvin Lin, Jewellord Nem Singh,
+and Erika Weinthal p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 241
+
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Emerging Technologies for Higher Fuel Economy
+Automobile Standards
+Timothy E. Lipman p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 267
+The Future of Low-Carbon Electricity
+Jeffery B. Greenblatt, Nicholas R. Brown, Rachel Slaybaugh, Theresa Wilks,
+Emma Stewart, and Sean T. McCoy p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 289
+Organic and Conventional Agriculture: A Useful Framing?
+Carol Shennan, Timothy J. Krupnik, Graeme Baird, Hamutahl Cohen,
+Kelsey Forbush, Robin J. Lovell, and Elissa M. Olimpi p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 317
+Smallholder Agriculture and Climate Change
+Avery S. Cohn, Peter Newton, Juliana D.B. Gil, Laura Kuhl,
+Leah Samberg, Vincent Ricciardi, Jessica R. Manly, and Sarah Northrop p p p p p p p p p p p p 347
+The Future Promise of Vehicle-to-Grid (V2G) Integration:
+A Sociotechnical Review and Research Agenda
+Benjamin K. Sovacool, Jonn Axsen, and Willett Kempton p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 377
+Technology and Engineering of the Water-Energy Nexus
+Prakash Rao, Robert Kostecki, Larry Dale, and Ashok Gadgil p p p p p p p p p p p p p p p p p p p p p p p p p p p p 407
+IV. Management and Governance of Resources and Environment
+Landscape Approaches: A State-of-the-Art Review
+Bas Arts, Marleen Buizer, Lumina Horlings, Verina Ingram, Cora van Oosten,
+and Paul Opdam p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 439
+Foreign Direct Investment and the Environment
+Matthew A. Cole, Robert J.R. Elliott, and Liyun Zhang p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 465
+Land Tenure Transitions in the Global South: Trends, Drivers,
+and Policy Implications
+Thomas K. Rudel and Monica Hernandez p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 489
+Ecosystem Services from Transborder Migratory Species: Implications
+for Conservation Governance
+Laura López-Hoffman, Charles C. Chester, Darius J. Semmens,
+Wayne E. Thogmartin, M. Sofia Rodrı́guez-McGoffin, Robert Merideth,
+and Jay E. Diffendorfer p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 509
+
+Contents
+
+vii
+
+EG42_FrontMatter
+
+ARI
+
+22 September 2017
+
+9:43
+
+V. Methods and Indicators
+Legacies of Historical Human Activities in Arctic Woody Plant
+Dynamics
+Signe Normand, Toke T. Høye, Bruce C. Forbes, Joseph J. Bowden,
+Althea L. Davies, Bent V. Odgaard, Felix Riede, Jens-Christian Svenning,
+Urs A. Treier, Rane Willerslev, and Juliane Wischnewski p p p p p p p p p p p p p p p p p p p p p p p p p p p p 541
+Toward the Next Generation of Assessment
+Katharine J. Mach and Christopher B. Field p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 569
+Annu. Rev. Environ. Resour. 2017.42:599-626. Downloaded from www.annualreviews.org
+Access provided by University of Zurich - Hauptbibliothek on 06/23/23. For personal use only.
+
+Sustainability Transitions Research: Transforming Science and
+Practice for Societal Change
+Derk Loorbach, Niki Frantzeskaki, and Flor Avelino p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 599
+Attribution of Weather and Climate Events
+Friederike E.L. Otto p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 627
+Material Flow Accounting: Measuring Global Material Use for
+Sustainable Development
+Fridolin Krausmann, Heinz Schandl, Nina Eisenmenger, Stefan Giljum,
+and Tim Jackson p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 647
+The Impact of Systematic Conservation Planning
+Emma J. McIntosh, Robert L. Pressey, Samuel Lloyd, Robert J. Smith,
+and Richard Grenyer p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 677
+Indexes
+Cumulative Index of Contributing Authors, Volumes 33–42 p p p p p p p p p p p p p p p p p p p p p p p p p p p 699
+Cumulative Index of Article Titles, Volumes 33–42 p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 705
+Errata
+An online log of corrections to Annual Review of Environment and Resources articles may
+be found at http://www.annualreviews.org/errata/environ
+
+viii
+
+Contents
+
+

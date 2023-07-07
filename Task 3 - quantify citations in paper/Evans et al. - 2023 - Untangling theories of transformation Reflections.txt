@@ -1,0 +1,1117 @@
+Marine Policy 155 (2023) 105710
+
+Contents lists available at ScienceDirect
+
+Marine Policy
+journal homepage: www.elsevier.com/locate/marpol
+
+Untangling theories of transformation: Reflections for ocean governance
+Tegan Evans a, b, *, Stephen Fletcher a, Pierre Failler b, c, Jonathan Potts a, b
+a
+
+The School of the Environment, Geography and Geosciences, Buckingham Building, Lion Terrace, Portsmouth PO1 3HE, UK
+Centre for Blue Governance, Faculty of Economics and Law, University of Portsmouth, Portsmouth P01 3DE, UK
+c
+Economics and Finance Group, Portsmouth Business School, University of Portsmouth, Portsmouth, UK
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Transformation
+Transformative change
+Ocean governance
+Socio-ecological system
+Socio-technical system
+Transition
+
+Transformation as a concept has gained prominence in environmental governance as a proposed solution to the
+plethora of major global crises facing ocean spaces. Recent analysis has begun exploring the concept within the
+context of ocean governance. However, the question of how transformation is achieved is hindered by a
+perceived lack of clarity, multiple interpretations of the concept, and its growing buzzword status. This
+comprehensive review untangles theories of transformation in the context of ocean governance by proposing a
+conceptual ‘Taxonomy of Transformation’ and synthesises key attributes of definitions of transformation. Con­
+ceptualisations of transformation converge around depth of change, but have different interpretations of speed
+and scale, which highlight potential risks to implementing transformation. In light of this, this review proposes
+an interpretation of transformation in ocean governance that synthesises multiple theoretical perspectives, and
+moves towards a more contextually nuanced and less prescriptive approach to transformation.
+
+1. Introduction
+Arguably, ocean management is not fit for purpose [19,34]. Despite
+the awareness of humanity’s dependence on the ocean for everything
+from climate regulation to sustenance, the increasing extent, diversity
+and negative impacts of human activity in ocean spaces is unprece­
+dented [41]. Globally, the ‘Blue Acceleration’ into ocean environments
+has led to increased commercialisation, resulting in the dominance of
+100 corporations over the ocean economy [41,75]. The triple threat of
+climate change, biodiversity loss, and pollution are direct consequences
+of human activities on nature and are ‘self-inflicted’ crises [74]. Efforts
+to address these challenges have had mixed results. The Aichi Biodi­
+versity Targets have not been met [66]. The Sustainable Development
+Goals (SDGs) are failing to catalyse the action needed to achieve sus­
+tainable development [8,12]. Progress to achieving SDG 14 in particular
+has been limited [3]. Fragmented ocean management has not prevented
+these crises and lacks capacity to provide the multiple simultaneous
+solutions needed [20]. The failure to agree upon the Biodiversity Beyond
+National Jurisdiction (BBNJ) Treaty earlier in 2022 is evidence of this
+inability to manage ocean spaces.
+In light of these failures, increasing demands are being made for a
+change in the relationship between humanity and oceans [63]. Given the
+recognition of the interconnectivity and compounding nature of these
+
+crises, there is a strong call for transformative change as a solution [64,
+73,74].
+Transformation is not a new concept to global governance, particu­
+larly in the context of sustainability and climate change. It is seen to
+evoke an ambitious and innovative context for change [9]. However, it is
+an amorphous term, used often without definition leading to its
+perception as a buzzword [9,71]. If it is condemned to such status, its
+power to catalyse change will diminish rapidly.
+Transformation is invoked as a concept in multiple ways, ranging
+from prescriptive and normative within policy, to descriptive and
+analytical with academia [9,13]. Beyond its invocation in global policy,
+there is limited understanding of what this term entails. Narratives
+surrounding the objective of transformation in ocean spaces are
+expansive, including “what we do, how we do it, and who influences”
+([27], p. 2). Beyond broad agreement that change is needed in ocean
+spaces, there is no consensus as to what this looks like or how it is
+achieved. Therefore, there is a practical question around what the
+concept means and how this influences its operationalisation.
+In 2012, O’Brien wrote a seminal paper that outlined the “surprising
+and disconcerting” lack of literature and knowledge surrounding the
+concept of transformation as a response to global crises. It has been
+continually reinforced that transformation lacks cohesive theoretical
+understanding (as outlined by Shove [67] and re-asserted by Blythe
+
+* Corresponding author at: The School of the Environment, Geography and Geosciences, Buckingham Building, Lion Terrace, Portsmouth PO1 3HE, UK.
+E-mail address: tegan.evans@port.ac.uk (T. Evans).
+https://doi.org/10.1016/j.marpol.2023.105710
+Received 28 September 2022; Received in revised form 6 April 2023; Accepted 1 June 2023
+Available online 6 June 2023
+0308-597X/© 2023 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+et al., [9]) and does not have an established set of practices or norms.
+This review adopts these hypotheses, along with [53] observation that
+transformation means ‘‘different things to different people or groups” as
+a baseline for a literature review. Since [53] publication, the concept of
+transformation has experienced swift growth within literature and pol­
+icy circles, with debate spanning potential avenues and pathways of
+transformation, and what the term means in practice. Therefore, a
+practical definition of transformation is required to ensure that the
+various initiatives implemented under these calls for transformation
+follow the similar guiding attributes.
+This paper provides a timely review of the landscape of trans­
+formation in academic literature and begins to untangle the character­
+istics of transformation specifically in ocean governance. Mapping the
+landscape of existing theorisations of transformation through the
+proposition of a heuristic Taxonomy of Transformation in Section 2 al­
+lows for exploration of the attributes of transformation from a multi­
+disciplinary perspective. The major attributes of transformation are
+discussed, including conceptual advances, debates, and gaps in the field
+of transformation. Finally, a definition of transformation in ocean
+governance is synthesised.
+In framing and identifying transformation as a solution to the mul­
+tiple crises facing oceans, this review focuses on deliberate trans­
+formations (which are a result of human agency) and excludes emergent
+transformations which do not result from human agency [26]. The
+limitation of adopting agency as an intrinsic element of transformation
+is the presumption that transformation must have a determined end
+point. This is not true, transformations can start with no clear consensus
+as to what the end goal of change is. At some scales, this may be pref­
+erable as it allows for reflexive learning to guide transformation.
+
+such as general systems change literature, climate change adaptation,
+and transition literature. Following the snowball technique, a further
+106 articles were reviewed that were not immediately identified
+through the Boolean Search. It is also noted that through the search
+methods employed, ‘blue’ was not included as a search term, meaning
+that literature such as blue justice, blue governance or other
+process-oriented approaches to transformation have not been included
+as part of this review.
+2. Taxonomy of transformation
+Transformation means different things to different people [53],
+resulting in an urgent need for transparency in its use. This review
+identified 43 distinct definitions of transformation, which were
+reviewed for content and construction with the aim of identifying the
+characteristics of and theoretical implications within different con­
+ceptualisations of transformation. First, the major theoretical ap­
+proaches to transformation are identified.
+It is well identified that transformation can be loosely separated into
+different theoretical backgrounds [6,10], allowing for it to be mapped in
+a pseudo-taxonomical fashion (Fig. 1). These include socio-ecological
+systems (SES), socio-technical systems (STS), and general systems
+thinking approaches to transformation. Additional non-systemic ap­
+proaches to transformation were identified, including social and politi­
+cal theories of transformation, theories of change and organisational
+change management. These are discussed further in Section 2.4.
+From these high-level system framings, further approaches to
+transformation can be identified, differing in characteristics, processes
+and type of transformation analysed. Significant conceptual differences
+and debate exist within these theories, resulting in a messy and sporadic
+theoretical landscape with both divergence and synergy. From a prac­
+tical perspective, the challenge is therefore not a lack of understanding
+of transformation, but rather that there are many different theoretical
+directions in which transformation can be understood. This is simulta­
+neously a virtue and limitation, with the plurality of interpretation
+arguably necessary when considering the magnitude of change evoked
+through ‘transformation.’ However, from a practical perspective, it
+seems as if almost anything can be defined as transformative with there
+being little unifying characteristics, processes or conceptualisations
+identified. It is daunting to translate this complexity into a practical
+context, which heightens the risk of greenwashing and adopting
+business-as-usual practices under the banner of transformation.
+Thus, a rounded definition in the context of ocean governance is
+required, which synthesises and evaluates the different theoretical ap­
+proaches. As a field, it lacks cohesive direction, as explored in Section 3.
+Many uses of transformation do not have an explicitly identified
+theoretical background. Instead, many adopt a holistic disciplinary
+perspective, using elements of SES, STS and general systems thinking
+principles in their conceptualisations of transformation. Papers often
+discussed theories such as adaptation or transition, which were
+commonly associated with either a SES or STS framing but did not
+explicitly incorporate the broader theories of such a framing. This move
+to a theoretically blended understanding of transformation is reflected
+in literature, as evidenced in the framing of socio-ecological-technical
+systems, and a growth in literature exploring the synergies and poten­
+tial lessons of SES, STS and transition approaches to change. There is
+significant opportunity for learning from these different perspectives
+and adopting a more blended and holistic approach to conceptualisa­
+tions of transformation.
+This review and the existing variety of classifications (such as Nalau
+and Handmer [52] and Feola [23]) shows that existing attempts to un­
+derstand transformation do not exist in neatly defined silos, and sig­
+nificant conceptual overlaps exist between these categories. Imposing
+strict delineations onto these resultant theories is a complex and a futile
+endeavour, and a multi-disciplinary approach to transformation should
+be adopted. The remainder of the section details the major similarities
+
+1.1. Research design
+This review adopts the position that transformation as a concept does
+not and should not belong to a single academic discipline. Despite this
+review targeting scientific literature and interpretations of trans­
+formation, it is recognised that diverse knowledge forms, such as art,
+historical knowledge, and ingenious knowledge, are vital in exploring
+the societal connotations and understandings of transformation. How­
+ever, it is recognised that the exclusion of these forms of knowledge in
+this review is a critical barrier to a full and holistic interpretation of
+transformation. The primary purpose of this review is to situate and
+contextualise transformation in scientific literature, incorporating in­
+sights from different perspectives, such as climate, sustainable devel­
+opment, and biodiversity governance where relevant and does not limit
+scope of literature included.
+A Boolean Search was used to identify key literature, using search
+terms “transformation” AND “transformative governance” AND “trans­
+formative ocean governance” in literature databases such as Google
+Scholar, Web of Science and Scopus. From this initial sample of papers, a
+snowball methodology was used to identify further relevant literature,
+whereby papers that were not initially included in the review were
+identified from citations in identified papers. Prior to analysis, titles and
+abstracts were reviewed for relevance; Literature was excluded based on
+breadth of perspective, for example, if titles and abstracts focused too
+narrowly on technical elements of transition management (such as Geels
+and Schot’s [29] typology of transitions). Literature was also rejected if
+it outlined reasons for transformation, or incited a call for change, rather
+than discussing transformation as a concept.
+Given that this review seeks to reassert if a “surprising and discon­
+certing” lack of literature and knowledge surrounding transformation
+[53] still exits, papers published prior to 2012 were not included unless
+needed to add detail or context to an earlier paper. The initial literature
+search was conducted in May, 2022 and considering the rapid growth of
+transformative literature, papers published between May and the sub­
+mission date of September 2022 were also included where possible. 62
+initial articles were reviewed in total, spanning various perspectives,
+2
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+Fig. 1. Taxonomy of transformation literature identified. Where relevant, key papers have been identified, and key ocean papers are highlighted in grey. Conceptual
+overlaps are indicated by dotted lines. This Taxonomy builds on previous categorization efforts by Feola [23] and Nalau and Handmer [52].
+
+and differences between these different understandings of trans­
+formation in order to propose a nuanced interpretation of trans­
+formation in ocean governance in the context of scientific literature.
+
+2.2. Socio-ecological systems
+SES framing was the most common theoretical perspective identi­
+fied, which is cognizant with Blythe et al.’s (2021) observation that SES
+is the prevailing theory of transformation of ocean governance in both
+policy and academia. Although many definitions of SES exist, it gener­
+ally regards human and natural systems as interdependent and of equal
+value [17,26]. Such a conceptualisation of the relationship between
+society and ecology requires different “ontological and epistemological
+commitments” resulting in different forms of governance ([32], p. 255;
+[25]).
+Conceptualisations of change within SES are difficult to untangle but
+can be loosely separated into adaptation and resilience, with significant
+synergy between the two. Both conceptualisations can be viewed as a
+desired end state or desired inherent system characteristics. Adaptive
+governance can simultaneously be regarded as a continuous process or
+desired end state through which resilience thinking is employed.
+Transformation is defined and deployed subtly differently within
+these frames of thinking [59]. Adaptive governance adopts multiple
+conceptualisations of transformation, as outlined in the proposed Tax­
+onomy (Fig. 1). Adaptation conceptualises transformation either as part
+of an adaptive response [57,60] or as an entirely separate and new
+process [16,26,51,80]. Alternatively, transformational adaptation is a
+specific and unique process [42]. Kates, Travis and Wilbanks [42]
+outline three types of transformational adaptation: adaptation which
+occurs at a larger scale, adaptations that are ‘truly new’ to a location or
+resource system, adaptations that transform places. As such, trans­
+formation in the context of adaptation can mean different things
+depending on the specific theory ascribed to, necessitating clarity in
+specifically what characteristics of change are ascribed to a trans­
+formative process.
+Resilience is defined as “the ability of a system to anticipate, adapt or
+
+2.1. Systems thinking
+Most of the theories and conceptualisations of transformation are
+based on systems thinking, and the understanding of the world as a
+dynamic, complex and multi-level system [23]. Systems thinking is a
+well-established concept that is used in many disciplines and contexts,
+from policy to organisational change. Concepts such as tipping points,
+leverage points and feedback loops are used across differing approaches
+to transformation, and are present in multiple narratives of change.
+Using a systems perspective challenges a different way of understanding
+and visualising the relationship between different elements of gover­
+nance systems [50].
+From this general systems perspective, transformation can be viewed
+through the lens of SES or STS. Other framings exist, such as the socioinstitutional perspective, but these are less common in literature. In
+general, these systemic framings can be divided by how the problem is
+framed: if a problem is regarded as narrow or broad [14]. A narrow
+problem can be solved by “applying greater expertise, more innovation,
+and better management” and adopting a technocratic perspective ([54],
+p. 154). In contrast, if a problem is viewed as broad, adaptive and
+emergent approaches are used which can be framed as requiring “a new
+way of viewing both problems and solutions” ([54], p. 154). While it is
+tempting to frame transformation in ocean governance as a technical
+problem, in reality the multilevel nature of the triple ocean crises can be
+viewed as an “opportunity to radically rethink and rebuild” ([32], p.
+256).
+
+3
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+transform in the face of change” and is regarded as an important
+governance approach in times of crises ([10,26], p. 242). In SES, the
+distinction between transformation and resilience is contested. For
+some, transformability is a fundamental characteristic of a resilient
+system [23,26,79].
+Transformation in the perspective of resilience has been explored in
+an ocean governance context by Blythe et al., [11] and in a national
+fisheries setting by Gelcich et al., [30], using the Olsson framework of
+transformation [55]. This framework conceptualises transformation as a
+deliberate and planned process, having three phases: (i) preparing for
+transformation, (ii) navigating a transition, and (iii) building resilience
+[55]. Both case studies identify the need for a ‘window of opportunity’
+or tipping point to catalyse action to build resilience. It is not clear how
+such tipping points or catalysts for change fit with the identified need for
+deliberate transformation in ocean governance.
+
+transition theories, theories of change are simultaneously a way of
+conceptualising change, a process and a product [62]. No examples of
+theories of change for ocean governance could be identified. While
+theories of change have promise for facilitating change at an organisa­
+tional level, it must be questioned how useful they are at delivering
+change at a governance level, especially given the lack of critical
+analyses.
+3. Characteristics of transformative blue governance
+Following an overview of the major theoretical silos and their ap­
+proaches to transformation, it is necessary to distil the principal attri­
+butes of transformation and discuss how these could inform an
+interpretation of ocean governance transformation. This review
+included analysis of the definitions used when discussing trans­
+formation, and the broader characterisations of transformation. Echoing
+the sentiments of Ziervogel, Cowen and Ziniades, [83] the pursuit of
+defining transformation is undertaken with “trepidation.” In practice, it
+is difficult to separate what transformation means, the proposed values
+or principles of the end state of transformation, and how transformation
+should be achieved. Often, these features are amalgamated into a sin­
+gular definition. However, this review specifically focuses on the char­
+acteristics of a transformative process and does not include analysis of
+the principles or values of such a process as these are likely to be context
+and scale dependent.
+The following section is organised around three principal attributes
+of transformation, which have been identified from the literature and
+are outlined in Table 1. Fazey et al., [22] identify depth, breadth and
+speed as indicative characteristics of transformation, and are also
+consistent with the approach adopted by Linnér and Wibeck [46] in their
+analysis of governance of transformations, and the assertion that
+transformations must be deep, wide and enduring [21]. These indicative
+attributes are similar to those identified by Termeer et al., [72] who
+posit depth, scope and speed as defining traits from the perspective of
+organisational change management.
+
+2.3. Socio-technical systems
+The socio-technical systems (STS) perspective encompasses interre­
+lated social and technological processes [32] which particularly focus on
+the roles of niche innovation to drive change [28]. Transition theory is
+the dominant perspective applied within a STS framing, which is being
+explored to facilitate change within SES [25]. Despite being most often
+applied to constrained sub systems, such as energy, the concept of
+transitions has been explored in the remit of ocean governance trans­
+formations [43,63,70]. Transitions to a sustainable blue economy in
+Brazil have also been explored [31].
+Confusingly, transition and transformation are often used synony­
+mously in literature [23,37,59] leading to the perception that they are
+interchangeable. Emphasising the distinction between these terms is
+imperative, as not only do they mean different things, but ascribe
+different processes to achieve change. Temper et al., [71] distinguishes
+between the two by virtue management, and notes that in contrast to
+transformation, transition implies a controlled and manageable change
+process. In this conceptualisation, transformation is a diverse and
+emergent change which challenges existing structures [68,71].
+Whether the terms exist synonymously, exclusively, or as a nested
+pair depends largely on context. Multiple distinctions between the terms
+exist. As identified by Stirling [68], a heuristic distinction can be made
+between the two, with transition invoking processes that are controlled
+and managed towards an identified end point of change. In an ocean
+context, transition and transformation have been used interchangeably,
+notably by Armitage, Marschke and van Tuyen [4] and Kelly et al., [44].
+Transition and transformation can also be regarded as a duality [37].
+Kok et al., [45] highlight the need to consider transition and trans­
+formation in the context of biodiversity governance as part of an over­
+arching process to achieve transformational change, using specific
+transitions alongside generic social transformations. In other words,
+using the practical insight of transition theory to facilitate trans­
+formative change.
+
+3.1. Breadth, scale and scope
+The breadth of transformation is defined as the distribution of
+change across a system and can be limited to single or multiple elements
+of a system. Definitions of transformation differ in their degree of pre­
+scriptiveness of breadth. Often, definitions will include dimensions
+(such as societal, economic, and legal) that must be changed to achieve
+transformation. The inclusion of such dimensions of change can give a
+valuable insight into how transformation in a specific context can be
+achieved. Some conceptualisations of transformation, such as VisserenHanmakers and Kok (2022), include the need for both societal and
+personal levels of transformation. From a practical and policy
+Table 1
+Attributes of transformation, as identified by [22] and identified through the
+literature review.
+
+2.4. Organisational change management and theories of change
+Two additional and non-systemic types of change were identified
+throughout the review with different conceptualisations of how to
+achieve transformation. Valuable lessons can be obtained by the analysis
+of these less explored ways of approaching change. Organisational
+change management has been explored from a climate perspective by
+Termeer et al., [72], but no further exploration in the context of envi­
+ronmental or ocean governance transformations could be identified.
+Theories of change are usually an organisation’s vision statement of
+the change they wish to achieve and are growing in popularity
+throughout biodiversity and conservation science. The Convention on
+Biological Diversity (2020) has proposed a Theory of Change which is
+“expected to embody transformative change” ([56], p. 3). However, it is
+not clear what transformation means in this context. Similar to
+4
+
+Identifying characteristics of transformation
+
+Attributes identified in literature
+
+Breadth or
+scope
+
+The distribution of change
+
+Depth
+
+The intensity of change
+
+Speed
+
+The timeframe in which
+change occurs
+
+• System wide
+• Specific elements of society or
+governance
+• Non-linearity
+• Dramatic, profound and
+fundamental
+• Radical
+• Addressing root causes
+• Reorganisation
+• Creating new
+• Irreversible or flexible
+• Deliberate vs emergent
+• Rapid
+• Incremental
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+perspective, such prescriptiveness is also of benefit, as it facilitates a
+deliverable and quantifiable interpretation of transformation.
+In an oceans context, Blythe et al., [11], who adopts a resilience
+perspective of transformation, include ‘structures, processes, rules and
+norms’ as dimensions of change in transformative ocean governance. In
+contrast, Kelly et al., [44] adopts a transitions perspective of trans­
+formation of marine governance in Ireland that requires addressing
+‘institutional, legislative, social, and economic’ factors. Both in­
+terpretations of transformation are different by virtue of scale, context
+and theoretical framing. The resilience underpinning of the first defi­
+nition squarely focuses transformation at targeting intangible and un­
+derpinning elements of a system, and implicitly advocates for a societal
+approach to change. The technocratic underpinning of the second
+definition regards the changes needed as being fairly prescriptive.
+It is acknowledged here that there is no minimum prescribed breadth
+or scope of change required for change to be transformative [21] as such
+a description would be dependent on context and depth of change. For
+example, it would be impossible to generically state that transformation
+must target an entire system, or that it could be achieved by targeting
+one single element of the system as change depends on the existing
+system dynamics and distribution of power. In the context of urban
+transformation, Eshuis and Gerrits [21] state that transformation must
+be widely felt, and not limited to a specific system element. In the
+context of ocean governance, a notoriously complex and fragmented
+system, transitions to achieve transformation are often invoked in a
+systemic context, recognising the need for multi-level and bottom-up
+initiatives to catalyse change [43].
+In the context of a transformation towards sustainability, governance
+systems are a widely accepted, if often overlooked, avenue of delivering
+transformative change across multiple system elements and scales [2,61,
+70,73]. A further rationale for targeting governance in pursuit of ocean
+transformation is the recognition that fundamentally inadequate
+governance has allowed current crises to proliferate. The crises faced by
+ocean environments are not novel or unique and are also observed
+across biodiversity and climate governance. [38] observation that “the
+climate crisis is more like a crisis of governance than a crisis of the
+environment,” is true in the context of any governance system. Gover­
+nance is therefore central to any form of change [2,59].
+Governance is an often-nebulous term that encapsulates different
+elements dependent on who is using it and in what context. Simply,
+governance is “how power is directed to enable or constrain human
+action” ([69], p. 3). [11] adopts a broader perspective of governance in
+an ocean context, and identifies the role of structures, processes, rules
+and norms in shaping decision-making, including how actors “share
+power, assign responsibility, and ensure accountability in the use and
+management of the marine environment.” From this perspective, ocean
+governance has the capacity to set “the vision and conditions that enable
+others to take action” ([45], p. 348). In adopting Blythe et al.’s (2021)
+conceptualisation of governance, framings of transformation of, in, and
+for governance are “focused on the role of current institutions, modes of
+governance or characteristics” ([76], p. 86).
+Situating transformation of governance requires precision about
+what exactly is being discussed. There is often not a clear distinction in
+literature [76]. [77] segregate between transformative change and
+transformative governance, with “change referring to the actual shift
+and governance to “steering” the shift.” Therefore, transformative
+governance must result from deliberate human agency. The concept of
+agency, particularly in transitions [81] and adaptive governance [82], is
+well discussed. In acknowledging the role of agency in deliberate
+transformation, transformation becomes “an inherently political act”
+[39,59]. A rich literature examines the political nature of trans­
+formation, and stresses the need for awareness around who is calling for
+transformation, and who bears the costs and consequences of such
+change through an evaluation of power [5,11,59,65]. As part of gover­
+nance transformations, issues of power in ocean governance are often
+discussed [6,9]. Redistributing or changing existing power structures
+
+within a governance framework are regarded as critical to ensuring that
+transformative efforts do not result in the same unequitable system that
+preceded it [10].
+Patterson et al., [59] outline three avenues of transformative
+governance in literature: governance for transformations, governance of
+transformations, and transformations in governance. Despite being
+presented as separate avenues, these pathways are highly interdepen­
+dent and have significant overlap. As such, these avenues of trans­
+formation can be visualised as a cycle (Fig. 2).
+In acknowledging the ‘environmental glass ceiling’ of trans­
+formations, it is clear that governance systems themselves must be
+transformed to achieve the radical change needed [35,36]. Therefore,
+governance for transformations involves creating the governance con­
+ditions necessary for transformation which in turn facilitates effective
+governance of transformative processes. The creation of such enabling
+conditions are likely to be transformative of the governance system and
+of itself [72]. Therefore, situating governance as the scene of trans­
+formation in ocean governance should result in broadscale change that
+results in a system that is fundamentally new.
+3.2. Depth
+Depth of change refers to the distance of change from surface level, i.
+e, the changing of deep elements of a system such as underlying logic,
+values and assumptions rather than superficial surface level change. As
+referenced in Section 3.1, this can be operationalised as the ‘intangible’
+elements of a system. Again, it is critical to reflect on who is calling for
+transformation, and how depth of change could be interpreted by them.
+For example, in biodiversity governance it is recognised that trans­
+formation does not stem from ambitious goals, and instead is galvanised
+in transformation of “working arrangements, mechanisms and in­
+stitutions” ([14,45], p. 348), or the hidden and underpinning parts of a
+system.
+Within the reviewed definitions of transformation, multiple ways of
+describing the depth of transformation were employed. Descriptors
+included fundamental, dramatic, profound, and radical, which while
+subtly different, have largely synonymous connotations of the magni­
+tude and depth required. These descriptors existed across theoretical
+backgrounds, leading to the conclusion that regardless of theoretical
+‘siloing’, the depth of change perceived as being needed for trans­
+formation remains similar. This is congruent with the findings of Nalau
+and Handmer [52], who found that a majority definitions of trans­
+formation include ‘fundamental’ change. It often is agreed that more
+than ‘small tweaks’ is needed to facilitate change [48]. Some definitions
+of transformation explicitly reject the idea of small-scale (or incremen­
+tal) change [9,47,58], and advocate that transformation must comprise
+of change that is greater in magnitude [40].
+
+Fig. 2. Interdependence of governance transformations, based on initial theory
+by Patterson et al., (2016). Types of transformation in governance exist as an
+interdependent cycle.
+5
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+Often, it is not clear specifically what is meant by fundamental,
+dramatic, radical or profound, but it invokes the perception of the need
+to tackle deep rooted and systemic issues [71]. From an etymological
+perspective, radical comes from ‘root’ [71], and as such invites a closer
+re-evaluation of what values, assumptions, and power structures the
+governance system is built upon [21]. This emphasis and awareness of
+the need to address roots is not universal across interpretations of
+transformation. In the context of ocean governance, it is difficult to
+identify what the roots to be changed are. This is a major challenge to
+transformation; the multiple and multiscalar interpretations of root
+causes of crises make a consensus driven approach to change difficult,
+and could risk delaying action. In addition, such divergence of inter­
+pretation stresses the deeply political nature of transformations, which
+cannot be ignored. Furthermore, whether a change is fundamental,
+dramatic or profound is inherently subjective [22] which increases the
+risk of being used to greenwash change [24].
+The inclusion of such fundamental depth of change is not standard in
+STS definitions of transformation. While some (notably Kelly et al. [44])
+include the radical nature of change needed, many included the char­
+acteristics of reorganisation and reconfiguring. This more practical
+interpretation of transformation has gained some traction in global
+policy, and has been explored in the context of global ocean governance.
+Rudolph et al., [63] argue that a “purposeful transition” in oceans
+governance can lead to transformation through incremental change.
+An area of significant conceptual divergence is the dichotomy of
+incremental versus radical change [13,72]. Incremental changes can be
+characterised in different ways. In a general SES framing, incremental
+can mean a reliance on current and normative “ways of thinking and
+governance structures” to change the existing system [6]. In contrast,
+from an adaptive perspective, incremental change can also be inter­
+preted as small scale, slow, stepwise change in the short-term which
+directly contrasts with a notion of large scale, system wide and rapid
+change [72]. Incremental change is also strongly associated with
+adaptation [53]. This plurality of meaning masks whether radical
+change relates to depth, speed or scale or a combination of all three. In
+this section, the former framing is adopted, and the discussion of radical
+change relating to speed is continued in Section 3.3.
+From a transition perspective, incremental change is observed
+through the development of niche level changes which aggregate to
+change at a landscape or regime level. Exploratory work by Rudolph
+et al., [63] identifies several niche level changes that have capacity to
+aggregate to transformative change in ocean governance. These incre­
+mental changes often exist in specific sectoral responses to existing
+drivers of change, such as efforts to decarbonise the shipping sector
+[63]. Significant risks are identified with adopting an incremental
+approach however, such as the disconnect between the emphasis on
+radical change by the global scientific community and the incremental
+policies proposed by implementing institutions [7,58]. Confining policy
+and actions to those “accommodated by the existing system” to such
+incremental change risks wasting valuable time [58]. Incremental
+change is often susceptible to path dependency, and is a
+well-documented barrier to incremental change [81]. Radical change
+could have the potential to overcome such a barrier.
+However, there is also significant criticism of a radical approach.
+Radical change presumes that there is total knowledge and confidence
+that the direction of change is correct, the eventual and unequivocal
+success of interventions, and does not reflect the fact that there is still an
+“incremental understanding of transformation processes themselves”
+([13], p. 24). Brand [13] also outlines the tension between radical
+problem diagnoses and ‘docile’ solutions proposed, and the inherent
+flaw in assuming that transformation can be achieved with current
+structures and systems. This is cognizant with the differentiation of
+stages of governance of transformation identified by Patterson et al.,
+[59], and the recognition that to facilitate transformation in governance,
+governance systems themselves must transform to create enabling con­
+ditions for change (outlined previously in Section 3.2). Therefore, it can
+
+be summarised that any transformative effort within ocean governance
+can only be achieved through a transformative change in governance.
+Additionally, “too rapid and drastic change can easily lead to losses,
+instability and confusion” ([52], p. 355), and lead to inequitable out­
+comes and processes. Adopting an incremental approach can allow for
+‘small wins’ in this regard, and in theory could support an inclusive and
+equitable process. However, there is little evidence to support this logic
+in practice. Furthermore, incremental change, if limited by path de­
+pendency, could risk further entrenching existing interests and
+inequality.
+[23] suggests that the “general idea of transformation as a major,
+fundamental change, as opposed to minor, marginal, or incremental
+change, appears to be widely agreed upon in both research and policy.”
+However, based on the findings of this review so far, we reject this hy­
+pothesis and instead argue that such a binary perspective of change is
+not constructive. In ocean governance, both forms of change are needed.
+A recent development in literature is the exploration and reconceptu­
+alization of the incremental versus radical debate towards a process that
+sees both processes as interdependent [15,72]. Such a reconceptuali­
+zation would lie between radical and incremental processes, and
+potentially sees transformation as a continuous process that includes
+incremental and radical shifts. The concept of continuous trans­
+formational change as a compromise between the incremental and the
+radical [72] has some merit in this regard. As advocated by Fazey et al.,
+[22], a move beyond over-simplified distinctions of incremental and
+radical, and the adoption of a more context specific approach that ad­
+dresses the depth, breadth and speed of change is required.
+Leverage points from an STS perspective are useful tools for under­
+standing depths of changes towards transformative change, and repre­
+sent areas of influence which can result in system wide change [49].
+Depth of change in this context can range from shallow interventions,
+such as financial incentives, to deeper interventions, such as changing
+power structures, goals and visions of a system [1].
+3.3. Speed
+Speed of change is often not explicitly addressed in definitions of
+transformation [72], and represents an avenue of exploration.
+Depending on theoretical background, transformation could be an in­
+cremental, adaptive process facilitated by reflexive learning and course
+correction, or it could be a rapid and spontaneous event driven by the
+passing of an external shock event [53]. Regardless, when discussing
+speed of transformation, it is clear understanding the perceived drivers
+of change are imperative in identifying the process and characteristics of
+change [23].
+It has been suggested that transformation implies the need for rapid
+change [22], particularly given the urgency of response to multiple
+nested crises [80]. Beyond the interpretation of incremental change as
+slower and more step-wise change, there is little contrasting opinion in
+literature. In the context of ocean governance, Rudolph et al., [63]
+characterises transformation as needing to be rapid and nimble.
+[59] sees the interdependency of incremental and radical change
+temporally driven a focus on long-term transformation with “an honest
+recognition of the realities of near-term incrementalism at the same
+time.” Such short term incrementalism can also create momentum for
+long term and larger scale change by advocating for ‘small wins’ [14,33,
+59]. This also creates space for multiple pathways of transformation that
+“intersect, overlap and conflict in unpredictable ways” ([65], p. 21). The
+resulting cross-scale confluence of processes can also be trans­
+formational [51], resulting in the need for a coevolutionary and multi­
+disciplinary approach [59]. While urgent change is clearly advocated
+for, it must not undermine reflexivity and reflection necessary to create
+any depth or permanence of meaningful of change. The trade-offs be­
+tween rapid and slow (or radical and incremental according to some
+interpretations) warrants further critical attention.
+6
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+4. Synthesis and conclusions
+
+and vision-oriented outcomes rather than a reliance and use of goals and
+objectives [22].
+When proposing a definition of transformation, there is an inherent
+tension between the need for a clear definition to avoid greenwashing,
+simply repeating what has been defined previously, and the limitations
+that are necessarily imposed through such a definition. As such, through
+the evaluation of different interpretations of transformation, it must be
+questioned if proposing an interpretation of transformation at the scale
+of ocean governance is desirable. As identified above, the diversity of
+interpretations of transformation has facilitated a plurality of meaning,
+whereby very different attributes of change can fall under the umbrella
+of transformation.
+Similar to the findings of Voyer et al., [78] in the analysis of in­
+terpretations of the blue economy, this review suggests that any uniform
+definition may “result in particular lens being privileged, and undermine
+the ability of states or regions to develop a more contextualized Blue
+Economy which is sensitive to the aspirations and objectives of their
+communities.” Therefore, transformation should adopt a conceptually
+‘elastic’ perspective that is heavily contextually dependent [23] but
+grounded in the need for deep and radical change. Furthermore,
+consistent with the assertion that definitions of transformation reflect
+contextual and situational nuance, it is important that through empirical
+exploration and grounding any plan, model or definition generated in
+the context of transformative scholarship is not a “blueprint” for trans­
+formation ([46], p. 188). Blueprints in this context imply static narrative
+of change which is at odds with these findings. Reconciling this elastic
+approach with the need to generate a definition of transformation that is
+specific enough to be clearly identified and measured against is chal­
+lenging, and needs to result in a definition that can be applicable to
+diverse contexts.
+From this review, the following definition of transformation in ocean
+governance is proposed: systemic change that addresses the roots of
+persistent problems and results in a fundamentally different system. This
+definition does not seek to prescribe what must change, and instead
+advocates for an entire system change that is facilitated by the radical
+reassessment of underlying values and assumptions, as facilitated by an
+evaluation of the roots of change. While the utility of addressing roots of
+persistent problems is contemplated above, it is ultimately concluded
+that while the reflection and debate required to identify such roots
+would facilitate a deeper and more robust level of change across a
+breadth of system dynamics. In addition, addressing persistent problems
+inspires a more practical approach to problem solving, and is understood
+across a variety of contexts. In this regard, space is allowed for multiple
+transformations to grow and shape transformative processes. This defi­
+nition is similar to that proposed by Blythe et al., [11], but instead
+targets transformation at the hidden elements of governance rather than
+“structures, processes, rules and norms.”
+
+4.1. An interpretation of transformation
+This review began with the baseline of a “surprising and discon­
+certing” lack of literature and knowledge surrounding transformation
+[53]. Based on the findings of this review, this statement is rejected. In
+the decade of scholarship since this assertion, transformation has un­
+dergone a deep growth and maturation as field resulting in a largely
+uniform understanding that transformation is radical, profound, and
+fundamental change regardless of the process by which this is achieved.
+The various theoretical framings of STS and SES have led to different
+understandings of scale and breadth, but depth remains constant. What
+is unacknowledged in these discussions of depth of transformation is
+how these are dependent on internal values of those evaluating change.
+Simply, what is radical to one may be superficial to another. Therefore,
+it is critical to reflect on who is calling for transformation, and how this
+shapes the resultant trajectory and narrative of change [11].
+From these findings, it can therefore be summarised that to achieve
+such deep systemic change as is common to most definitions, trans­
+formation cannot be relegated to the surface, and must result in a system
+that is unrecognisably different to what preceded it. However, there are
+significant practical challenges associated with such change, and limited
+empirical evidence of such transformations having been achieved
+particularly in the context of ocean governance. Future research could
+identify and analyse historic examples of such change, and what driving
+and enabling factors facilitated such deep change.
+Beyond the inclusion of specific focuses of change, Nalau and
+Handmer [52] found that many definitions of transformation do not
+include consideration of the scale and endurability of transformation.
+This was also observed in this review, with definitions often stating the
+need for generic ‘system-change.’ Without a solid appreciation of which
+system is the target of change, systems change is a concept that promises
+much but delivers little tangible direction as to where transformative
+efforts should be focused. It is proposed through this review that
+transformation, particularly for ocean sustainability, should be targeted
+at governance systems. This position agrees with the perspective of
+Blythe et al., [11], who advocate for an ocean governance trans­
+formation. While the importance of multi-scale transformation cannot
+be understated, this review advocates that a focus on governance can
+facilitate transformation across multiple scales.
+4.2. Moving beyond granularity
+It is suggested here that transformative literature is often viewed in
+too granular and siloed a fashion to see the broader understandings of
+change. Moving beyond this granularity, and beyond dichotomies of
+incremental and radical and SES and STS, into a broader and more in­
+tegrated understanding of change would majorly benefit operationali­
+sation of transformation in ocean governance. For example, exploring
+how niche innovation in transition theories, as described by Rudolph
+et al., [63], could be applied in the context of the Olsson Framework of
+transformations in SES in an ocean governance context [10]. Additional
+research could review organisational change management-centric ap­
+proaches to social dynamics of transformation, and how these could be
+translated to larger and more complex governance systems. Observa­
+tions of the practical implementation of such theoretical framings of
+transformations of governance transformations in reality would test
+whether such an integration is observed in practice.
+It is recognised that transformation has plurality of meaning across
+different domains of knowledge [18]. The subjectivity and fuzziness of
+this term is in equal parts its strength and weakness. On the one hand, it
+inspires creative, rapid and unlimited capacity for change, and on the
+other can be used to describe minor ‘greenwashed’ changes that do not
+facilitate the depth required of transformative change [22]. The ‘fuzzi­
+ness’ of transformation often stems from the existing system complexity
+
+4.3. Conclusions
+In conclusion, it is clear that well established theories of trans­
+formation exist, with significant differences relating to what constitutes
+a transformation in relation to speed, and scale. Depth of change re­
+mains relatively constant across definitions. A largely consistent un­
+derstanding that transformation is radical, profound, and fundamental
+change highlights further questions as to what exactly these concepts
+look like in practice. It is still not clear how these different character­
+istics of transformation can be applied to transformative change in ocean
+governance, representing an area of future research that seeks to oper­
+ationalise these terms, or ground them in reality.
+These differences in characterisation are simultaneously a virtue and
+challenge to implementation of the concept, with plurality of in­
+terpretations necessary when navigating complex issues, yet also
+potentially shelter a business-as-usual status-quo. This conceptual
+malleability represents a significant challenge for policy and imple­
+mentation in pursuit of transformation to meet global challenges
+7
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+identified in the introduction. As such, caution is advised when using
+transformation as a policy objective, with clarity in what exactly is
+meant being paramount.
+In light of this plurality and the practical challenges associated with
+such malleability, this review has generated a holistic and multidisciplinary interpretation of transformation in the context of ocean
+governance, which aims to begin to bridge these theoretical silos to­
+wards a unified understanding of transformation. This now needs to be
+refined through practical application and reflection. From this defini­
+tion, and its focus on persistent problems, the question of how trans­
+formation is undertaken is more contextually driven and nuanced than
+prescriptive.
+
+[16] B.C. Chaffin, et al., ‘Transformative environmental governance (Available at),
+Annu. Rev. Environ. Resour. 41 (2016) 399–423, https://doi.org/10.1146/
+annurev-environ-110615-085817.
+[17] J. Colding, S. Barthel, Exploring the social-ecological systems discourse 20 years
+later (Available at), Ecol. Soc. 24 (1) (2019), 240102, https://doi.org/10.5751/ES10598-240102.
+[18] D. Davelaar, Transformation for sustainability: a deep leverage points approach
+(Available at), Sustain. Sci. 16 (3) (2021) 727–747, https://doi.org/10.1007/
+s11625-020-00872-0.
+[19] S. Díaz, et al., Pervasive human-driven decline of life on Earth points to the need
+for transformative change (Available at), Science 366 (6471) (2019), https://doi.
+org/10.1126/science.aax3100.
+[20] B. Erinosho, et al., Transformative governance for ocean biodiversity’, Transform.
+Biodivers. Gov. (2021) (Available at), 〈https://papers.ssrn.com/abstract
+=3853886〉.
+[21] J. Eshuis, L. Gerrits, The limited transformational power of adaptive governance: a
+study of institutionalization and materialization of adaptive governance (Available
+at), Public Manag. Rev. 23 (2) (2021) 276–296, https://doi.org/10.1080/
+14719037.2019.1679232.
+[22] I. Fazey, et al., Transformation in a changing climate: a research agenda (Available
+at), Clim. Dev. 10 (3) (2018) 197–217, https://doi.org/10.1080/
+17565529.2017.1301864.
+[23] G. Feola, Societal transformation in response to global environmental change: A
+review of emerging concepts (Available at), Ambio 44 (5) (2015) 376–390, https://
+doi.org/10.1007/s13280-014-0582-z.
+[24] G. Feola, O. Koretskaya, D. Moore, (Un)making in sustainability transformation
+beyond capitalism’ (Available at), Glob. Environ. Change 69 (June) (2021),
+102290, https://doi.org/10.1016/j.gloenvcha.2021.102290.
+[25] Fischer-Kowalski, M. and Rotmans, J. (2019) ‘Conceptualizing, Observing, and
+Influencing Social – Ecological Transitions’, 14(2).
+[26] C. Folke, et al., Resilience thinking: Integrating resilience, adaptability and
+transformability (Available at), Ecol. Soc. 15 (4) (2010), https://doi.org/10.5751/
+ES-03610-150420.
+[27] L. Fries, J. Everett, N. Davies, Transformational opportunities for people, ocean and
+planet (Available at), Blue Clim. Initiat., Tetiaroa Soc. (2021), https://doi.org/
+10.5281/zenodo.4540323.
+[28] F.W. Geels, et al., Sociotechnical transitions for deep decarbonization, Science 357
+(6357) (2017) 1242–1244.
+[29] F.W. Geels, J. Schot, Typology of sociotechnical transition pathways (Available at),
+Res. Policy 36 (3) (2007) 399–417, https://doi.org/10.1016/j.respol.2007.01.003.
+[30] S. Gelcich, et al., Navigating transformations in governance of Chilean marine
+coastal resources (Available at), Proc. Natl. Acad. Sci. USA 107 (39) (2010)
+16794–16799, https://doi.org/10.1073/pnas.1012021107.
+[31] L.C. Gerhardinger, et al., Crafting a sustainability transition experiment for the
+brazilian blue economy (Available at), Mar. Policy 120 (August) (2020), https://
+doi.org/10.1016/j.marpol.2020.104157.
+[32] R. Gillard, et al., ‘Transformational responses to climate change: Beyond a systems
+perspective of social change in mitigation and adaptation’ (Available at), WIREs
+Clim. Change 7 (2) (2016) 251–265, https://doi.org/10.1002/wcc.384.
+[33] M. Gopel, The Great Mindshift: How a New Economic Paradigm and Sustainability
+Transformations go Hand in Hand, Springer Nature,, 2016, https://doi.org/
+10.1007/978-3-319-43766-8.
+[34] B. Haas, et al., The future of ocean governance, Rev. Fish. Biol. Fish. (2021),
+https://doi.org/10.1007/s11160-020-09631-x.
+[35] D. Hausknost, The environmental state and the glass ceiling of transformation
+(Available at), Environ. Polit. 29 (1) (2019) 17–37, https://doi.org/10.1080/
+09644016.2019.1680062.
+[36] D. Hausknost, M. Hammond, Beyond the environmental state? The political
+prospects of a sustainability transformation (Available at), Environ. Polit. 29 (1)
+(2020) 1–16, https://doi.org/10.1080/09644016.2020.1686204.
+[37] K. Hölscher, J.M. Wittmayer, D. Loorbach, Transition versus transformation:
+What’s the difference? (Available at), Environ. Innov. Soc. Transit. 27 (2018) 1–3,
+https://doi.org/10.1016/j.eist.2017.10.007.
+[38] M. Hulme, Why We Disagree about Climate Change: Understanding Controversy.
+Inaction and Opportunity, Cambridge University Press,, 2009.
+[39] E. Hysing, R. Lidskog, Do conceptual innovations facilitate transformative change?
+The case of biodiversity governance (Available at), Front. Ecol. Evol. 8 (2021)
+1–13, https://doi.org/10.3389/fevo.2020.612211.
+[40] IPBES (2019) ‘Annex I: Glossary of the Global assessment report on biodiversity
+and ecosystem services of the Intergovernmental Science-Policy Platform on
+Biodiversity and Ecosystem Services’. Available at: https://doi.org/10.5281/
+ZENODO.5657079.
+[41] J.-B. Jouffray, et al., The blue acceleration: the trajectory of human expansion into
+the ocean (Available at), One Earth 2 (1) (2020) 43–54, https://doi.org/10.1016/j.
+oneear.2019.12.016.
+[42] R.W. Kates, W.R. Travis, T.J. Wilbanks, Transformational adaptation when
+incremental adaptations to climate change are insufficient (Available at), Proc.
+Natl. Acad. Sci. USA 109 (19) (2012) 7156–7161, https://doi.org/10.1073/
+pnas.1115521109.
+[43] C. Kelly, G. Ellis, W. Flannery, Conceptualising change in marine governance:
+Learning from Transition Management (Available at), Mar. Policy 95 (June) (2018)
+24–35, https://doi.org/10.1016/j.marpol.2018.06.023.
+[44] C. Kelly, G. Ellis, W. Flannery, Unravelling persistent problems to transformative
+marine governance (Available at), Front. Mar. Sci. 6 (APR) (2019), https://doi.org/
+10.3389/fmars.2019.00213.
+
+Funding
+This research was funded by bursary from the University of
+Portsmouth.
+CRediT authorship contribution statement
+Tegan Evans: Conceptualization, Investigation, Writing – original
+draft, Writing - Review & Editing. Steve Fletcher: Supervision,
+Conceptualization, Writing - Review & Editing. Pierre Failler: Super­
+vision, Conceptualization, Writing - Review & Editing. Jonathan Potts:
+Supervision Conceptualization, Writing - Review & Editing.
+Data availability
+No data was used for the research described in the article.
+References
+[1] D.J. Abson, et al., Leverage points for sustainability transformation (Available at),
+Ambio 46 (1) (2017) 30–39, https://doi.org/10.1007/s13280-016-0800-y.
+[2] S. Andrew, L. Armstrong, A. Birney, Governance – the overlooked route to
+transformation: How can we best organise for change? Forum Future (2021)
+(Available at), 〈https://www.thefuturescentre.org/governance-the-overlooked-r
+oute-to-transformation-how-can-we-best-organise-for-change/〉.
+[3] M. Andriamahefazafy, et al., Sustainable development goal 14: To what degree
+have we achieved the 2020 targets for our oceans? (Available at), Ocean Coast.
+Manag. 227 (January) (2022), 106273, https://doi.org/10.1016/j.
+ocecoaman.2022.106273.
+[4] D. Armitage, M. Marschke, T. van Tuyen, Early-stage transformation of coastal
+marine governance in Vietnam? (Available at), Mar. Policy 35 (5) (2011) 703–711,
+https://doi.org/10.1016/j.marpol.2011.02.011.
+[5] F. Avelino, et al., The politics of sustainability transitions (Available at), J. Environ.
+Policy Plan. 18 (5) (2016) 557–567, https://doi.org/10.1080/
+1523908X.2016.1216782.
+[6] N.J. Bennett, et al., Just transformations to sustainability (Available at),
+Sustainability 11 (14) (2019) 1–18, https://doi.org/10.3390/su11143881.
+[7] F. Biermann, et al., Transforming governance and institutions for global
+sustainability: Key insights from the Earth System Governance Project (Available
+at), Curr. Opin. Environ. Sustain. 4 (1) (2012) 51–60, https://doi.org/10.1016/j.
+cosust.2012.01.014.
+[8] F. Biermann, et al., Scientific evidence on the political impact of the sustainable
+development goals (Available at), Nat. Sustain (2022), https://doi.org/10.1038/
+s41893-022-00909-5.
+[9] J. Blythe, et al., The dark side of transformation: latent risks in contemporary
+sustainability discourse (Available at), Antipode 50 (5) (2018) 1206–1223, https://
+doi.org/10.1111/anti.12405.
+[10] J. Blythe, D. Armitage, et al., Conditions and cautions for transforming ocean
+governance (Available at), Water Resil. (2021) 241–261, https://doi.org/10.1007/
+978-3-030-48110-0.
+[11] J. Blythe, Nathan James Bennett, et al., The politics of ocean governance
+transformations (Available at), Front. Mar. Sci. 8 (July) (2021), https://doi.org/
+10.3389/fmars.2021.634718.
+[12] M. Bogers, et al., The impact of the Sustainable Development Goals on a network of
+276 international organizations (Available at), Glob. Environ. Change 76 (2022),
+102567, https://doi.org/10.1016/j.gloenvcha.2022.102567.
+[13] U. Brand, Transformation" as a new critical orthodoxy: The strategic use of the
+term “transformation” does not prevent multiple crises (Available at), Gaia 25 (1)
+(2016) 23–27, https://doi.org/10.14512/gaia.25.1.7.
+[14] Bulkeley, H. et al. (2020) Moving towards transformative change for biodiversity:
+harnessing the potential of the Post-2020 Global Biodiversity Framework, p. 48.
+[15] S. Burch, et al., New directions in earth system governance research (Available at),
+Earth Syst. Gov. 1 (2019), 100006, https://doi.org/10.1016/j.esg.2019.100006.
+
+8
+
+T. Evans et al.
+
+Marine Policy 155 (2023) 105710
+
+[45] Kok, M. et al. (2022) ‘Enabling Transformative Biodiversity Governance in the
+Post-2020 Era’, in, pp. 341–360. Available at: https://doi.org/10.1017/
+9781108856348.017.
+[46] B.-O. Linnér, V. Wibeck, Sustainability Transformations Across Societies: Agents
+and Drivers across Societies, Cambridge University Press,, 2019.
+[47] B. McAteer, W. Flannery, Power, knowledge and the transformative potential of
+marine community science’ (Available at), Ocean Coast. Manag. 218 (2022),
+106036, https://doi.org/10.1016/j.ocecoaman.2022.106036.
+[48] T. McPhearson, et al., Radical changes are needed for transformations to a good
+Anthropocene (Available at), npj Urban Sustain. 1 (1) (2021), https://doi.org/
+10.1038/s42949-021-00017-x.
+[49] D. Meadows, Thinking in Systems: A Primer, Earthscan,, 2009.
+[50] D. Meadows, J. Randers, D. Meadows, Limits to Growth: The 30-Year Update.
+White River Junction, Chelsea Green,, VT, 2004.
+[51] M.L. Moore, et al., Studying the complexity of change: Toward an analytical
+framework for understanding deliberate social-ecological transformations
+(Available at), Ecol. Soc. 19 (4) (2014), https://doi.org/10.5751/ES-06966190454.
+[52] J. Nalau, J. Handmer, When is transformation a viable policy alternative (Available
+at), Environ. Sci. Policy 54 (2015) 349–356, https://doi.org/10.1016/j.
+envsci.2015.07.022.
+[53] K. O’Brien, Global environmental change II: From adaptation to deliberate
+transformation (Available at), Prog. Hum. Geogr. 36 (5) (2012) 667–676, https://
+doi.org/10.1177/0309132511425767.
+[54] K. O’Brien, Is the 1.5◦ C target possible? Exploring the three spheres of
+transformation (Available at), Curr. Opin. Environ. Sustain. 31 (2018) 153–160,
+https://doi.org/10.1016/j.cosust.2018.04.010.
+[55] P. Olsson, C. Folke, T. Hahn, Social-ecological transformation for ecosystem
+management: The development of adaptive co-management of a wetland landscape
+in southern Sweden (Available at), Ecol. Soc. 9 (4) (2004), https://doi.org/
+10.5751/ES-00683-090402.
+[56] Open Ended Working Group on the Post 202 Global Biodiversity Framework
+(2021) ‘First Draft of the Post-2020 Global Biodiversity Framework’. CBD.
+Available at: https://www.cbd.int/doc/c/abb5/591f/
+2e46096d3f0330b08ce87a45/wg2020-03-03-en.pdf.
+[57] S.E. Park, et al., Informing adaptation responses to climate change through theories
+of transformation (Available at), Glob. Environ. Change 22 (1) (2012) 115–126,
+https://doi.org/10.1016/j.gloenvcha.2011.10.003.
+[58] U. Pascual, et al., Governing for transformative change across the biodiversity –
+climate – society nexus, BioScience 72 (7) (2022) 684–704.
+[59] J. Patterson, et al., Exploring the governance and politics of transformations
+towards sustainability (Available at), Environ. Innov. Soc. Transit. 24 (2017) 1–16,
+https://doi.org/10.1016/j.eist.2016.09.001.
+[60] M. Pelling, K. O’Brien, D. Matyas, Adaptation and transformation (Available at),
+Clim. Change 133 (1) (2015) 113–127, https://doi.org/10.1007/s10584-0141303-0.
+[61] Pretlove, B. and Blasiak, R. (2018) Mapping Ocean Governance and Regulation.
+[62] W.S. Rice, M.R. Sowman, M. Bavinck, Using Theory of Change to improve post2020 conservation: A proposed framework and recommendations for use
+(Available at), Conserv. Sci. Pract. 2 (12) (2020) 1–17, https://doi.org/10.1111/
+csp2.301.
+[63] T.B. Rudolph, et al., A transition to sustainable ocean governance (Available at),
+Nat. Commun. 11 (1) (2020) 1–14, https://doi.org/10.1038/s41467-020-17410-2.
+[64] J.D. Sachs, et al., Six transformations to achieve the sustainable development goals
+(Available at), Nat. Sustain. (2019) 805–814, https://doi.org/10.1038/s41893019-0352-9.
+
+[65] I. Scoones, M. Leach, P. Newell, The Politics of Green Transformations, Routledge,,
+2015.
+[66] Secretariat of the Convention on Biological Diversity (2020) Global Biodiversity
+Outlook 5. Montreal.
+[67] Shove, E. (2010) ‘Social theory and climate change: Questions often, sometimes
+and not yet asked’, Theory, Culture and Society, 27(2), pp. 277–288. Available at:
+https://doi.org/10.1177/0263276410361498.
+[68] A. Stirling, Emancipating Transformations, in: I. Scoones, M. Leach, P. Newell
+(Eds.), The Politics of Green Transformations, Routledge, 2015, pp. 54–67.
+[69] T. Stojanovic, K. Gee, ‘Governance as a framework to theorise and evaluate marine
+planning’ (Available at), Mar. Policy 120 (2020), 104115, https://doi.org/
+10.1016/j.marpol.2020.104115.
+[70] Swilling, M. et al. (2020) ‘The Ocean Transition: What to Learn from System
+Transitions’, p. 66.
+[71] L. Temper, et al., A perspective on radical transformations to sustainability:
+resistances, movements, alternatives, Sustain. Sci. 13 (2018).
+[72] C.J.A.M. Termeer, A. Dewulf, G.R. Biesbroek, Transformational change:
+governance interventions for climate change adaptation from a continuous change
+perspective (Available at), J. Environ. Plan. Manag. 60 (4) (2017) 558–576,
+https://doi.org/10.1080/09640568.2016.1168288.
+[73] TWI2050, Transformations to Achieve the Sustainable Development Goals - Report
+prepared by The World in 2050 initiative. International Institute for Applied
+Systems Analysis, International Institute for Applied Systems Analysis (IIASA),,
+Laxenburg, Austria, 2018, https://doi.org/10.22022/TNT/07-2018.15347.
+[74] United Nations Environment Programme (2021) Making Peace With Nature.
+[75] J. Virdin, et al., The Ocean 100: Transnational corporations in the ocean economy
+(Available at), Sci. Adv. 7 (3) (2021) 1–11, https://doi.org/10.1126/sciadv.
+abc8041.
+[76] Visseren-Hamakers, I. et al. (2022) ‘How to Save a Million Species? Transformative
+Governance through Prioritization’, in, pp. 67–90. Available at: https://doi.org/
+10.1017/9781108856348.005.
+[77] Visseren-Hamakers, I.J. and Kok, M.T.J. (2022) ‘The Urgency ofTransforming
+Biodiversity Governance’, in I.J. Visseren-Hamakers and M. Kok (eds)
+Transforming Biodiversity Governance, pp. 3–21.
+[78] M. Voyer, et al., Shades of blue: what do competing interpretations of the Blue
+Economy mean for oceans governance? (Available at), J. Environ. Policy Plan. 20
+(5) (2018) 595–616, https://doi.org/10.1080/1523908X.2018.1473153.
+[79] B. Walker, et al., Resilience, adaptability and transformability in social–ecological
+systems (Available at), Ecol. Soc. 9 (2) (2004), https://doi.org/10.1103/
+PhysRevLett.95.258101.
+[80] D. Weaver, et al., Pragmatic engagement with the wicked tourism problem of
+climate change through “ soft ” transformative governance, Tourism Management
+93 (May) (2022), https://doi.org/10.1016/j.tourman.2022.104573.
+[81] L. Werbeloff, R.R. Brown, D. Loorbach, Pathways of system transformation:
+Strategic agency to support regime change (Available at), Environ. Sci. Policy 66
+(2016) 119–128, https://doi.org/10.1016/j.envsci.2016.08.010.
+[82] F. Westley, et al., A theory of transformative agency in linked social-ecological
+systems (Available at), Ecol. Soc. 18 (3) (2013), https://doi.org/10.5751/ES05072-180327.
+[83] G. Ziervogel, A. Cowen, J. Ziniades, Moving from adaptive to transformative
+capacity: Building foundations for inclusive, thriving, and regenerative urban
+settlements (Available at), Sustainability 8 (9) (2016), https://doi.org/10.3390/
+su8090955.
+
+9
+
+

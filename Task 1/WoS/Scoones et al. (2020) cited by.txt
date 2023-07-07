@@ -1,0 +1,5816 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Manlosa, Aisa O. O.
+   Partelow, Stefan
+   Jiren, Tolera Senbeto
+   Riechers, Maraja
+   Paramita, Adiska Octa
+TI The role of institutions in food system transformations: lessons learned
+   from transdisciplinary engagements in Ethiopia, the Philippines, and
+   Indonesia
+SO ECOSYSTEMS AND PEOPLE
+VL 19
+IS 1
+AR 2146753
+DI 10.1080/26395916.2022.2146753
+DT Article
+PD DEC 31 2023
+PY 2023
+RI Jiren, Tolera/HRB-4834-2023; Paramita, Adiska Octa/; Manlosa, Aisa/; Partelow, Stefan/; Riechers, Maraja/
+OI Paramita, Adiska Octa/0000-0001-7164-5373; Manlosa,
+   Aisa/0000-0001-8058-412X; Partelow, Stefan/0000-0002-7751-4005;
+   Riechers, Maraja/0000-0003-3916-8102
+ZS 0
+TC 0
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+Z9 0
+EI 2639-5916
+DA 2023-01-03
+UT WOS:000899558600001
+ER
+
+PT J
+AU Allen, Cameron
+   Malekpour, Shirin
+TI Unlocking and accelerating transformations to the SDGs: a review of
+   existing knowledge
+SO SUSTAINABILITY SCIENCE
+DI 10.1007/s11625-023-01342-z
+EA JUN 2023
+DT Review; Early Access
+PY 2023
+Z8 0
+ZB 0
+TC 0
+ZR 0
+ZA 0
+ZS 0
+Z9 0
+SN 1862-4065
+EI 1862-4057
+DA 2023-06-21
+UT WOS:000999832500002
+PM 37363307
+ER
+
+PT J
+AU Kerr, Rachel Bezner
+   Postigo, Julio C.
+   Smith, Pete
+   Cowie, Annette
+   Singh, Pramod K.
+   Rivera-Ferre, Marta
+   Tirado-von der Pahlen, Maria Cristina
+   Campbell, Donovan
+   Neufeldt, Henry
+TI Agroecology as a transformative approach to tackle climatic, food, and
+   ecosystemic crises
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 62
+AR 101275
+DI 10.1016/j.cosust.2023.101275
+DT Article
+PD JUN 2023
+PY 2023
+RI Smith, Pete/G-1041-2010; Singh, Pramod K/
+OI Smith, Pete/0000-0002-3784-1124; Singh, Pramod K/0000-0003-2212-0583
+Z8 0
+TC 0
+ZB 0
+ZA 0
+ZR 0
+ZS 0
+Z9 0
+SN 1877-3435
+EI 1877-3443
+DA 2023-05-09
+UT WOS:000969075300001
+ER
+
+PT J
+AU Gonda, Noemi
+   Bori, Peter Jozsef
+TI Rural politics in undemocratic times: Exploring the emancipatory
+   potential of small rural initiatives in authoritarian Hungary
+SO GEOFORUM
+VL 143
+AR 103766
+DI 10.1016/j.geoforum.2023.103766
+EA MAY 2023
+DT Article
+PD JUL 2023
+PY 2023
+Z8 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+SN 0016-7185
+EI 1872-9398
+DA 2023-07-01
+UT WOS:001011047300001
+ER
+
+PT J
+AU Jordan, Nicholas R.
+   Wilson, David Sloan
+   Noble, Kate
+   Miller, Keith
+   Conway, Tara Maireid
+   Cureton, Colin
+TI A polycentric network strategy for regional diversification of
+   agriculture: theory and implementation
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+VL 7
+AR 1012759
+DI 10.3389/fsufs.2023.1012759
+DT Article
+PD MAY 18 2023
+PY 2023
+ZS 0
+Z8 0
+ZB 0
+ZA 0
+TC 0
+ZR 0
+Z9 0
+EI 2571-581X
+DA 2023-06-11
+UT WOS:000999359700001
+ER
+
+PT J
+AU Kok, Kristiaan P. W.
+TI Politics beyond agency? Pluralizing structure(s) in sustainability
+   transitions
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+VL 100
+AR 103120
+DI 10.1016/j.erss.2023.103120
+EA MAY 2023
+DT Article
+PD JUN 2023
+PY 2023
+ZA 0
+ZB 0
+ZS 0
+TC 0
+ZR 0
+Z8 0
+Z9 0
+SN 2214-6296
+EI 2214-6326
+DA 2023-06-15
+UT WOS:001001774000001
+ER
+
+PT J
+AU Morell, Ildiko Asztalos
+TI Governing resettlement beyond safety: Multilevel governance as a model
+   for sustainable resettlement of unaccompanied refugee children in rural
+   Sweden?
+SO SOCIOLOGIA RURALIS
+DI 10.1111/soru.12431
+EA MAY 2023
+DT Article; Early Access
+PY 2023
+ZR 0
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+TC 0
+Z9 0
+SN 0038-0199
+EI 1467-9523
+DA 2023-05-18
+UT WOS:000982359800001
+ER
+
+PT J
+AU Baldos, Uris Lantz C.
+   Chepeliev, Maksym
+   Cultice, Brian
+   Huber, Matthew
+   Meng, Sisi
+   Ruane, Alex C.
+   Suttles, Shellye
+   van der Mensbrugghe, Dominique
+TI Global-to-local-to-global interactions and climate change
+SO ENVIRONMENTAL RESEARCH LETTERS
+VL 18
+IS 5
+AR 053002
+DI 10.1088/1748-9326/acc95c
+DT Review
+PD MAY 1 2023
+PY 2023
+RI Cultice, Brian/ITV-7719-2023; Baldos, Uris Lantz C/; Meng, Sisi/
+OI Baldos, Uris Lantz C/0000-0003-3893-0839; Meng, Sisi/0000-0003-0677-2717
+TC 0
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+Z9 0
+SN 1748-9326
+DA 2023-05-17
+UT WOS:000978497900001
+ER
+
+PT J
+AU Kavonic, Jessica
+   Bulkeley, Harriet
+TI Generating transformative capacity: ICLEI Africa's urban natural assets
+   for Africa programme
+SO LOCAL ENVIRONMENT
+VL 28
+IS 7
+SI SI
+BP 900
+EP 917
+DI 10.1080/13549839.2023.2190349
+EA APR 2023
+DT Article
+PD JUL 3 2023
+PY 2023
+ZS 0
+ZA 0
+ZB 0
+ZR 0
+TC 0
+Z8 0
+Z9 0
+SN 1354-9839
+EI 1469-6711
+DA 2023-05-14
+UT WOS:000976118400001
+ER
+
+PT J
+AU Sakhraoui, Khadidja
+   Awopone, Albert K.
+   von Hirschhausen, Christian
+   Kebir, Noara
+   Agadi, Redha
+TI Toward a systemic approach to energy transformation in Algeria
+SO EURO-MEDITERRANEAN JOURNAL FOR ENVIRONMENTAL INTEGRATION
+VL 8
+IS 2
+BP 365
+EP 379
+DI 10.1007/s41207-023-00367-1
+EA APR 2023
+DT Article
+PD JUN 2023
+PY 2023
+OI Awopone, Albert Kotawoke/0000-0002-6544-7992
+ZB 0
+TC 0
+ZA 0
+ZR 0
+ZS 0
+Z8 0
+Z9 0
+SN 2365-6433
+EI 2365-7448
+DA 2023-05-15
+UT WOS:000978287300001
+ER
+
+PT J
+AU Buijs, Arjen E.
+   de Koning, Susan
+   Mattijssen, Thomas J. M.
+   Smeding, Ingeborg W.
+   Smits, Marie-Jose
+   Steins, Nathalie A.
+TI Civil society for sustainable change: strategies of NGOs and active
+   citizens to contribute to sustainability transitions
+SO JOURNAL OF ENVIRONMENTAL PLANNING AND MANAGEMENT
+DI 10.1080/09640568.2023.2205571
+EA APR 2023
+DT Article; Early Access
+PY 2023
+OI Steins, Nathalie A./0000-0002-6362-342X
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+TC 0
+ZB 0
+Z9 0
+SN 0964-0568
+EI 1360-0559
+DA 2023-06-02
+UT WOS:000993571000001
+ER
+
+PT J
+AU Huei-Ling, Lai
+TI From protected spaces to hybrid spaces: Mobilizing A place-centered
+   enabling approach for justice-sensitive grassroots innovation studies
+SO ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+VL 47
+AR 100726
+DI 10.1016/j.eist.2023.100726
+EA APR 2023
+DT Article
+PD JUN 2023
+PY 2023
+ZA 0
+TC 0
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+Z9 0
+SN 2210-4224
+EI 2210-4232
+DA 2023-05-17
+UT WOS:000982689400001
+ER
+
+PT J
+AU Tapiola, Titta
+   Varho, Vilja
+   Soini, Katriina
+TI Exploring visions and vision clusters of sustainable food packaging- The
+   case of Finland
+SO FUTURES
+VL 149
+AR 103157
+DI 10.1016/j.futures.2023.103157
+EA APR 2023
+DT Article
+PD MAY 2023
+PY 2023
+ZS 0
+ZR 0
+ZA 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+SN 0016-3287
+EI 1873-6378
+DA 2023-05-19
+UT WOS:000982965500001
+ER
+
+PT J
+AU Little, John C.
+   Kaaronen, Roope O.
+   Hukkinen, Janne I.
+   Xiao, Shuhai
+   Sharpee, Tatyana
+   Farid, Amro M.
+   Nilchiani, Roshanak
+   Barton, C. Michael
+TI Earth Systems to Anthropocene Systems: An Evolutionary,
+   System-of-Systems, Convergence Paradigm for Interdependent Societal
+   Challenges
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+VL 57
+IS 14
+DI 10.1021/acs.est.2c062035504
+DT Article
+PD APR 11 2023
+PY 2023
+RI Barton, C Michael/IUM-2529-2023
+OI Barton, C Michael/0000-0003-2561-1927
+ZS 0
+ZB 0
+Z8 0
+TC 0
+ZA 0
+ZR 0
+Z9 0
+SN 0013-936X
+EI 1520-5851
+DA 2023-05-05
+UT WOS:000969237700001
+ER
+
+PT J
+AU Kriechbaum, Michael
+   Terler, Niklas
+   Stuermer, Bernhard
+   Stern, Tobias
+TI (Re)framing technology: The evolution from biogas to biomethane in
+   Austria
+SO ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+VL 47
+AR 100724
+DI 10.1016/j.eist.2023.100724
+EA APR 2023
+DT Article
+PD JUN 2023
+PY 2023
+ZB 0
+TC 0
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+Z9 0
+SN 2210-4224
+EI 2210-4232
+DA 2023-05-22
+UT WOS:000977033200001
+ER
+
+PT J
+AU Ningrum, Dianty
+   Raven, Rob
+   Malekpour, Shirin
+   Moallemi, Enayat A.
+   Bryan, Brett A.
+TI Transformative potential in sustainable development goals engagement:
+   Experience from local governance in Australia
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+VL 80
+AR 102670
+DI 10.1016/j.gloenvcha.2023.102670
+EA APR 2023
+DT Article
+PD MAY 2023
+PY 2023
+OI Ningrum, Dianty/0000-0002-0213-6740
+ZB 0
+Z8 0
+TC 0
+ZS 0
+ZR 0
+ZA 0
+Z9 0
+SN 0959-3780
+EI 1872-9495
+DA 2023-05-17
+UT WOS:000971976500001
+ER
+
+PT J
+AU Aall, Carlo
+   Eyer-Habighorst, Christiane M.
+   Ram-Hanssen, Irmelin G.
+   Korsbrekke, Mari Hanssen
+   Hovelsrud, Grete
+TI "I'm Fixing a Hole Where the Rain Gets in, and Stops My Mind from
+   Wandering": Approaching Sustainable Climate Change Adaptations
+SO WEATHER CLIMATE AND SOCIETY
+VL 15
+IS 2
+BP 349
+EP 364
+DI 10.1175/WCAS-D-22-0113.1
+DT Article
+PD APR 2023
+PY 2023
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+SN 1948-8327
+EI 1948-8335
+DA 2023-06-11
+UT WOS:000995827000001
+ER
+
+PT J
+AU Little, John C.
+   Kaaronen, Roope O.
+   Hukkinen, Janne I.
+   Xiao, Shuhai
+   Sharpee, Tatyana
+   Farid, Amro M.
+   Nilchiani, Roshanak
+   Barton, C. Michael
+TI Earth Systems to Anthropocene Systems: An Evolutionary,
+   System-of-Systems, Convergence Paradigm for Interdependent Societal
+   Challenges
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+DI 10.1021/acs.est.2c06203
+EA MAR 2023
+DT Review; Early Access
+PY 2023
+RI Little, John C/B-4154-2009; Barton, C Michael/IUM-2529-2023; Hukkinen, Janne I./; Kaaronen, Roope Oskari/
+OI Little, John C/0000-0003-2965-9557; Barton, C
+   Michael/0000-0003-2561-1927; Hukkinen, Janne I./0000-0003-1316-3995;
+   Kaaronen, Roope Oskari/0000-0002-2414-6974
+TC 0
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+Z9 0
+SN 0013-936X
+EI 1520-5851
+DA 2023-04-26
+UT WOS:000965847500001
+PM 37000909
+ER
+
+PT J
+AU Islami, Iman
+   Azadi, Hossein
+   Flores Diaz, Adriana Carolina
+   Sadrabad, Hossein Sarvi
+TI Collaborative water management through revitalizing social power
+   relationships: a social network analysis of Qanat stakeholders in Iran
+SO IRRIGATION SCIENCE
+DI 10.1007/s00271-023-00856-9
+EA MAR 2023
+DT Article; Early Access
+PY 2023
+RI Azadi, Hossein/E-2361-2011; Flores-Diaz, Adriana Carolina/; islami, iman/
+OI Azadi, Hossein/0000-0002-5108-1993; Flores-Diaz, Adriana
+   Carolina/0000-0003-1297-7380; islami, iman/0000-0002-8082-3896
+Z8 0
+ZB 0
+ZS 0
+ZA 0
+ZR 0
+TC 0
+Z9 0
+SN 0342-7188
+EI 1432-1319
+DA 2023-03-31
+UT WOS:000951889600001
+ER
+
+PT J
+AU Deutsch, Sierra
+   Keller, Roger
+   Krug, Cornelia Bettina
+   Michel, Annina Helena
+TI Transdisciplinary transformative change: an analysis of some best
+   practices and barriers, and the potential of critical social science in
+   getting us there
+SO BIODIVERSITY AND CONSERVATION
+DI 10.1007/s10531-023-02576-0
+EA MAR 2023
+DT Article; Early Access
+PY 2023
+OI Deutsch, Sierra/0000-0002-6659-6092
+ZR 0
+ZA 0
+Z8 0
+TC 0
+ZB 0
+ZS 0
+Z9 0
+SN 0960-3115
+EI 1572-9710
+DA 2023-03-31
+UT WOS:000950953500001
+ER
+
+PT J
+AU Lespagnard, Margaux
+   Galle, Waldo
+   De Temmerman, Niels
+TI Visualizing Equitable Housing: A Prototype for a Framework
+SO SUSTAINABILITY
+VL 15
+IS 5
+AR 4110
+DI 10.3390/su15054110
+DT Article
+PD MAR 2023
+PY 2023
+OI Galle, Waldo/0000-0001-7498-3490; De Temmerman,
+   Niels/0000-0002-7382-3310
+ZA 0
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+EI 2071-1050
+DA 2023-03-30
+UT WOS:000947598700001
+ER
+
+PT J
+AU Bandola-Gill, Justyna
+TI Our common metrics? Our Common Agenda report and the epistemic
+   infrastructure of the Sustainable Development Goals
+SO GLOBAL POLICY
+VL 14
+BP 8
+EP 12
+DI 10.1111/1758-5899.13176
+SU 2
+DT Article
+PD MAR 2023
+PY 2023
+OI Bandola-Gill, Justyna/0000-0002-3418-4085
+ZA 0
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 1758-5880
+EI 1758-5899
+DA 2023-05-17
+UT WOS:000956547700002
+ER
+
+PT J
+AU Papin, Marielle
+   Beauregard, Philippe
+TI Can't buy me love: billionaire entrepreneurs' legitimation strategies in
+   transnational climate governance
+SO ENVIRONMENTAL POLITICS
+DI 10.1080/09644016.2023.2180909
+EA MAR 2023
+DT Article; Early Access
+PY 2023
+RI Beauregard, Philippe/W-3838-2019; Papin, Marielle/ABH-3397-2020; Beauregard, Philippe/
+OI Papin, Marielle/0000-0002-0674-6503; Beauregard,
+   Philippe/0000-0003-3139-6186
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZA 0
+Z9 0
+SN 0964-4016
+EI 1743-8934
+DA 2023-03-22
+UT WOS:000941129400001
+ER
+
+PT J
+AU Dilling, Lisa
+   Daly, Meaghan E.
+   Travis, William R.
+   Ray, Andrea J.
+   Wilhelmi, Olga, V
+TI The role of adaptive capacity in incremental and transformative
+   adaptation in three large US Urban water systems
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+VL 79
+AR 102649
+DI 10.1016/j.gloenvcha.2023.102649
+EA FEB 2023
+DT Article
+PD MAR 2023
+PY 2023
+TC 0
+Z8 0
+ZR 0
+ZS 0
+ZA 0
+ZB 0
+Z9 0
+SN 0959-3780
+EI 1872-9495
+DA 2023-03-30
+UT WOS:000948389000001
+ER
+
+PT J
+AU Widdicks, Kelly
+   Lucivero, Federica
+   Samuel, Gabrielle
+   Croxatto, Lucas Somavilla
+   Smith, Marcia Tavares
+   Ten Holter, Carolyn
+   Berners-Lee, Mike
+   Blair, Gordon S.
+   Jirotka, Marina
+   Knowles, Bran
+   Sorrell, Steven
+   Rivera, Miriam Borjesson
+   Cook, Caroline
+   Coroama, Vlad C.
+   Foxon, Timothy J.
+   Hardy, Jeffrey
+   Hilty, Lorenz M.
+   Hinterholzer, Simon
+   Penzenstadler, Birgit
+TI Systems thinking and efficiency under emissions constraints: Addressing
+   rebound effects in digital innovation and policy
+SO PATTERNS
+VL 4
+IS 2
+AR 100679
+DI 10.1016/j.patter.2023.100679
+EA FEB 2023
+DT Article
+PD FEB 10 2023
+PY 2023
+RI Coroamă, Vlad Constantin/AFG-5190-2022; Penzenstadler, Birgit S/B-1582-2015
+OI Coroamă, Vlad Constantin/0000-0002-9292-3886; Penzenstadler, Birgit
+   S/0000-0002-5771-0455
+ZR 0
+TC 0
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+Z9 0
+SN 2666-3899
+DA 2023-03-24
+UT WOS:000943155300001
+PM 36873905
+ER
+
+PT J
+AU Schaal, Tamara
+   Mitchell, Michael
+   Scheele, Ben C.
+   Ryan, Paul
+   Hanspach, Jan
+TI Using the three horizons approach to explore pathways towards positive
+   futures for agricultural landscapes with rich biodiversity
+SO SUSTAINABILITY SCIENCE
+DI 10.1007/s11625-022-01275-z
+EA FEB 2023
+DT Article; Early Access
+PY 2023
+RI Mitchell, Michael/C-2382-2014
+OI Mitchell, Michael/0000-0002-1082-3073
+ZA 0
+TC 1
+ZB 1
+ZR 0
+ZS 0
+Z8 0
+Z9 1
+SN 1862-4065
+EI 1862-4057
+DA 2023-02-26
+UT WOS:000926186200001
+ER
+
+PT J
+AU Troisi, Roberta
+   Nese, Annamaria
+   Blanco-Gregory, Rocio
+   Anna Giovanniello, Monica
+TI The Effects of Corruption and Innovation on Sustainability: A Firm-Level
+   Analysis
+SO SUSTAINABILITY
+VL 15
+IS 3
+AR 1848
+DI 10.3390/su15031848
+DT Article
+PD FEB 2023
+PY 2023
+RI Troisi, Roberta/; Blanco-Gregory, Rocio/K-8383-2017; Giovanniello, Monica Anna/
+OI Troisi, Roberta/0000-0001-6439-2611; Blanco-Gregory,
+   Rocio/0000-0002-0105-5535; Giovanniello, Monica Anna/0000-0003-0513-1512
+ZB 0
+ZR 0
+ZA 0
+Z8 0
+TC 2
+ZS 0
+Z9 2
+EI 2071-1050
+DA 2023-03-08
+UT WOS:000930196600001
+ER
+
+PT J
+AU Dominguez-Guzman, Carolina
+   Zwarteveen, Margreet
+   Kuper, Marcel
+TI Transformation as Practice: Learning From Everyday Dealings With
+   Groundwater
+SO WATER ALTERNATIVES-AN INTERDISCIPLINARY JOURNAL ON WATER POLITICS AND
+   DEVELOPMENT
+VL 16
+IS 1
+SI SI
+BP 1
+EP 12
+DT Article
+PD FEB 2023
+PY 2023
+RI Zwarteveen, Margreet/Q-9796-2017
+OI Zwarteveen, Margreet/0000-0001-7169-1337
+TC 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+ZS 0
+Z9 0
+SN 1965-0175
+DA 2023-05-07
+UT WOS:000964783900001
+ER
+
+PT J
+AU Caniglia, Guido
+   Freeth, R.
+   Luederitz, C.
+   Leventon, J.
+   West, S. P.
+   John, B.
+   Peukert, D.
+   Lang, D. J.
+   von Wehrden, H.
+   Martin-Lopez, B.
+   Fazey, I.
+   Russo, F.
+   von Wirth, T.
+   Schluter, M.
+   Vogel, C.
+TI Practical wisdom and virtue ethics for knowledge co-production in
+   sustainability science
+SO NATURE SUSTAINABILITY
+VL 6
+IS 5
+BP 493
+EP 501
+DI 10.1038/s41893-022-01040-1
+EA JAN 2023
+DT Review
+PD MAY 2023
+PY 2023
+RI Schlüter, Maja/C-2374-2015; West, Simon/; Martin-Lopez, Berta/R-9397-2017; Luederitz, Christopher/
+OI Schlüter, Maja/0000-0002-7780-1039; West, Simon/0000-0002-9738-0593;
+   Martin-Lopez, Berta/0000-0003-2622-0135; Luederitz,
+   Christopher/0000-0002-7873-4229
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+Z9 0
+SN 2398-9629
+DA 2023-02-28
+UT WOS:000920854200008
+ER
+
+PT J
+AU Hamilton, Rachel Tome Valencia
+   Ramcilovic-Suominen, Sabaheta
+TI From hegemony-reinforcing to hegemony-transcending transformations:
+   horizons of possibility and strategies of escape
+SO SUSTAINABILITY SCIENCE
+DI 10.1007/s11625-022-01257-1
+EA JAN 2023
+DT Article; Early Access
+PY 2023
+Z8 0
+ZB 0
+ZR 0
+ZA 0
+TC 3
+ZS 0
+Z9 3
+SN 1862-4065
+EI 1862-4057
+DA 2023-02-14
+UT WOS:000919722400001
+ER
+
+PT J
+AU Allen, Cameron
+   Malekpour, Shirin
+   Mintrom, Michael
+TI Cross-scale, cross-level and multi-actor governance of transformations
+   toward the Sustainable Development Goals: A review of common challenges
+   and solutions
+SO SUSTAINABLE DEVELOPMENT
+VL 31
+IS 3
+BP 1250
+EP 1267
+DI 10.1002/sd.2495
+EA JAN 2023
+DT Review
+PD JUN 2023
+PY 2023
+RI Allen, Cameron/AAP-1886-2021
+OI Allen, Cameron/0000-0001-9954-6684
+ZR 0
+ZS 0
+TC 0
+ZB 0
+Z8 0
+ZA 0
+Z9 0
+SN 0968-0802
+EI 1099-1719
+DA 2023-01-27
+UT WOS:000910720700001
+ER
+
+PT J
+AU Sarku, Rebecca
+   Tauzie, Mapenzie
+   Whitfield, Stephen
+TI Making a case for just agricultural transformation in the UNFCCC: An
+   analysis of justice in the Koronivia Joint Work on Agriculture
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+VL 6
+AR 1033152
+DI 10.3389/fsufs.2022.1033152
+DT Article
+PD JAN 4 2023
+PY 2023
+TC 0
+ZA 0
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+Z9 0
+EI 2571-581X
+DA 2023-02-02
+UT WOS:000913966800001
+ER
+
+PT J
+AU Wyborn, Carina A.
+   van Kerkhoff, Lorrae E.
+   Colloff, Matthew J.
+   Alexandra, Jason
+   Olsson, Ruby
+TI The politics of adaptive governance: water reform, climate change, and
+   First Nations' justice in Australia's Murray-Darling Basin
+SO ECOLOGY AND SOCIETY
+VL 28
+IS 1
+AR 4
+DI 10.5751/ES-13641-280104
+DT Article
+PD JAN 2023
+PY 2023
+RI Colloff, Matthew J/B-7398-2009
+OI Colloff, Matthew J/0000-0002-3765-0627
+ZB 0
+ZA 0
+ZR 0
+TC 0
+Z8 0
+ZS 0
+Z9 0
+SN 1708-3087
+DA 2023-02-17
+UT WOS:000921330300002
+ER
+
+PT J
+AU Tschersich, Julia
+   Sievers-Glotzbach, Stefanie
+   Gmeiner, Nina
+   Kliem, Lea
+TI The transformative potential of Seed Commons: Applying the
+   social-ecological transformation framework to agri-food systems
+SO JOURNAL OF RURAL STUDIES
+VL 97
+BP 290
+EP 302
+DI 10.1016/j.jrurstud.2022.12.005
+EA DEC 2022
+DT Article
+PD JAN 2023
+PY 2023
+OI Tschersich, Julia/0000-0002-1803-6736; Kliem, Lea/0000-0001-8413-7773
+ZA 0
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZS 0
+Z9 0
+SN 0743-0167
+EI 1873-1392
+DA 2023-02-16
+UT WOS:000919582500001
+ER
+
+PT J
+AU Mayaux, Pierre-Louis
+   Dajani, Muna
+   Cleaver, Frances
+   Naouri, Mohamed
+   Kuper, Marcel
+   Hartani, Tarik
+TI Explaining societal change through bricolage: Transformations in regimes
+   of water governance
+SO ENVIRONMENT AND PLANNING E-NATURE AND SPACE
+DI 10.1177/25148486221143666
+EA DEC 2022
+DT Article; Early Access
+PY 2022
+RI Kuper, Marcel/ABE-1897-2020
+OI Kuper, Marcel/0000-0002-1240-0592
+ZA 0
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+TC 0
+Z9 0
+SN 2514-8486
+EI 2514-8494
+DA 2023-01-06
+UT WOS:000901445900001
+ER
+
+PT J
+AU Gustafsson, Karin M.
+   Hysing, Erik
+TI IPBES as a transformative agent: opportunities and risks
+SO ENVIRONMENTAL CONSERVATION
+DI 10.1017/S0376892922000467
+EA DEC 2022
+DT Editorial Material; Early Access
+PY 2022
+OI Hysing, Erik/0000-0001-5322-4305; Gustafsson, Karin
+   M/0000-0002-1495-8346
+ZB 0
+Z8 0
+ZS 0
+TC 0
+ZA 0
+ZR 0
+Z9 0
+SN 0376-8929
+EI 1469-4387
+DA 2023-01-25
+UT WOS:000899016900001
+ER
+
+PT J
+AU Riechers, Maraja
+   Betz, Lydia
+   Gould, Rachelle K.
+   Loch, Theresa K.
+   Lam, David P. M.
+   Lazzari, Natali
+   Martin-Lopez, Berta
+   Sala, Juan E.
+TI Reviewing relational values for future research: insights from the coast
+SO ECOLOGY AND SOCIETY
+VL 27
+IS 4
+AR 44
+DI 10.5751/ES-13710-270444
+DT Article
+PD DEC 2022
+PY 2022
+OI Loch, Theresa Klara/0000-0002-3920-3425
+ZS 0
+ZA 0
+ZB 1
+Z8 0
+ZR 0
+TC 1
+Z9 1
+SN 1708-3087
+DA 2023-01-22
+UT WOS:000905258300001
+ER
+
+PT J
+AU Pereira, Joana Castro
+   Terrenas, Joao
+TI Towards a transformative governance of the Amazon
+SO GLOBAL POLICY
+VL 13
+SI SI
+BP 60
+EP 75
+DI 10.1111/1758-5899.13163
+SU 3
+DT Article
+PD DEC 2022
+PY 2022
+RI Pereira, Joana/IQT-1620-2023; Pereira, Joana Castro/A-9222-2016; Terrenas, Joao/
+OI Pereira, Joana Castro/0000-0002-6272-8481; Terrenas,
+   Joao/0000-0003-1462-8571
+ZS 1
+TC 0
+ZA 0
+ZB 0
+Z8 0
+ZR 0
+Z9 1
+SN 1758-5880
+EI 1758-5899
+DA 2023-01-06
+UT WOS:000897583300006
+ER
+
+PT J
+AU Chen, Mingxing
+   Chen, Liangkan
+   Cheng, Jiafan
+   Yu, Jianhui
+TI Identifying interlinkages between urbanization and Sustainable
+   Development Goals
+SO GEOGRAPHY AND SUSTAINABILITY
+VL 3
+IS 4
+BP 339
+EP 346
+DI 10.1016/j.geosus.2022.10.001
+EA NOV 2022
+DT Article
+PD DEC 2022
+PY 2022
+RI chen, mingxing/K-4097-2013
+OI chen, mingxing/0000-0001-5224-9762
+ZR 0
+TC 3
+Z8 0
+ZA 0
+ZS 0
+ZB 1
+Z9 3
+SN 2096-7438
+EI 2666-6839
+DA 2023-01-26
+UT WOS:000909701900003
+ER
+
+PT J
+AU Wei, Fang
+   Zhan, Xiaowen
+TI A review of ES knowledge use in spatial planning
+SO ENVIRONMENTAL SCIENCE & POLICY
+VL 139
+BP 209
+EP 218
+DI 10.1016/j.envsci.2022.11.003
+EA NOV 2022
+DT Review
+PD JAN 2023
+PY 2023
+OI Zhan, Xiaowen/0000-0002-1244-179X
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z9 1
+SN 1462-9011
+EI 1873-6416
+DA 2023-01-07
+UT WOS:000895282300011
+ER
+
+PT J
+AU Young, J. C.
+   Calla, S.
+   Lecuyer, L.
+TI Just and sustainable transformed agricultural landscapes: An analysis
+   based on local food actors? ideal visions of agriculture
+SO AGRICULTURE ECOSYSTEMS & ENVIRONMENT
+VL 342
+AR 108236
+DI 10.1016/j.agee.2022.108236
+EA OCT 2022
+DT Article
+PD FEB 1 2023
+PY 2023
+RI CALLA, Simon/IUO-0420-2023; Young, Juliette/B-4225-2012
+OI CALLA, Simon/0000-0001-8030-0801; Young, Juliette/0000-0002-8522-0883
+TC 1
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+Z9 1
+SN 0167-8809
+EI 1873-2305
+DA 2022-11-25
+UT WOS:000882517900003
+ER
+
+PT J
+AU Mustajoki, Jyri
+   Borchardt, Steve
+   Buettner, Leonie
+   Koehler, Berit
+   Lepenies, Robert
+   Lyytimaeki, Jari
+   Mille, Raoul
+   Pedersen, Anders Branth
+   Reis, Stefan
+   Richard, Didier
+TI Ambitiousness of Sustainable Development Goal (SDG) targets:
+   classification and implications for policy making
+SO DISCOVER SUSTAINABILITY
+VL 3
+IS 1
+AR 36
+DI 10.1007/s43621-022-00104-8
+DT Article
+PD OCT 27 2022
+PY 2022
+RI Borchardt, Steve/IST-1589-2023; Mustajoki, Jyri/AAE-7068-2020; Lyytimäki, Jari/C-8688-2013
+OI Mustajoki, Jyri/0000-0003-3520-9173; Lyytimäki, Jari/0000-0003-3308-5234
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+TC 0
+ZA 0
+Z9 0
+EI 2662-9984
+DA 2023-04-28
+UT WOS:000953283700001
+ER
+
+PT J
+AU Charli-Joseph, Lakshmi
+   Mario Siqueiros-Garcia, Jesus
+   Eakin, Hallie
+   Manuel-Navarrete, David
+   Mazari-Hiriart, Marisa
+   Shelton, Rebecca
+   Perez-Belmont, Patricia
+   Ruizpalacios, Beatriz
+TI Enabling collective agency for sustainability transformations through
+   reframing in the Xochimilco social-ecological system
+SO SUSTAINABILITY SCIENCE
+DI 10.1007/s11625-022-01224-w
+EA OCT 2022
+DT Article; Early Access
+PY 2022
+RI Siqueiros-García, Jesús Mario/ABG-7535-2021; Charli-Joseph, Lakshmi/; Eakin, Hallie/
+OI Siqueiros-García, Jesús Mario/0000-0001-8008-6198; Charli-Joseph,
+   Lakshmi/0000-0003-1524-3323; Eakin, Hallie/0000-0001-8253-1320
+ZR 0
+ZB 0
+ZA 0
+ZS 0
+Z8 0
+TC 1
+Z9 1
+SN 1862-4065
+EI 1862-4057
+DA 2022-10-28
+UT WOS:000870078900001
+ER
+
+PT J
+AU Juri, Silvana
+   Baraibar, Matilda
+   Clark, Laurie Beth
+   Cheguhem, Mauricio
+   Jobbagy, Esteban
+   Marcone, Jorge
+   Mazzeo, Nestor
+   Meerhoff, Mariana
+   Trimble, Micaela
+   Zurbriggen, Cristina
+   Deutsch, Lisa
+TI Food systems transformations in South America: Insights from a
+   transdisciplinary process rooted in Uruguay
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+VL 6
+AR 887034
+DI 10.3389/fsufs.2022.887034
+DT Article
+PD OCT 13 2022
+PY 2022
+RI Baraibar Norberg, Matilda Micaela/AAB-4443-2019; Deutsch, Lisa/; Juri, Silvana/
+OI Baraibar Norberg, Matilda Micaela/0000-0002-7932-3544; Deutsch,
+   Lisa/0000-0002-1950-5522; Juri, Silvana/0000-0002-0434-0403
+Z8 0
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+EI 2571-581X
+DA 2022-11-05
+UT WOS:000875738100001
+ER
+
+PT J
+AU Montana, Jasper
+TI Fostering place-shaped responsibilities for biodiversity: An analytical
+   framework with insights from the UK Overseas Territories
+SO EARTH SYSTEM GOVERNANCE
+VL 14
+AR 100156
+DI 10.1016/j.esg.2022.100156
+EA OCT 2022
+DT Article
+PD DEC 2022
+PY 2022
+OI Montana, Jasper/0000-0003-3405-2549
+Z8 0
+ZB 0
+TC 0
+ZA 0
+ZR 0
+ZS 0
+Z9 0
+SN 2589-8116
+DA 2022-11-11
+UT WOS:000876985100001
+ER
+
+PT J
+AU Bluwstein, Jevgeniy
+   Cavanagh, Connor
+TI Rescaling the land rush? Global political ecologies of land use and
+   cover change in key scenario archetypes for achieving the 1.5 degrees C
+   Paris agreement target
+SO JOURNAL OF PEASANT STUDIES
+VL 50
+IS 1
+BP 262
+EP 294
+DI 10.1080/03066150.2022.2125386
+EA OCT 2022
+DT Article
+PD JAN 2 2023
+PY 2023
+RI Bluwstein, Jevgeniy/AAB-4954-2020
+OI Bluwstein, Jevgeniy/0000-0002-1162-5028
+TC 1
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z8 0
+Z9 1
+SN 0306-6150
+EI 1743-9361
+DA 2022-11-04
+UT WOS:000874721200001
+ER
+
+PT J
+AU Sapiains, Rodolfo
+   Azocar, Gabriela
+   Moraga, Pilar
+   Valenzuela, Catalina
+   Aldunce, Paulina
+   Cornejo, Camilo
+   Rojas, Maisa
+   Pulgar, Antonio
+   Medina, Loreto
+   Bozkurt, Deniz
+TI Are Citizens Ready for Active Climate Engagement or Stuck in a Game of
+   Blame? Local Perceptions of Climate Action and Citizen Participation in
+   Chilean Patagonia
+SO SUSTAINABILITY
+VL 14
+IS 19
+AR 12034
+DI 10.3390/su141912034
+DT Article
+PD OCT 2022
+PY 2022
+RI Valenzuela, Catalina/HSF-1294-2023; Bozkurt, Deniz/; Azocar de la Cruz, Gabriela/; Aldunce, Paulina/T-2125-2017
+OI Bozkurt, Deniz/0000-0003-1021-8241; Azocar de la Cruz,
+   Gabriela/0000-0002-8282-1122; Aldunce, Paulina/0000-0002-1159-9333
+ZS 0
+TC 1
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+Z9 1
+EI 2071-1050
+DA 2022-10-21
+UT WOS:000867118300001
+ER
+
+PT J
+AU MacArthur, Jess
+   Carrard, Naomi
+   Davila, Federico
+   Grant, Melita
+   Megaw, Tamara
+   Willetts, Juliet
+   Winterford, Keren
+TI Gender-transformative approaches in international development: A brief
+   history and five uniting principles
+SO WOMENS STUDIES INTERNATIONAL FORUM
+VL 95
+AR 102635
+DI 10.1016/j.wsif.2022.102635
+EA SEP 2022
+DT Review
+PD NOV-DEC 2022
+PY 2022
+OI Willetts, Juliet/0000-0002-3975-9642; Winterford,
+   Keren/0000-0002-6929-0582; Davila, Federico/0000-0002-6899-1854; Grant,
+   Melita/0000-0002-4496-7243; Megaw, Tamara/0000-0002-2030-9131
+ZB 4
+Z8 0
+ZA 0
+TC 5
+ZR 0
+ZS 0
+Z9 5
+SN 0277-5395
+EI 1879-243X
+DA 2022-10-01
+UT WOS:000858404800001
+ER
+
+PT J
+AU Coffey, Brian
+   Damiens, Florence L. P.
+   Hysing, Erik
+   Torabi, Nooshin
+TI Assessing biodiversity policy designs in Australia, France and Sweden.
+   Comparative lessons for transformative governance of biodiversity?
+SO JOURNAL OF ENVIRONMENTAL POLICY & PLANNING
+VL 25
+IS 3
+BP 287
+EP 300
+DI 10.1080/1523908X.2022.2117145
+EA SEP 2022
+DT Article
+PD MAY 4 2023
+PY 2023
+OI Damiens, Florence/0000-0003-0226-634X; Hysing, Erik/0000-0001-5322-4305;
+   Torabi, Dr Nooshin/0000-0002-5834-4477
+Z8 0
+ZR 0
+ZA 0
+ZS 0
+TC 3
+ZB 0
+Z9 3
+SN 1523-908X
+EI 1522-7200
+DA 2022-09-10
+UT WOS:000849763800001
+ER
+
+PT J
+AU Gayialis, Sotiris P.
+   Kechagias, Evripidis P.
+   Papadopoulos, Georgios A.
+   Panayiotou, Nikolaos A.
+TI A Business Process Reference Model for the Development of a Wine
+   Traceability System
+SO SUSTAINABILITY
+VL 14
+IS 18
+AR 11687
+DI 10.3390/su141811687
+DT Article
+PD SEP 2022
+PY 2022
+RI Gayialis, Sotiris P/AAE-2814-2019; Kechagias, Evripidis P./
+OI Gayialis, Sotiris P/0000-0002-7524-0215; Kechagias, Evripidis
+   P./0000-0001-9466-6185
+ZR 0
+ZS 0
+TC 4
+Z8 0
+ZB 0
+ZA 0
+Z9 4
+EI 2071-1050
+DA 2022-09-28
+UT WOS:000856692100001
+ER
+
+PT J
+AU Lazurko, Anita
+   Keys, Patrick W.
+TI A call for agile futures practice in service of transformative change:
+   lessons from envisioning positive climate futures emerging from the
+   pandemic
+SO ECOLOGY AND SOCIETY
+VL 27
+IS 3
+AR 10
+DI 10.5751/ES-13531-270310
+DT Article
+PD SEP 2022
+PY 2022
+RI Keys, Patrick/AAK-1359-2021; Lazurko, Anita/
+OI Keys, Patrick/0000-0002-7250-1563; Lazurko, Anita/0000-0003-3313-4091
+ZR 0
+ZS 0
+Z8 0
+ZB 0
+TC 0
+ZA 0
+Z9 0
+SN 1708-3087
+DA 2022-11-21
+UT WOS:000879545700010
+ER
+
+PT J
+AU Ives, Christopher D.
+   Buys, Clark
+   Ogunbode, Charles
+   Palmer, Matilda
+   Rose, Aneira
+   Valerio, Ruth
+TI Activating faith: pro-environmental responses to a Christian text on
+   sustainability
+SO SUSTAINABILITY SCIENCE
+DI 10.1007/s11625-022-01197-w
+EA AUG 2022
+DT Article; Early Access
+PY 2022
+RI Ogunbode, Charles A/M-9629-2013
+ZR 0
+ZB 0
+ZA 0
+Z8 0
+TC 0
+ZS 0
+Z9 0
+SN 1862-4065
+EI 1862-4057
+DA 2022-08-27
+UT WOS:000842907400001
+PM 36032312
+ER
+
+PT J
+AU Young, J. C.
+   Calla, S.
+   Lecuyer, L.
+   Skrimizea, E.
+TI Understanding the social enablers and disablers of pesticide reduction
+   and agricultural transformation
+SO JOURNAL OF RURAL STUDIES
+VL 95
+BP 67
+EP 76
+DI 10.1016/j.jrurstud.2022.07.023
+EA AUG 2022
+DT Article
+PD OCT 2022
+PY 2022
+RI CALLA, Simon/IUO-0420-2023; Lecuyer, Lou/HGM-5898-2022; Young, Juliette/B-4225-2012
+OI CALLA, Simon/0000-0001-8030-0801; Young, Juliette/0000-0002-8522-0883
+ZA 0
+ZB 2
+ZR 0
+TC 5
+Z8 0
+ZS 0
+Z9 5
+SN 0743-0167
+EI 1873-1392
+DA 2022-09-09
+UT WOS:000848078800007
+ER
+
+PT J
+AU Billi, Marco
+   Zurbriggen, Cristina
+   Morchain, Daniel
+TI Editorial: Discussing structural, systemic and enabling approaches to
+   socio-environmental transformations: Stimulating an interdisciplinary
+   and plural debate within the social sciences
+SO FRONTIERS IN SOCIOLOGY
+VL 7
+AR 968018
+DI 10.3389/fsoc.2022.968018
+DT Editorial Material
+PD AUG 16 2022
+PY 2022
+OI Zurbriggen, Cristina/0000-0001-5169-6712
+ZB 0
+TC 1
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+Z9 1
+EI 2297-7775
+DA 2022-10-16
+UT WOS:000863304300001
+PM 36061263
+ER
+
+PT J
+AU Horcea-Milcu, Andra-Ioana
+TI Values as leverage points for sustainability transformation: two
+   pathways for transformation research
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 57
+AR 101205
+DI 10.1016/j.cosust.2022.101205
+EA AUG 2022
+DT Article
+PD AUG 2022
+PY 2022
+RI Horcea-Milcu, Andra-Ioana/AAF-8772-2019
+OI Horcea-Milcu, Andra-Ioana/0000-0003-1757-6615
+ZA 0
+ZB 1
+Z8 0
+TC 2
+ZR 0
+ZS 0
+Z9 2
+SN 1877-3435
+EI 1877-3443
+DA 2022-09-10
+UT WOS:000849931600001
+ER
+
+PT J
+AU Pereira, Laura M.
+   Kushitor, Sandra Boatemaa
+   Cramer, Carolyn
+   Drimie, Scott
+   Isaacs, Moenieba
+   Malgas, Rhoda
+   Phiri, Ethel
+   Tembo, Chimwemwe
+   Willis, Jenny
+TI Leveraging the potential of wild food for healthy, sustainable, and
+   equitable local food systems: learning from a transformation lab in the
+   Western Cape region
+SO SUSTAINABILITY SCIENCE
+DI 10.1007/s11625-022-01182-3
+EA AUG 2022
+DT Article; Early Access
+PY 2022
+RI Malgas, Rhoda/AAR-5674-2021; Kushitor, Sandra Boatemaa/; Pereira, Laura/L-7258-2013
+OI Malgas, Rhoda/0000-0002-4081-5613; Kushitor, Sandra
+   Boatemaa/0000-0002-0638-6261; Pereira, Laura/0000-0002-4996-7234
+ZB 0
+ZS 0
+TC 2
+Z8 0
+ZA 0
+ZR 0
+Z9 2
+SN 1862-4065
+EI 1862-4057
+DA 2022-08-20
+UT WOS:000838532600001
+ER
+
+PT J
+AU de Moor, Joost
+TI Prioritizing adaptation and mitigation in the climate movement: evidence
+   from a cross-national protest survey of the Global Climate Strike, 2019
+SO MITIGATION AND ADAPTATION STRATEGIES FOR GLOBAL CHANGE
+VL 27
+IS 6
+AR 41
+DI 10.1007/s11027-022-10003-y
+DT Article
+PD AUG 2022
+PY 2022
+OI de Moor, Joost/0000-0002-0413-9590
+ZS 0
+TC 0
+ZA 0
+Z8 0
+ZR 0
+ZB 0
+Z9 0
+SN 1381-2386
+EI 1573-1596
+DA 2022-07-31
+UT WOS:000829935600001
+PM 35909943
+ER
+
+PT J
+AU Riedy, Chris
+   Waddock, Sandra
+TI Imagining transformation: Change agent narratives of sustainable futures
+SO FUTURES
+VL 142
+AR 103010
+DI 10.1016/j.futures.2022.103010
+EA JUL 2022
+DT Article
+PD SEP 2022
+PY 2022
+OI Waddock, Sandra/0000-0003-1089-7686
+ZR 0
+ZS 0
+Z8 0
+TC 2
+ZA 0
+ZB 0
+Z9 2
+SN 0016-3287
+EI 1873-6378
+DA 2022-10-03
+UT WOS:000860651100005
+ER
+
+PT J
+AU Bebbington, Jan
+   Rubin, Andy
+TI Accounting in the Anthropocene: A roadmap for stewardship
+SO ACCOUNTING AND BUSINESS RESEARCH
+VL 52
+IS 5
+SI SI
+BP 582
+EP 596
+DI 10.1080/00014788.2022.2079780
+DT Article
+PD JUL 29 2022
+PY 2022
+Z8 0
+ZR 0
+ZA 0
+TC 1
+ZB 0
+ZS 0
+Z9 1
+SN 0001-4788
+EI 2159-4260
+DA 2022-08-13
+UT WOS:000835964500010
+ER
+
+PT J
+AU McDermott, Constance L.
+   Montana, Jasper
+   Bennett, Aoife
+   Gueiros, Carolina
+   Hamilton, Rachel
+   Hirons, Mark
+   Maguire-Rajpaul, Victoria A.
+   Parry, Emilie
+   Picot, Laura
+TI Transforming land use governance: Global targets without equity miss the
+   mark
+SO ENVIRONMENTAL POLICY AND GOVERNANCE
+VL 33
+IS 3
+BP 245
+EP 257
+DI 10.1002/eet.2027
+EA JUL 2022
+DT Article
+PD JUN 2023
+PY 2023
+OI Gueiros, Carolina/0000-0003-4124-5007; Hirons, Mark/0000-0002-5020-7830;
+   Montana, Jasper/0000-0003-3405-2549; McDermott,
+   Constance/0000-0002-5238-0936; Picot, Laura/0000-0002-1585-5365
+ZR 0
+ZB 1
+Z8 0
+ZS 0
+TC 5
+ZA 0
+Z9 5
+SN 1756-932X
+EI 1756-9338
+DA 2022-07-29
+UT WOS:000828899600001
+ER
+
+PT J
+AU Zhang, Junze
+   Wang, Shuai
+   Liu, Yanxu
+   Zhao, Wenwu
+   Fu, Bojie
+TI Does having more sustainable communities bring better sustainability?
+   Comment
+SO INNOVATION
+VL 3
+IS 4
+AR 100267
+DI 10.1016/j.xinn.2022.100267
+DT Editorial Material
+PD JUL 12 2022
+PY 2022
+RI zhao, wenwu/L-7716-2018; Wang, Shuai/B-2334-2017; Wang, Shuai/HZJ-7466-2023; Fu, Bojie/B-1493-2009; zhang, junze/
+OI zhao, wenwu/0000-0001-5342-354X; Wang, Shuai/0000-0003-1595-9858; zhang,
+   junze/0000-0003-3943-8651
+ZS 0
+ZA 0
+ZR 0
+ZB 0
+TC 0
+Z8 0
+Z9 0
+SN 2666-6758
+DA 2022-08-10
+UT WOS:000834850600002
+PM 35769494
+ER
+
+PT J
+AU Forsyth, Tim
+   McDermott, Constance L.
+   Dhakal, Rabindra
+TI What is equitable about equitable resilience? Dynamic risks and
+   subjectivities in Nepal
+SO WORLD DEVELOPMENT
+VL 159
+AR 106020
+DI 10.1016/j.worlddev.2022.106020
+EA JUL 2022
+DT Article
+PD NOV 2022
+PY 2022
+RI Forsyth, Tim/K-1044-2019; McDermott, Constance/
+OI Forsyth, Tim/0000-0001-7227-9475; McDermott,
+   Constance/0000-0002-5238-0936
+ZA 0
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z8 0
+Z9 0
+SN 0305-750X
+EI 1873-5991
+DA 2022-08-04
+UT WOS:000831103700001
+ER
+
+PT J
+AU Rosa, Salvatore Paolo De
+   de Moor, Joost
+   Dabaieh, Marwa
+TI Vulnerability and activism in urban climate politics: An actor-centered
+   approach to transformational adaptation in Malmo? (Sweden)
+SO CITIES
+VL 130
+AR 103848
+DI 10.1016/j.cities.2022.103848
+EA JUL 2022
+DT Article
+PD NOV 2022
+PY 2022
+OI De Rosa, Salvatore Paolo/0000-0001-9655-1533; de Moor,
+   Joost/0000-0002-0413-9590
+ZA 0
+ZS 0
+TC 3
+Z8 0
+ZR 0
+ZB 0
+Z9 3
+SN 0264-2751
+EI 1873-6084
+DA 2022-07-27
+UT WOS:000827711100007
+ER
+
+PT J
+AU Barnes, Michele L.
+   Jasny, Lorien
+   Bauman, Andrew
+   Ben, Jon
+   Berardo, Ramiro
+   Bodin, Orjan
+   Cinner, Joshua
+   Feary, David A.
+   Guerrero, Angela M.
+   Januchowski-Hartley, Fraser A.
+   Kuange, John T.
+   Lau, Jacqueline D.
+   Wang, Peng
+   Zamborain-Mason, Jessica
+TI 'Bunkering down': How one community is tightening social-ecological
+   network structures in the face of global change
+SO PEOPLE AND NATURE
+VL 4
+IS 4
+BP 1032
+EP 1048
+DI 10.1002/pan3.10364
+EA JUN 2022
+DT Article
+PD AUG 2022
+PY 2022
+RI Guerrero Gonzalez, Angela/L-2554-2014; Mokhtara, Charafeddine/ACV-5174-2022; Feary, David/ABE-6273-2020; Cinner, Joshua e/E-8966-2011; Bauman, Andrew/; Bodin, Orjan/A-5098-2010; Jasny, Lorien/; Januchowski-Hartley, Fraser/; Lau, Jacqueline/; Berardo, Ramiro/; Barnes, Michele/
+OI Guerrero Gonzalez, Angela/0000-0002-1556-9860; Cinner, Joshua
+   e/0000-0003-2675-9317; Bauman, Andrew/0000-0001-9260-2153; Bodin,
+   Orjan/0000-0002-8218-1153; Jasny, Lorien/0000-0002-9014-4838;
+   Januchowski-Hartley, Fraser/0000-0003-2468-8199; Lau,
+   Jacqueline/0000-0002-0403-8423; Berardo, Ramiro/0000-0003-2314-5053;
+   Barnes, Michele/0000-0002-1151-4037
+ZB 0
+ZR 0
+ZS 0
+TC 1
+ZA 0
+Z8 0
+Z9 1
+EI 2575-8314
+DA 2022-06-29
+UT WOS:000814084700001
+ER
+
+PT J
+AU Fazey, I
+   Leicester, G.
+TI Archetypes of system transition and transformation: Six lessons for
+   stewarding change
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+VL 91
+AR 102646
+DI 10.1016/j.erss.2022.102646
+EA JUN 2022
+DT Article
+PD SEP 2022
+PY 2022
+ZB 0
+TC 1
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+Z9 1
+SN 2214-6296
+EI 2214-6326
+DA 2022-12-17
+UT WOS:000879738100008
+ER
+
+PT J
+AU Roelfer, Lena
+   Celliers, Louis
+   Abson, David J.
+TI Resilience and coastal governance: knowledge and navigation between
+   stability and transformation
+SO ECOLOGY AND SOCIETY
+VL 27
+IS 2
+AR 40
+DI 10.5751/ES-13244-270240
+DT Article
+PD JUN 2022
+PY 2022
+RI Celliers, Louis/GRO-6282-2022; Rolfer, Lena/
+OI Celliers, Louis/0000-0001-5096-1713; Rolfer, Lena/0000-0002-4364-5349
+TC 3
+ZS 0
+Z8 0
+ZR 0
+ZB 1
+ZA 0
+Z9 3
+SN 1708-3087
+DA 2022-07-29
+UT WOS:000828393500003
+ER
+
+PT J
+AU Voulvoulis, N.
+   Giakoumis, T.
+   Kioupi, V.
+   Souliotis, I.
+   Vaghela, C.
+   Rosely, WIH. binti Wan
+TI Systems thinking as a paradigm shift for sustainability transformation
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+VL 75
+AR 102544
+DI 10.1016/j.gloenvcha.2022.102544
+EA MAY 2022
+DT Article
+PD JUL 2022
+PY 2022
+RI Souliotis, Ioannis/AAD-7708-2022; Kioupi, Vasiliki/HJP-3602-2023; Voulvoulis, Nikolaos/C-9246-2012; Petrou, Kleoniki Natalia/; Giakoumis, Theodoros/; binti Wan Rosely, Wan Izar Haizan/
+OI Souliotis, Ioannis/0000-0001-7688-9879; Voulvoulis,
+   Nikolaos/0000-0001-9703-3703; Petrou, Kleoniki
+   Natalia/0000-0002-1187-1552; Giakoumis, Theodoros/0000-0002-6798-3692;
+   binti Wan Rosely, Wan Izar Haizan/0000-0002-3881-4400
+Z8 0
+ZS 0
+ZR 0
+ZB 1
+ZA 0
+TC 4
+Z9 4
+SN 0959-3780
+EI 1872-9495
+DA 2022-06-24
+UT WOS:000811715300006
+ER
+
+PT J
+AU Krause, Gesche
+   Le Vay, Lewis
+   Buck, Bela H.
+   Costa-Pierce, Barry Antonio
+   Dewhurst, Tobias
+   Heasman, Kevin G.
+   Nevejan, Nancy
+   Nielsen, Pernille
+   Nielsen, Kare Nolde
+   Park, Kyungil
+   Schupp, Maximilian F.
+   Thomas, Jean-Baptiste
+   Troell, Max
+   Webb, Julie
+   Wrange, Anna Lisa
+   Ziegler, Friederike
+   Strand, Asa
+TI Prospects of Low Trophic Marine Aquaculture Contributing to Food
+   Security in a Net Zero-Carbon World
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+VL 6
+AR 875509
+DI 10.3389/fsufs.2022.875509
+DT Article
+PD MAY 26 2022
+PY 2022
+RI Costa-Pierce, Barry A/H-5069-2011; Heasman, Kevin/ISB-2933-2023; Nielsen, P./K-4897-2014; Thomas, Jean-Baptiste/AAG-2098-2019; Buck, Bela H./B-8772-2012; Costa-Pierce, Barry Antonio/; Strand, Asa/L-7270-2013
+OI Heasman, Kevin/0000-0003-1928-9978; Nielsen, P./0000-0003-4478-6335;
+   Thomas, Jean-Baptiste/0000-0002-0354-7189; Buck, Bela
+   H./0000-0001-7491-3273; Costa-Pierce, Barry Antonio/0000-0003-3059-1828;
+   Strand, Asa/0000-0002-9029-4123
+TC 5
+ZS 0
+ZA 0
+ZB 1
+ZR 0
+Z8 0
+Z9 5
+EI 2571-581X
+DA 2022-06-20
+UT WOS:000808336400001
+ER
+
+PT J
+AU Manheim, Marisa K.
+   Spackman, Christy
+TI Embodied rationality: a framework of human action in water
+   infrastructure governance
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 56
+AR 101170
+DI 10.1016/j.cosust.2022.101170
+EA MAY 2022
+DT Article
+PD JUN 2022
+PY 2022
+OI Spackman, Christy/0000-0002-6603-7653
+ZS 0
+ZA 0
+ZB 0
+ZR 0
+Z8 0
+TC 1
+Z9 1
+SN 1877-3435
+EI 1877-3443
+DA 2022-06-20
+UT WOS:000808529800001
+ER
+
+PT J
+AU Dannevig, Halvor
+   Korsbrekke, Mari Hanssen
+   Hovelsrud, Grete K.
+TI Advancements of sustainable development goals in co-production for
+   climate change adaptation research
+SO CLIMATE RISK MANAGEMENT
+VL 36
+AR 100438
+DI 10.1016/j.crm.2022.100438
+EA MAY 2022
+DT Article
+PD 2022
+PY 2022
+ZA 0
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+TC 2
+Z9 2
+SN 2212-0963
+DA 2022-06-18
+UT WOS:000806489000002
+PM 35712042
+ER
+
+PT J
+AU Turner, Rachel A.
+   Wills, Jane
+TI Downscaling doughnut economics for sustainability governance
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 56
+AR 101180
+DI 10.1016/j.cosust.2022.101180
+EA MAY 2022
+DT Article
+PD JUN 2022
+PY 2022
+ZA 0
+TC 5
+ZS 0
+ZB 1
+ZR 0
+Z8 0
+Z9 5
+SN 1877-3435
+EI 1877-3443
+DA 2022-06-16
+UT WOS:000804549500003
+ER
+
+PT J
+AU Tschersich, Julia
+   Kok, Kristiaan P. W.
+TI Deepening democracy for the governance toward just transitions in
+   agri-food systems
+SO ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+VL 43
+BP 358
+EP 374
+DI 10.1016/j.eist.2022.04.012
+EA MAY 2022
+DT Article
+PD JUN 2022
+PY 2022
+OI Kok, Kristiaan/0000-0001-7174-1453; Tschersich,
+   Julia/0000-0002-1803-6736
+Z8 0
+ZR 0
+TC 9
+ZS 0
+ZB 0
+ZA 0
+Z9 9
+SN 2210-4224
+EI 2210-4232
+DA 2022-06-08
+UT WOS:000798839800023
+ER
+
+PT J
+AU Bi, Chenyang
+   Little, John C.
+TI Integrated assessment across building and urban scales: A review and
+   proposal for a more holistic, multi-scale, system-of-systems approach
+SO SUSTAINABLE CITIES AND SOCIETY
+VL 82
+AR 103915
+DI 10.1016/j.scs.2022.103915
+EA MAY 2022
+DT Review
+PD JUL 2022
+PY 2022
+RI Little, John C/B-4154-2009
+OI Little, John C/0000-0003-2965-9557
+ZR 0
+ZS 0
+ZB 1
+ZA 0
+Z8 0
+TC 5
+Z9 5
+SN 2210-6707
+EI 2210-6715
+DA 2022-06-29
+UT WOS:000805029900003
+ER
+
+PT J
+AU Zhang, Junze
+   Wang, Shuai
+   Pradhan, Prajal
+   Zhao, Wenwu
+   Fu, Bojie
+TI Untangling the interactions among the Sustainable Development Goals in
+   China
+SO SCIENCE BULLETIN
+VL 67
+IS 9
+BP 977
+EP 984
+DI 10.1016/j.scib.2022.01.006
+EA APR 2022
+DT Article
+PD MAY 15 2022
+PY 2022
+RI Pradhan, Prajal/ABE-2912-2020; Fu, Bojie/B-1493-2009; zhao, wenwu/L-7716-2018; Wang, Shuai/B-2334-2017; Wang, Shuai/HZJ-7466-2023
+OI Pradhan, Prajal/0000-0003-0491-5489; zhao, wenwu/0000-0001-5342-354X;
+   Wang, Shuai/0000-0003-1595-9858; 
+ZR 0
+ZA 0
+Z8 2
+ZS 0
+ZB 9
+TC 25
+Z9 26
+SN 2095-9273
+EI 2095-9281
+DA 2022-06-14
+UT WOS:000804372700019
+PM 36546033
+ER
+
+PT J
+AU Zhang, Junze
+   Wang, Shuai
+   Pradhan, Prajal
+   Zhao, Wenwu
+   Fu, Bojie
+TI Mapping the complexity of the food-energy-water nexus from the lens of
+   Sustainable Development Goals in China
+SO RESOURCES CONSERVATION AND RECYCLING
+VL 183
+AR 106357
+DI 10.1016/j.resconrec.2022.106357
+EA APR 2022
+DT Article
+PD AUG 2022
+PY 2022
+RI Pradhan, Prajal/ABE-2912-2020; Fu, Bojie/B-1493-2009; Wang, Shuai/B-2334-2017; zhao, wenwu/L-7716-2018; Wang, Shuai/HZJ-7466-2023; zhang, junze/
+OI Pradhan, Prajal/0000-0003-0491-5489; Wang, Shuai/0000-0003-1595-9858;
+   zhao, wenwu/0000-0001-5342-354X; zhang, junze/0000-0003-3943-8651
+TC 15
+ZR 0
+ZS 0
+ZA 0
+ZB 3
+Z8 1
+Z9 16
+SN 0921-3449
+EI 1879-0658
+DA 2022-06-02
+UT WOS:000798153700001
+ER
+
+PT J
+AU Messner, Rudolf
+   Johnson, Hope
+   Richards, Carol
+TI Towards systemic solutions to food waste: Creative destabilisation and
+   escaping food waste lock-in
+SO JOURNAL OF RURAL STUDIES
+VL 92
+BP 180
+EP 188
+DI 10.1016/j.jrurstud.2022.03.023
+EA APR 2022
+DT Article
+PD MAY 2022
+PY 2022
+OI Johnson, Hope/0000-0002-6590-5084; Richards, Carol/0000-0001-9887-175X;
+   Messner, Rudolf/0000-0002-9049-3499
+ZA 0
+Z8 0
+ZS 0
+ZB 0
+TC 2
+ZR 0
+Z9 2
+SN 0743-0167
+EI 1873-1392
+DA 2022-05-27
+UT WOS:000793360600016
+ER
+
+PT J
+AU Korner, Jana
+   Thornton, Philip
+   Klerkx, Laurens
+TI How to swarm? Organizing for sustainable and equitable food systems
+   transformation in a time of crisis
+SO GLOBAL FOOD SECURITY-AGRICULTURE POLICY ECONOMICS AND ENVIRONMENT
+VL 33
+AR 100629
+DI 10.1016/j.gfs.2022.100629
+EA MAR 2022
+DT Article
+PD JUN 2022
+PY 2022
+OI Korner, Jana/0000-0003-3934-3919
+ZR 0
+ZB 1
+TC 2
+Z8 0
+ZS 0
+ZA 0
+Z9 2
+SN 2211-9124
+DA 2022-06-01
+UT WOS:000795841700008
+ER
+
+PT J
+AU McCrory, Gavin
+   Holmen, Johan
+   Schapke, Niko
+   Holmberg, John
+TI Sustainability-oriented labs in transitions: An empirically grounded
+   typology
+SO ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+VL 43
+BP 99
+EP 117
+DI 10.1016/j.eist.2022.03.004
+EA MAR 2022
+DT Article
+PD JUN 2022
+PY 2022
+OI Schapke, Niko/0000-0003-2232-1430; McCrory, Gavin/0000-0001-5225-7164
+TC 3
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+Z9 3
+SN 2210-4224
+EI 2210-4232
+DA 2022-06-08
+UT WOS:000798839800007
+ER
+
+PT J
+AU Maas, Timo Y.
+   Pauwelussen, Annet
+   Turnhout, Esther
+TI Co-producing the science-policy interface: towards common but
+   differentiated responsibilities
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+VL 9
+IS 1
+AR 93
+DI 10.1057/s41599-022-01108-5
+DT Article
+PD MAR 23 2022
+PY 2022
+RI Pauwelussen, Annet/; Turnhout, Esther/K-9338-2017; Maas, Timo/
+OI Pauwelussen, Annet/0000-0002-1349-9539; Turnhout,
+   Esther/0000-0002-2190-2076; Maas, Timo/0000-0002-9979-0588
+Z8 0
+TC 6
+ZS 0
+ZR 0
+ZA 0
+ZB 0
+Z9 6
+EI 2662-9992
+DA 2022-04-02
+UT WOS:000772416600002
+ER
+
+PT J
+AU Bojorquez-Tapia, Luis A.
+   Eakin, Hallie
+   Reed, Patrick M.
+   Miquelajauregui, Yosune
+   Grave, Ileana
+   Merino-Benitez, Tatiana
+   Molina-Perez, Edmundo
+TI Unveiling uncertainties to enhance sustainability transformations in
+   infrastructure decision-making
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 55
+AR 101172
+DI 10.1016/j.cosust.2022.101172
+EA MAR 2022
+DT Article
+PD APR 2022
+PY 2022
+RI Miquelajauregui, Yosune/O-4617-2018; Reed, Patrick/E-4435-2014; Eakin, Hallie/; Merino, Elvira Tatiana/
+OI Reed, Patrick/0000-0002-7963-6102; Eakin, Hallie/0000-0001-8253-1320;
+   Merino, Elvira Tatiana/0000-0002-7587-1498
+ZA 0
+ZS 0
+ZR 0
+TC 3
+Z8 0
+ZB 0
+Z9 3
+SN 1877-3435
+EI 1877-3443
+DA 2022-05-18
+UT WOS:000792475700001
+ER
+
+PT J
+AU Bouzarovski, Stefan
+TI Just Transitions: A Political Ecology Critique
+SO ANTIPODE
+VL 54
+IS 4
+BP 1003
+EP 1020
+DI 10.1111/anti.12823
+EA MAR 2022
+DT Article
+PD JUL 2022
+PY 2022
+OI Bouzarovski, Stefan/0000-0002-0045-3400
+TC 9
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+ZA 0
+Z9 9
+SN 0066-4812
+EI 1467-8330
+DA 2022-03-30
+UT WOS:000770105500001
+ER
+
+PT J
+AU Friedman, Rachel S.
+   England, Rachel M.
+   Ricketts, Katie D.
+   van Wensveen, Monica
+   Lim-Camacho, Lilly
+   Crimp, Steven
+TI Scanning Models of Food Systems Resilience in the Indo-Pacific Region
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+VL 6
+AR 714881
+DI 10.3389/fsufs.2022.714881
+DT Review
+PD MAR 17 2022
+PY 2022
+RI Friedman, Rachel S/L-8645-2016; Ricketts, Katie D./GVS-6209-2022; Lim-Camacho, Lilly/A-7502-2015
+OI Friedman, Rachel S/0000-0002-9437-9239; Lim-Camacho,
+   Lilly/0000-0002-4897-1186
+ZS 0
+TC 2
+Z8 0
+ZB 0
+ZA 0
+ZR 0
+Z9 2
+EI 2571-581X
+DA 2022-04-24
+UT WOS:000779096300001
+ER
+
+PT J
+AU van den Berg, Leonardo
+   Teixeira, H. M.
+   Behagel, J. H.
+   Verschoor, G.
+   Turnhout, E.
+   Cardoso, I. M.
+   Botelho, M. I., V
+TI From managing transitions towards building movements of affect:
+   Advancing agroecological practices and transformation in Brazil
+SO GEOFORUM
+VL 131
+BP 50
+EP 60
+DI 10.1016/j.geoforum.2022.02.011
+EA MAR 2022
+DT Article
+PD MAY 2022
+PY 2022
+RI Mancini Teixeira, Heitor/AAV-9316-2021
+OI Mancini Teixeira, Heitor/0000-0001-6992-0671
+TC 0
+ZR 0
+ZS 0
+Z8 0
+ZA 0
+ZB 0
+Z9 0
+SN 0016-7185
+EI 1872-9398
+DA 2022-07-14
+UT WOS:000820439800006
+ER
+
+PT J
+AU Hurlbert, Margot A.
+TI Place-based power production deliberations in Saskatchewan: engaging
+   future sustainability
+SO CLEAN TECHNOLOGIES AND ENVIRONMENTAL POLICY
+VL 24
+IS 6
+BP 1695
+EP 1708
+DI 10.1007/s10098-022-02277-2
+EA MAR 2022
+DT Article
+PD AUG 2022
+PY 2022
+RI Hurlbert, Margot A./AAL-2559-2020
+OI Hurlbert, Margot A./0000-0003-3825-8413
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+TC 1
+Z9 1
+SN 1618-954X
+EI 1618-9558
+DA 2022-03-23
+UT WOS:000767101400001
+ER
+
+PT J
+AU Fisher, Eleanor
+   Brondizio, Eduardo
+   Boyd, Emily
+TI Critical social science perspectives on transformations to
+   sustainability
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 55
+AR 101160
+DI 10.1016/j.cosust.2022.101160
+EA MAR 2022
+DT Article
+PD APR 2022
+PY 2022
+OI Fisher, Eleanor/0000-0001-6042-6706
+TC 5
+Z8 0
+ZR 0
+ZS 0
+ZA 0
+ZB 0
+Z9 5
+SN 1877-3435
+EI 1877-3443
+DA 2022-07-10
+UT WOS:000819918200004
+PM 35712643
+ER
+
+PT J
+AU Fougeres, Dorian
+   Jones, Mike
+   McElwee, Pamela D.
+   Andrade, Angela
+   Edwards, Stephen R.
+TI Transformative conservation of ecosystems
+SO GLOBAL SUSTAINABILITY
+VL 5
+AR e5
+DI 10.1017/sus.2022.4
+DT Review
+PD MAR 4 2022
+PY 2022
+RI Jones, Michael/AFC-2839-2022; McElwee, Pamela/A-9442-2009
+OI Jones, Michael/0000-0003-4862-6806; McElwee, Pamela/0000-0003-3525-9285
+TC 4
+Z8 0
+ZB 1
+ZR 0
+ZS 0
+ZA 0
+Z9 4
+EI 2059-4798
+DA 2022-04-13
+UT WOS:000775086000001
+ER
+
+PT J
+AU Raheem, Dele
+   Oluwole, Oluwatoyin B.
+   Faven, Leena
+   Orji, Frank A.
+   Junttila, Mikko
+   Rainosalo, Egidija
+   Kosoko, Sulaimon B.
+   Olukosi, Adeola
+   Vainio, Seppo
+   Olapade, Abiodun A.
+   Okoh, Michael P.
+   Oyeku, Oyedele M.
+TI Partnership for International Development: Finland-Nigeria Conference on
+   Climate, Food, Health and Entrepreneurship
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+VL 19
+IS 6
+AR 3375
+DI 10.3390/ijerph19063375
+DT Article
+PD MAR 2022
+PY 2022
+RI Okoh, Michael P./CAH-3564-2022; Okoh, Michael P./; Olapade, Abiodun/C-8440-2018; Vainio, Seppo/
+OI Okoh, Michael P./0000-0002-2438-8500; Olapade,
+   Abiodun/0000-0002-5528-5408; Vainio, Seppo/0000-0001-9319-3566
+Z8 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+ZS 0
+Z9 0
+EI 1660-4601
+DA 2022-04-13
+UT WOS:000775246000001
+PM 35329064
+ER
+
+PT J
+AU Lobo, Diele
+   Rodriguez, Ana Carolina
+   Casa Nova, Silvia Pereira de Castro
+   Ardichvili, Alexandre A.
+TI Five Practices for Building Local Capacity in Sustainability-Driven
+   Entrepreneurship for Place-Based Transformations
+SO SUSTAINABILITY
+VL 14
+IS 5
+AR 3027
+DI 10.3390/su14053027
+DT Article
+PD MAR 2022
+PY 2022
+RI Lobo, Diele/I-9106-2012; Rodriguez, Ana Carolina/HDO-0953-2022; Pereira de Castro Casa Nova, Silvia/B-9873-2012; Lobo, Diele/; Ardichvili, Alexandre/
+OI Rodriguez, Ana Carolina/0000-0002-5012-0057; Pereira de Castro Casa
+   Nova, Silvia/0000-0003-1897-4359; Lobo, Diele/0000-0001-9750-8721;
+   Ardichvili, Alexandre/0000-0002-5847-3922
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+ZB 0
+TC 3
+Z9 3
+EI 2071-1050
+DA 2022-03-23
+UT WOS:000768778800001
+ER
+
+PT J
+AU Franco, Marco P. Vianna
+   Molnar, Orsolya
+   Dorninger, Christian
+   Laciny, Alice
+   Treven, Marco
+   Weger, Jacob
+   e Albuquerque, Eduardo da Motta
+   Gatti, Roberto Cazzolla
+   Hernandez, Luis Alejandro Villanueva
+   Jakab, Manuel
+   Marizzi, Christine
+   Menendez, Lumila Paula
+   Poliseli, Luana
+   Rodriguez, Hernan Bobadilla
+   Caniglia, Guido
+TI Diversity regained: Precautionary approaches to COVID-19 as a phenomenon
+   of the total environment
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+VL 825
+AR 154029
+DI 10.1016/j.scitotenv.2022.154029
+EA FEB 2022
+DT Article
+PD JUN 15 2022
+PY 2022
+RI Albuquerque, Eduardo da Motta e/K-5225-2012; Molnar, Orsolya/E-9684-2014; Menéndez, Lumila Paula/C-2479-2016; Bobadilla Rodriguez, Hernan Felipe/; Vianna Franco, Marco P./; Cazzolla Gatti, Roberto/G-5462-2015; Treven, Marco/; Jakab, Manuel/
+OI Albuquerque, Eduardo da Motta e/0000-0002-1591-875X; Molnar,
+   Orsolya/0000-0002-2458-4659; Menéndez, Lumila Paula/0000-0002-7867-2910;
+   Bobadilla Rodriguez, Hernan Felipe/0000-0003-0003-9952; Vianna Franco,
+   Marco P./0000-0002-0054-8717; Cazzolla Gatti,
+   Roberto/0000-0001-5130-8492; Treven, Marco/0000-0003-1239-672X; Jakab,
+   Manuel/0000-0001-9248-189X
+ZB 2
+Z8 0
+TC 3
+ZR 0
+ZA 0
+ZS 0
+Z9 3
+SN 0048-9697
+EI 1879-1026
+DA 2022-03-29
+UT WOS:000766794300012
+PM 35202694
+ER
+
+PT J
+AU Alary, Veronique
+   Lasseur, Jacques
+   Frija, Aymen
+   Gautier, Denis
+TI Assessing the sustainability of livestock socio-ecosystems in the
+   drylands through a set of indicators
+SO AGRICULTURAL SYSTEMS
+VL 198
+AR 103389
+DI 10.1016/j.agsy.2022.103389
+EA FEB 2022
+DT Review
+PD APR 2022
+PY 2022
+RI Mokhtara, Charafeddine/ACV-5174-2022
+ZB 1
+ZS 0
+TC 3
+ZR 0
+ZA 0
+Z8 0
+Z9 3
+SN 0308-521X
+EI 1873-2267
+DA 2022-05-18
+UT WOS:000792473400004
+ER
+
+PT J
+AU Poeggel, Karoline
+TI You Are Where You Eat: A Theoretical Perspective on Why Identity Matters
+   in Local Food Groups
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+VL 6
+AR 782556
+DI 10.3389/fsufs.2022.782556
+DT Article
+PD FEB 23 2022
+PY 2022
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+TC 0
+Z9 0
+EI 2571-581X
+DA 2022-03-16
+UT WOS:000766897700001
+ER
+
+PT J
+AU Ojha, Hemant
+   Nightingale, Andrea J.
+   Gonda, Noemi
+   Muok, Benard Oula
+   Eriksen, Siri
+   Khatri, Dil
+   Paudel, Dinesh
+TI Transforming environmental governance: critical action intellectuals and
+   their praxis in the field
+SO SUSTAINABILITY SCIENCE
+VL 17
+IS 2
+SI SI
+BP 621
+EP 635
+DI 10.1007/s11625-022-01108-z
+EA FEB 2022
+DT Article
+PD MAR 2022
+PY 2022
+RI Paudel, Dinesh/GRR-3044-2022; Gonda, Noemi/ADV-4464-2022; Ojha, Hemant/C-7490-2011
+OI Ojha, Hemant/0000-0003-2654-4092
+ZR 0
+Z8 0
+ZA 0
+ZB 1
+TC 7
+ZS 0
+Z9 7
+SN 1862-4065
+EI 1862-4057
+DA 2022-03-09
+UT WOS:000759300600001
+PM 35222728
+ER
+
+PT J
+AU Bouzarovski, Stefan
+TI Energy and labour: Thinking across the continuum
+SO PROGRESS IN HUMAN GEOGRAPHY
+VL 46
+IS 3
+BP 753
+EP 774
+AR 03091325211051478
+DI 10.1177/03091325211051478
+EA FEB 2022
+DT Article
+PD JUN 2022
+PY 2022
+OI Bouzarovski, Stefan/0000-0002-0045-3400
+TC 3
+Z8 0
+ZB 1
+ZA 0
+ZR 0
+ZS 0
+Z9 3
+SN 0309-1325
+EI 1477-0288
+DA 2022-03-06
+UT WOS:000759948800001
+ER
+
+PT J
+AU Holmen, Johan
+   Williams, Stephen
+   Holmberg, John
+TI Comparing sustainability transition labs across process, effects and
+   impacts: Insights from Canada and Sweden
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+VL 89
+AR 102522
+DI 10.1016/j.erss.2022.102522
+EA FEB 2022
+DT Article
+PD JUL 2022
+PY 2022
+ZA 0
+TC 2
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+Z9 2
+SN 2214-6296
+EI 2214-6326
+DA 2022-06-08
+UT WOS:000798555400013
+ER
+
+PT J
+AU McGowan, Katharine
+   Geobey, Sean
+TI "Harmful to the commonality": the Luddites, the distributional effects
+   of systems change and the challenge of building a just society
+SO SOCIAL ENTERPRISE JOURNAL
+VL 18
+IS 2
+BP 306
+EP 320
+DI 10.1108/SEJ-11-2020-0118
+EA FEB 2022
+DT Article
+PD MAR 29 2022
+PY 2022
+TC 1
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+Z9 1
+SN 1750-8614
+EI 1750-8533
+DA 2022-03-05
+UT WOS:000758237400001
+ER
+
+PT J
+AU Schroeter, Barbara
+   Hack, Jochen
+   Hueesker, Frank
+   Kuhlicke, Christian
+   Albert, Christian
+TI Beyond Demonstrators-tackling fundamental problems in amplifying
+   nature-based solutions for the post-COVID-19 world
+SO NPJ URBAN SUSTAINABILITY
+VL 2
+IS 1
+AR 4
+DI 10.1038/s42949-022-00047-z
+DT Review
+PD FEB 8 2022
+PY 2022
+RI Albert, Christian/A-1604-2012
+OI Albert, Christian/0000-0002-2591-4779
+ZA 0
+TC 7
+Z8 0
+ZR 0
+ZB 2
+ZS 0
+Z9 7
+EI 2661-8001
+DA 2022-02-08
+UT WOS:000999962100001
+ER
+
+PT J
+AU Zhang, Junze
+   Wang, Shuai
+   Zhao, Wenwu
+   Meadows, Michael E.
+   Fu, Bojie
+TI Finding pathways to synergistic development of Sustainable Development
+   Goals in China
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+VL 9
+IS 1
+AR 21
+DI 10.1057/s41599-022-01036-4
+DT Article
+PD JAN 18 2022
+PY 2022
+RI Wang, Shuai/B-2334-2017; Fu, Bojie/B-1493-2009; Meadows, Michael/AAH-2461-2020; , Wenwu Zhao/AFU-3731-2022; zhao, wenwu/L-7716-2018; Wang, Shuai/HZJ-7466-2023; zhang, junze/
+OI Wang, Shuai/0000-0003-1595-9858; Meadows, Michael/0000-0001-8322-3055;
+   zhao, wenwu/0000-0001-5342-354X; zhang, junze/0000-0003-3943-8651
+ZS 0
+TC 13
+ZB 4
+ZA 0
+Z8 1
+ZR 0
+Z9 13
+EI 2662-9992
+DA 2022-02-02
+UT WOS:000743925200001
+ER
+
+PT J
+AU Pickering, Jonathan
+   Hickmann, Thomas
+   Backstrand, Karin
+   Kalfagianni, Agni
+   Bloomfield, Michael
+   Mert, Aysem
+   Ransan-Cooper, Hedda
+   Lo, Alex Y.
+TI Democratising sustainability transformations: Assessing the
+   transformative potential of democratic practices in environmental
+   governance
+SO EARTH SYSTEM GOVERNANCE
+VL 11
+AR 100131
+DI 10.1016/j.esg.2021.100131
+EA JAN 2022
+DT Article
+PD JAN 2022
+PY 2022
+RI Kalfagianni, Agni/M-7562-2013; Lo, Alex/B-7948-2008; Hickmann, Thomas/; Ransan-Cooper, Hedda/; Bloomfield, Michael/; Pickering, Jonathan/Q-5744-2018
+OI Lo, Alex/0000-0002-5953-4176; Hickmann, Thomas/0000-0001-5072-7855;
+   Ransan-Cooper, Hedda/0000-0002-9053-0229; Bloomfield,
+   Michael/0000-0002-3381-2756; Pickering, Jonathan/0000-0002-1862-3623
+Z8 0
+ZB 2
+ZR 0
+ZS 0
+ZA 0
+TC 13
+Z9 13
+SN 2589-8116
+DA 2022-03-04
+UT WOS:000757025800006
+ER
+
+PT J
+AU Horan, David
+TI A framework to harness effective partnerships for the sustainable
+   development goals
+SO SUSTAINABILITY SCIENCE
+VL 17
+IS 4
+SI SI
+BP 1573
+EP 1587
+DI 10.1007/s11625-021-01070-2
+EA JAN 2022
+DT Article
+PD JUL 2022
+PY 2022
+RI Horan, David/AAK-5692-2020
+OI Horan, David/0000-0001-9456-893X
+ZS 0
+TC 4
+ZA 0
+Z8 0
+ZR 0
+ZB 0
+Z9 4
+SN 1862-4065
+EI 1862-4057
+DA 2022-01-09
+UT WOS:000738447200001
+ER
+
+PT J
+AU Zurbriggen, Cristina
+   Perez Pereyra, Daniel
+   Mazzeo, Nestor
+TI Environmental governance in turbulent times: challenges and crossroads
+   in the twenty-first century
+SO CUADERNOS DEL CLAEH-CENTRO LATINOAMERICANO DE ECONOMIA HUMANA
+VL 41
+IS 116
+BP 181
+EP 198
+DI 10.29192/claeh.41.2.11
+DT Article
+PD 2022
+PY 2022
+ZR 0
+Z8 0
+ZA 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+SN 0797-6062
+EI 2393-5979
+DA 2023-06-01
+UT WOS:000975568200011
+ER
+
+PT B
+AU McDermott, Constance L.
+   Humphreys, David
+BE Harris, PG
+TI Forests The political ecology of international environmental governance
+SO ROUTLEDGE HANDBOOK OF GLOBAL ENVIRONMENTAL POLITICS, 2 EDITION
+SE Routledge Handbooks
+BP 566
+EP 578
+DI 10.4324/9781003008873-47
+DT Article; Book Chapter
+PD 2022
+PY 2022
+Z8 0
+ZS 0
+ZA 0
+TC 0
+ZB 0
+ZR 0
+Z9 0
+BN 978-0-367-69241-4; 978-1-003-00887-3; 978-1-032-14580-8
+DA 2023-03-22
+UT WOS:000943446700042
+D2 10.4324/9781003008873
+ER
+
+PT J
+AU Carrard, Naomi
+   Willetts, Juliet
+   Mitchell, Cynthia
+TI Placing sustainability at the centre of water, sanitation and hygiene:
+   Knowledge co-production for sectoral transformation
+SO CURRENT RESEARCH IN ENVIRONMENTAL SUSTAINABILITY
+VL 4
+AR 100154
+DI 10.1016/j.crsust.2022.100154
+DT Article
+PD 2022
+PY 2022
+RI Mitchell, Cynthia A/A-6546-2014; Willetts, Juliet/
+OI Mitchell, Cynthia A/0000-0001-9842-540X; Willetts,
+   Juliet/0000-0002-3975-9642
+ZB 1
+ZA 0
+Z8 0
+ZS 0
+ZR 0
+TC 2
+Z9 2
+SN 2666-0490
+DA 2023-01-28
+UT WOS:000905612500001
+ER
+
+PT S
+AU Mendez, Pablo F.
+   Fajardo-Ortiz, David
+   Holzer, Jennifer M.
+BE Holzer, JM
+   Baird, J
+   Hickey, GM
+TI Disrupting the governance of social-ecological rigidity traps: Can
+   pluralism foster change towards sustainability?
+SO PLURALISM IN ECOSYSTEM GOVERNANCE
+SE Advances in Ecological Research
+VL 66
+BP 243
+EP 291
+DI 10.1016/bs.aecr.2022.04.011
+DT Article; Book Chapter
+PD 2022
+PY 2022
+RI Fajardo-Ortiz, David/AAB-5451-2022; Fernandez Mendez, Pablo/
+OI Fajardo-Ortiz, David/0000-0002-7657-7514; Fernandez Mendez,
+   Pablo/0000-0003-1825-6496
+ZA 0
+Z8 0
+TC 1
+ZR 0
+ZS 0
+ZB 0
+Z9 1
+SN 0065-2504
+EI 2163-582X
+BN 978-0-323-98901-5
+DA 2022-12-28
+UT WOS:000893668200010
+ER
+
+PT B
+AU Ghaye, Tony
+   Sorly, Rita
+   Kartveit, Bard
+BE Sorly, R
+   Ghaye, T
+   Kartveit, B
+TI Being in-between stories Introduction
+SO STORIES OF CHANGE AND SUSTAINABILITY IN THE ARCTIC REGIONS: The
+   Interdependence of Local and Global
+SE Routledge Studies in Sustainability
+BP 1
+EP 15
+DI 10.4324/9781003118633-1
+DT Editorial Material; Book Chapter
+PD 2022
+PY 2022
+TC 0
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+ZB 0
+Z9 0
+BN 978-0-367-63285-4; 978-1-003-11863-3; 978-0-367-63284-7
+DA 2022-12-07
+UT WOS:000879847800001
+D2 10.4324/9781003118633
+ER
+
+PT J
+AU Kotze, Louis J.
+   Kim, Rakhyun E.
+   Blanchard, Catherine
+   Gellers, Joshua C.
+   Holley, Cameron
+   Petersmann, Marie
+   van Asselt, Harro
+   Biermann, Frank
+   Hurlbert, Margot
+TI Earth system law: Exploring new frontiers in legal science
+SO EARTH SYSTEM GOVERNANCE
+VL 11
+AR 100126
+DI 10.1016/j.esg.2021.100126
+DT Article
+PD JAN 2022
+PY 2022
+RI Kim, Rakhyun E/C-3814-2017; Gellers, Joshua Chad/X-8967-2019; Hurlbert, Margot A./AAL-2559-2020; Biermann, Frank/D-4175-2013; Petersmann, Marie-Catherine/HSE-1947-2023; van Asselt, Harro/; Petersmann, Marie-Catherine/; Kotze, Louis/
+OI Kim, Rakhyun E/0000-0002-1308-6849; Gellers, Joshua
+   Chad/0000-0002-8690-8030; Hurlbert, Margot A./0000-0003-3825-8413;
+   Biermann, Frank/0000-0002-0292-0703; van Asselt,
+   Harro/0000-0003-3028-0659; Petersmann,
+   Marie-Catherine/0000-0001-5665-0211; Kotze, Louis/0000-0001-5820-168X
+ZB 0
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+TC 13
+Z9 13
+SN 2589-8116
+DA 2022-03-04
+UT WOS:000757025800001
+ER
+
+PT J
+AU Hernandez, Valeria
+   Fossa Riglos, Maria Florencia
+   Vera, Carolina
+TI Addressing climate services in SouthAmerican Chaco region through a
+   knowledge coproduction process
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+VL 72
+AR 102443
+DI 10.1016/j.gloenvcha.2021.102443
+EA DEC 2021
+DT Article
+PD JAN 2022
+PY 2022
+Z8 0
+ZR 0
+ZS 0
+ZA 0
+TC 2
+ZB 1
+Z9 2
+SN 0959-3780
+EI 1872-9495
+DA 2022-01-12
+UT WOS:000738910700008
+ER
+
+PT J
+AU Carmen, E.
+   Fazey, I.
+   Caniglia, G.
+   Anthony, J.
+   Penny, L.
+TI The social dynamics in establishing complex community climate change
+   initiatives: the case of a community fridge in Scotland
+SO SUSTAINABILITY SCIENCE
+VL 17
+IS 1
+BP 259
+EP 273
+DI 10.1007/s11625-021-01075-x
+EA DEC 2021
+DT Article
+PD JAN 2022
+PY 2022
+OI Carmen, Esther/0000-0002-6553-3786
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+TC 0
+Z9 0
+SN 1862-4065
+EI 1862-4057
+DA 2021-12-24
+UT WOS:000731366100001
+ER
+
+PT J
+AU Chambers, Josephine M.
+   Wyborn, Carina
+   Klenk, Nicole L.
+   Ryan, Melanie
+   Serban, Anca
+   Bennett, Nathan J.
+   Brennan, Ruth
+   Charli-Joseph, Lakshmi
+   Fernandez-Gimenez, Maria E.
+   Galvin, Kathleen A.
+   Goldstein, Bruce E.
+   Haller, Tobias
+   Hill, Rosemary
+   Munera, Claudia
+   Nel, Jeanne L.
+   Osterblom, Henrik
+   Reid, Robin S.
+   Riechers, Maraja
+   Spierenburg, Marja
+   Tengo, Maria
+   Bennett, Elena
+   Brandeis, Amos
+   Chatterton, Paul
+   Cockburn, Jessica J.
+   Cvitanovic, Christopher
+   Dumrongrojwatthana, Pongchai
+   Duran, America Paz
+   Gerber, Jean-David
+   Green, Jonathan M. H.
+   Gruby, Rebecca
+   Guerrero, Angela M.
+   Horcea-Milcu, Andra-Ioana
+   Montana, Jasper
+   Steyaert, Patrick
+   Zaehringer, Julie G.
+   Bednarek, Angela T.
+   Curran, K.
+   Fada, Salamatu J.
+   Hutton, Jon
+   Leimona, Beria
+   Pickering, Tomas
+   Rondeau, Renee
+TI Co-productive agility and four collaborative pathways to sustainability
+   transformations
+SO GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS
+VL 72
+AR 102422
+DI 10.1016/j.gloenvcha.2021.102422
+EA DEC 2021
+DT Article
+PD JAN 2022
+PY 2022
+RI Bennett, Elena/A-9553-2008; Osterblom, Henrik G/D-4249-2012; Brennan, Ruth/HOF-2139-2023; Tengö, Maria/AAC-5698-2020; Guerrero Gonzalez, Angela/L-2554-2014; Bennett, Nathan James/ABG-6787-2020; Chatterton, Paul/A-7384-2008; Hill, Rosemary/A-6954-2011; Munera, Claudia/GNW-2330-2022; D, Pongchai/IAR-0683-2023; Gruby, Rebecca/; Horcea-Milcu, Andra-Ioana/AAF-8772-2019; Spierenburg, Marja/; Charli-Joseph, Lakshmi/; Chatterton, Paul/
+OI Tengö, Maria/0000-0002-4776-3748; Guerrero Gonzalez,
+   Angela/0000-0002-1556-9860; Bennett, Nathan James/0000-0003-4852-3401;
+   Hill, Rosemary/0000-0002-7426-3132; Gruby, Rebecca/0000-0002-5740-7843;
+   Horcea-Milcu, Andra-Ioana/0000-0003-1757-6615; Spierenburg,
+   Marja/0000-0003-0128-1900; Charli-Joseph, Lakshmi/0000-0003-1524-3323;
+   Chatterton, Paul/0000-0001-9281-2230
+ZB 5
+ZR 0
+ZS 0
+Z8 0
+TC 35
+ZA 0
+Z9 35
+SN 0959-3780
+EI 1872-9495
+DA 2022-01-12
+UT WOS:000738910700006
+ER
+
+PT J
+AU Hebinck, A.
+   Selomane, O.
+   Veen, E.
+   de Vrieze, A.
+   Hasnain, S.
+   Sellberg, M.
+   Sovova, L.
+   Thompson, K.
+   Vervoort, J.
+   Wood, A.
+TI Exploring the transformative potential of urban food
+SO NPJ URBAN SUSTAINABILITY
+VL 1
+IS 1
+AR 38
+DI 10.1038/s42949-021-00041-x
+DT Article
+PD DEC 13 2021
+PY 2021
+OI Sovova, Lucie/0000-0003-2906-2144
+ZB 0
+TC 3
+ZA 0
+ZS 0
+Z8 0
+ZR 0
+Z9 3
+EI 2661-8001
+DA 2021-12-13
+UT WOS:001001533700001
+ER
+
+PT J
+AU Johansson, Emma Li
+TI Participatory futures thinking in the African context of sustainability
+   challenges and socio-environmental change
+SO ECOLOGY AND SOCIETY
+VL 26
+IS 4
+AR 3
+DI 10.5751/ES-12617-260403
+DT Article
+PD DEC 2021
+PY 2021
+ZS 0
+ZA 0
+Z8 0
+TC 6
+ZR 0
+ZB 2
+Z9 6
+SN 1708-3087
+DA 2022-02-01
+UT WOS:000744209100007
+ER
+
+PT J
+AU Lazaro, L. L. B.
+   Soares, R. S.
+   Bermann, C.
+   Collaco, F. M. A.
+   Giatti, L. L.
+   Abram, S.
+TI Energy transition in Brazil: Is there a role for multilevel governance
+   in a centralized energy regime?
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+VL 85
+AR 102404
+DI 10.1016/j.erss.2021.102404
+EA NOV 2021
+DT Article
+PD MAR 2022
+PY 2022
+RI Lazaro, Lira Luz Benites/M-8642-2017; Collaco, Flavia Mendes de Almeida/HII-7202-2022; abram, simone/GRS-3615-2022; Collaço, Flávia Mendes de Almeida/C-8681-2019; Schirmer Soares, Raiana/; Abram, Simone/
+OI Lazaro, Lira Luz Benites/0000-0001-6587-1497; Collaço, Flávia Mendes de
+   Almeida/0000-0003-4277-9043; Schirmer Soares,
+   Raiana/0000-0003-2551-1440; Abram, Simone/0000-0002-8063-3144
+TC 10
+Z8 0
+ZR 0
+ZA 0
+ZS 0
+ZB 0
+Z9 10
+SN 2214-6296
+EI 2214-6326
+DA 2022-01-13
+UT WOS:000737078100003
+ER
+
+PT J
+AU Redman, Aaron
+   Wiek, Arnim
+TI Competencies for Advancing Transformations Towards Sustainability
+SO FRONTIERS IN EDUCATION
+VL 6
+AR 785163
+DI 10.3389/feduc.2021.785163
+DT Review
+PD NOV 30 2021
+PY 2021
+RI Wiek, Arnim/C-6714-2008
+OI Wiek, Arnim/0000-0001-8058-6440
+ZB 1
+TC 19
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+Z9 19
+EI 2504-284X
+DA 2021-12-20
+UT WOS:000729901500001
+ER
+
+PT J
+AU de Leon, Emilia Aragon
+   Shriwise, Amanda
+   Tomson, Goran
+   Morton, Stephen
+   Lemos, Diogo Simao
+   Menne, Bettina
+   Dooris, Mark
+TI Beyond building back better: imagining a future for human and planetary
+   health
+SO LANCET PLANETARY HEALTH
+VL 5
+IS 11
+BP E827
+EP E839
+DT Article
+PD NOV 2021
+PY 2021
+RI Menne, Bettina/GQI-3567-2022; Morton, Stephen/GWC-5242-2022
+TC 8
+Z8 0
+ZA 0
+ZB 0
+ZS 0
+ZR 0
+Z9 8
+EI 2542-5196
+DA 2021-12-04
+UT WOS:000719221700014
+PM 34774123
+ER
+
+PT J
+AU Walby, Sylvia
+TI Sociology: Fragmentation or reinvigorated synthesis?
+SO JOURNAL OF CLASSICAL SOCIOLOGY
+VL 21
+IS 3-4
+SI SI
+BP 323
+EP 333
+DI 10.1177/1468795X211042969
+DT Article
+PD NOV 2021
+PY 2021
+TC 0
+ZS 1
+ZB 0
+ZR 0
+Z8 0
+ZA 0
+Z9 1
+SN 1468-795X
+EI 1741-2897
+DA 2021-09-29
+UT WOS:000698743900010
+ER
+
+PT J
+AU Hurlbert, Margot
+TI Transformative Frames for Climate Threat in the Anthropocene
+SO FRONTIERS IN SOCIOLOGY
+VL 6
+AR 728024
+DI 10.3389/fsoc.2021.728024
+DT Review
+PD OCT 29 2021
+PY 2021
+RI Hurlbert, Margot A./AAL-2559-2020
+OI Hurlbert, Margot A./0000-0003-3825-8413
+ZS 0
+ZR 0
+TC 0
+ZA 0
+ZB 0
+Z8 0
+Z9 0
+EI 2297-7775
+DA 2021-11-24
+UT WOS:000717813200001
+PM 34778443
+ER
+
+PT J
+AU Nightingale, Andrea J.
+   Gonda, Noemi
+   Eriksen, Siri H.
+TI Affective adaptation = effective transformation? Shifting the politics
+   of climate change adaptation and transformation from the status quo
+SO WILEY INTERDISCIPLINARY REVIEWS-CLIMATE CHANGE
+VL 13
+IS 1
+AR e740
+DI 10.1002/wcc.740
+EA OCT 2021
+DT Review
+PD JAN 2022
+PY 2022
+RI Gonda, Noemi/ADV-4464-2022; Gonda, Noemi/; Nightingale, Andrea Joslyn/; Eriksen, Siri/
+OI Gonda, Noemi/0000-0002-1261-8380; Nightingale, Andrea
+   Joslyn/0000-0001-5343-9576; Eriksen, Siri/0000-0002-6594-2758
+ZR 0
+ZB 0
+ZS 0
+TC 15
+Z8 0
+ZA 0
+Z9 15
+SN 1757-7780
+EI 1757-7799
+DA 2021-10-27
+UT WOS:000708161500001
+ER
+
+PT J
+AU Tjornbo, Ola
+   McGowan, Katharine
+TI A complex-systems perspective on the role of universities in social
+   innovation
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+VL 174
+AR 121247
+DI 10.1016/j.techfore.2021.121247
+EA OCT 2021
+DT Article
+PD JAN 2022
+PY 2022
+ZA 0
+ZS 0
+TC 1
+ZR 0
+ZB 0
+Z8 0
+Z9 1
+SN 0040-1625
+EI 1873-5509
+DA 2021-11-11
+UT WOS:000711385700003
+ER
+
+PT J
+AU Werners, Saskia E.
+   Sparkes, Edward
+   Totin, Edmond
+   Abel, Nick
+   Bhadwal, Suruchi
+   Butler, James R. A.
+   Douxchamps, Sabine
+   James, Harrhy
+   Methner, Nadine
+   Siebeneck, Jana
+   Stringer, Lindsay C.
+   Vincent, Katharine
+   Wise, Russell M.
+   Tebboth, Mark G. L.
+TI Advancing climate resilient development pathways since the IPCC's fifth
+   assessment report
+SO ENVIRONMENTAL SCIENCE & POLICY
+VL 126
+BP 168
+EP 176
+DI 10.1016/j.envsci.2021.09.017
+EA OCT 2021
+DT Article
+PD DEC 2021
+PY 2021
+RI Butler, James RA/D-7446-2011; Tebboth, Mark/AAK-9815-2020; Wise, Russell M/G-5463-2010; werners, saskia/; Totin, Edmond/
+OI Butler, James RA/0000-0001-8333-947X; Tebboth, Mark/0000-0003-1193-8080;
+   Wise, Russell M/0000-0002-5882-5123; werners,
+   saskia/0000-0002-1705-4318; Totin, Edmond/0000-0003-3377-6190
+ZS 0
+TC 8
+ZB 1
+ZA 0
+ZR 0
+Z8 0
+Z9 8
+SN 1462-9011
+EI 1873-6416
+DA 2021-11-12
+UT WOS:000708757200004
+ER
+
+PT J
+AU Benessaiah, Karina
+   Eakin, Hallie
+TI Crisis, transformation, and agency: Why are people going
+   back-to-the-land in Greece?
+SO SUSTAINABILITY SCIENCE
+VL 16
+IS 6
+BP 1841
+EP 1858
+DI 10.1007/s11625-021-01043-5
+EA OCT 2021
+DT Article
+PD NOV 2021
+PY 2021
+OI Eakin, Hallie/0000-0001-8253-1320; Benessaiah,
+   Karina/0000-0001-9959-554X
+ZB 0
+ZA 0
+Z8 0
+TC 5
+ZR 0
+ZS 0
+Z9 5
+SN 1862-4065
+EI 1862-4057
+DA 2021-10-14
+UT WOS:000703858400004
+PM 34630729
+ER
+
+PT J
+AU Maas, Timo Y.
+   Montana, Jasper
+   van der Hel, Sandra
+   Kowarsch, Martin
+   Tuinstra, Willemijn
+   Schoolenberg, Machteld
+   Mahony, Martin
+   Lucas, Paul L.
+   Kok, Marcel
+   Bakkes, Jan
+   Turnhout, Esther
+TI Effectively empowering: A different look at bolstering the effectiveness
+   of global environmental assessments
+SO ENVIRONMENTAL SCIENCE & POLICY
+VL 123
+BP 210
+EP 219
+DI 10.1016/j.envsci.2021.05.024
+DT Article
+PD SEP 2021
+PY 2021
+RI Mahony, Martin/P-5572-2014; Maas, Timo/; van der Hel, Sandra/R-1716-2016; Schoolenberg, Machteld/; Montana, Jasper/; Lucas, Paul/
+OI Mahony, Martin/0000-0002-6377-413X; Maas, Timo/0000-0002-9979-0588; van
+   der Hel, Sandra/0000-0001-6552-9616; Schoolenberg,
+   Machteld/0000-0002-8940-0291; Montana, Jasper/0000-0003-3405-2549;
+   Lucas, Paul/0000-0003-0292-7830
+TC 9
+ZA 0
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+Z9 9
+SN 1462-9011
+EI 1873-6416
+DA 2022-03-18
+UT WOS:000761520600001
+ER
+
+PT J
+AU Evans, Megan C.
+TI Re-conceptualizing the role(s) of science in biodiversity conservation
+SO ENVIRONMENTAL CONSERVATION
+VL 48
+IS 3
+BP 151
+EP 160
+AR PII S0376892921000114
+DI 10.1017/S0376892921000114
+DT Review
+PD SEP 2021
+PY 2021
+OI Evans, Megan/0000-0001-6763-310X
+ZR 0
+ZB 7
+ZA 0
+Z8 0
+TC 18
+ZS 0
+Z9 18
+SN 0376-8929
+EI 1469-4387
+DA 2021-08-31
+UT WOS:000687642400004
+ER
+
+PT J
+AU McGowan, Katharine
+   Calf Robe, Latasha
+   Allan, Laura
+   Bray-Collins, Elinor Flora
+   Couture, Mathieu
+   Croft, Sarah
+   Daling, Antonio
+   Farahbakhsh, Amy
+   Grossman, Susan
+   Hassan, Sara
+   Heidebrecht, Paul
+   Helwig, Nicole
+   Jackett, Michelle
+   Machado, Jessica
+TI Transformational spaces: educators discuss map the system and supporting
+   Canada's emerging generation of systems thinkers
+SO SOCIAL ENTERPRISE JOURNAL
+VL 18
+IS 1
+SI SI
+BP 201
+EP 217
+DI 10.1108/SEJ-10-2020-0088
+EA AUG 2021
+DT Article
+PD JAN 28 2022
+PY 2022
+OI Machado, Jessica/0000-0002-9034-9198
+ZS 0
+TC 1
+Z8 0
+ZB 0
+ZA 0
+ZR 0
+Z9 1
+SN 1750-8614
+EI 1750-8533
+DA 2021-08-29
+UT WOS:000687748700001
+ER
+
+PT J
+AU Singh, Chandni
+   Iyer, Soundarya
+   New, Mark G.
+   Few, Roger
+   Kuchimanchi, Bhavana
+   Segnon, Alcade C.
+   Morchain, Daniel
+TI Interrogating 'effectiveness' in climate change adaptation: 11 guiding
+   principles for adaptation research and practice
+SO CLIMATE AND DEVELOPMENT
+VL 14
+IS 7
+BP 650
+EP 664
+DI 10.1080/17565529.2021.1964937
+EA AUG 2021
+DT Review
+PD AUG 9 2022
+PY 2022
+RI Iyer, Soundarya/AAN-6693-2020; New, Mark/A-7684-2008; Segnon, Alcade/L-3908-2016; Kuchimanchi, Bhavana/; Singh, Chandni/; Few, Roger/
+OI Iyer, Soundarya/0000-0001-8307-4870; New, Mark/0000-0001-6082-8879;
+   Segnon, Alcade/0000-0001-9751-120X; Kuchimanchi,
+   Bhavana/0000-0002-1335-5228; Singh, Chandni/0000-0001-6842-6735; Few,
+   Roger/0000-0001-6653-1400
+Z8 0
+TC 36
+ZA 0
+ZR 0
+ZS 0
+ZB 5
+Z9 36
+SN 1756-5529
+EI 1756-5537
+DA 2021-09-01
+UT WOS:000688032400001
+ER
+
+PT J
+AU Vogel, Coleen
+   O'Brien, Karen
+TI Getting to the heart of transformation
+SO SUSTAINABILITY SCIENCE
+VL 17
+IS 2
+SI SI
+BP 653
+EP 659
+DI 10.1007/s11625-021-01016-8
+EA AUG 2021
+DT Editorial Material
+PD MAR 2022
+PY 2022
+ZB 2
+ZS 2
+ZR 0
+TC 17
+Z8 0
+ZA 0
+Z9 18
+SN 1862-4065
+EI 1862-4057
+DA 2021-08-25
+UT WOS:000684911900001
+PM 34413905
+ER
+
+PT J
+AU Borras, Saturnino M., Jr.
+   Scoones, Ian
+   Baviskar, Amita
+   Edelman, Marc
+   Peluso, Nancy Lee
+   Wolford, Wendy
+TI Climate change and agrarian struggles: an invitation to contribute to a
+   JPS Forum
+SO JOURNAL OF PEASANT STUDIES
+VL 49
+IS 1
+BP 1
+EP 28
+DI 10.1080/03066150.2021.1956473
+EA AUG 2021
+DT Article
+PD JAN 2 2022
+PY 2022
+OI Scoones, Ian/0000-0001-8547-4464
+TC 41
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+Z9 41
+SN 0306-6150
+EI 1743-9361
+DA 2021-08-13
+UT WOS:000682490600001
+ER
+
+PT J
+AU Van Rheenen, Derek
+   Melo, Ricardo
+TI Nature Sports: Prospects for Sustainability
+SO SUSTAINABILITY
+VL 13
+IS 16
+AR 8732
+DI 10.3390/su13168732
+DT Article
+PD AUG 2021
+PY 2021
+TC 2
+Z8 0
+ZB 1
+ZS 0
+ZA 0
+ZR 0
+Z9 2
+EI 2071-1050
+DA 2021-09-06
+UT WOS:000690022800001
+ER
+
+PT J
+AU Suriyankietkaew, Suparak
+   Nimsai, Suthep
+TI COVID-19 Impacts and Sustainability Strategies for Regional Recovery in
+   Southeast Asia: Challenges and Opportunities
+SO SUSTAINABILITY
+VL 13
+IS 16
+AR 8907
+DI 10.3390/su13168907
+DT Article
+PD AUG 2021
+PY 2021
+RI Suriyankietkaew, Suparak/F-9328-2018
+OI Suriyankietkaew, Suparak/0000-0003-0365-4686
+Z8 0
+ZR 0
+ZS 0
+ZA 0
+ZB 0
+TC 13
+Z9 13
+EI 2071-1050
+DA 2021-09-06
+UT WOS:000690102000001
+ER
+
+PT J
+AU Fisher, Eleanor
+   Luning, Sabine
+   D'Angelo, Lorenzo
+   Araujo, Carlos Hx
+   de Balme, Luigi Arnaldi
+   Calvimontes, Jorge
+   van de Camp, Esther
+   Ferreira, Lucia da Costa
+   Lanzano, Cristiano
+   Massaro, Luciana
+   Ouedraogo, Alizeta
+   Mello, Januaria Pereira
+   Pijpers, Robert J.
+   Provencal, Nii Obodai
+   de Moraes, Raissa Resende
+   Sawadogo, Christophe
+   de Theije, Marjo
+   de Tomi, Giorgio
+   Tuhumwire, Margaret
+   Twongyirwe, Ronald
+TI Transforming matters: sustaining gold lifeways in artisanal and
+   small-scale mining
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 49
+BP 190
+EP 200
+DI 10.1016/j.cosust.2021.06.010
+EA JUL 2021
+DT Article
+PD APR 2021
+PY 2021
+OI D'Angelo, Lorenzo/0000-0002-8731-2714; Twongyirwe,
+   Ronald/0000-0003-3379-7709; Fisher, Eleanor/0000-0001-6042-6706;
+   Calvimontes, Jorge/0000-0001-6498-6903; Araujo, Carlos Henrique
+   Xavier/0000-0001-5249-3933
+TC 6
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z9 6
+SN 1877-3435
+EI 1877-3443
+DA 2022-06-10
+UT WOS:000755175200021
+ER
+
+PT J
+AU de Albuquerque, Joao Porto
+   Anderson, Liana
+   Calvillo, Nerea
+   Coaffee, Jon
+   Cunha, Maria Alexandra
+   Degrossi, Livia Castro
+   Dolif, Giovanni
+   Horita, Flavio
+   Klonner, Carolin
+   Lima-Silva, Fernanda
+   Marchezini, Victor
+   da Mata Martins, Mario Henrique
+   Pajarito-Grajales, Diego
+   Pitidis, Vangelis
+   Rudorff, Conrado
+   Tkacz, Nathaniel
+   Traijber, Rachel
+   Zipf, Alexander
+TI The role of data in transformations to sustainability: a critical
+   research agenda
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 49
+BP 153
+EP 163
+DI 10.1016/j.cosust.2021.06.009
+EA JUL 2021
+DT Article
+PD APR 2021
+PY 2021
+RI NETO, GIOVANNI DN DOLIF/M-4612-2018; da Mata Martins, Mario Henrique/AAM-1297-2021; Marchezini, Victor/GRF-1529-2022; de Albuquerque, Joao Porto/O-2972-2019; Zipf, Alexander/AAC-2318-2020; Pitidis, Vangelis/; Castro Degrossi, Livia/K-6988-2017; Pajarito Grajales, Diego Fabian/
+OI NETO, GIOVANNI DN DOLIF/0000-0001-7996-4934; da Mata Martins, Mario
+   Henrique/0000-0002-1370-300X; de Albuquerque, Joao
+   Porto/0000-0002-3160-3168; Zipf, Alexander/0000-0003-4916-9838; Pitidis,
+   Vangelis/0000-0003-2410-4528; Castro Degrossi,
+   Livia/0000-0001-6897-1186; Pajarito Grajales, Diego
+   Fabian/0000-0001-9458-7436
+TC 4
+ZB 0
+ZR 0
+ZS 0
+ZA 0
+Z8 0
+Z9 4
+SN 1877-3435
+EI 1877-3443
+DA 2022-06-10
+UT WOS:000755175200019
+ER
+
+PT J
+AU Forsyth, Tim
+   Springate-Baginski, Oliver
+TI Are landscape approaches possible under authoritarianism?
+   Multi-stakeholder governance and social transformation in Myanmar
+SO ENVIRONMENTAL SCIENCE & POLICY
+VL 124
+BP 359
+EP 369
+DI 10.1016/j.envsci.2021.07.010
+EA JUL 2021
+DT Article
+PD OCT 2021
+PY 2021
+RI Forsyth, Tim/K-1044-2019
+OI Forsyth, Tim/0000-0001-7227-9475
+Z8 0
+ZS 0
+ZR 0
+TC 3
+ZA 0
+ZB 2
+Z9 3
+SN 1462-9011
+EI 1873-6416
+DA 2021-09-18
+UT WOS:000691602800009
+ER
+
+PT J
+AU van Oers, Laura
+   Feola, Giuseppe
+   Moors, Ellen
+   Runhaar, Hens
+TI The politics of deliberate destabilisation for sustainability
+   transitions
+SO ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+VL 40
+BP 159
+EP 171
+DI 10.1016/j.eist.2021.06.003
+EA JUL 2021
+DT Article
+PD SEP 2021
+PY 2021
+RI Runhaar, Hens A.C./L-5395-2013; Moors, Ellen H.M./N-1785-2013
+OI Runhaar, Hens A.C./0000-0001-7790-097X; 
+ZR 0
+TC 17
+ZA 0
+Z8 0
+ZB 1
+ZS 0
+Z9 17
+SN 2210-4224
+EI 2210-4232
+DA 2021-10-08
+UT WOS:000701739100011
+ER
+
+PT J
+AU Lin, Brenda B.
+   Ossola, Alessandro
+   Alberti, Marina
+   Andersson, Erik
+   Bai, Xuemei
+   Dobbs, Cynnamon
+   Elmqvist, Thomas
+   Evans, Karl L.
+   Frantzeskaki, Niki
+   Fuller, Richard A.
+   Gaston, Kevin J.
+   Haase, Dagmar
+   Jim, Chi Yung
+   Konijnendijk, Cecil
+   Nagendra, Harini
+   Niemela, Jari
+   McPhearson, Timon
+   Moomaw, William R.
+   Parnell, Susan
+   Pataki, Diane
+   Ripple, William J.
+   Tan, Puay Yok
+TI Integrating solutions to adapt cities for climate change
+SO LANCET PLANETARY HEALTH
+VL 5
+IS 7
+BP E479
+EP E486
+DT Article
+PD JUL 2021
+PY 2021
+RI Pataki, Diane E/F-9732-2011; Jim, CY/O-1025-2019; Fuller, Richard/B-7971-2008; Ossola, Alessandro/D-1262-2012; Elmqvist, Thomas/AAY-6344-2021; Frantzeskaki, Niki/AAN-1044-2021; Parnell, Susan M/Q-9963-2018; Andersson, Erik/; alberti, marina/; Pataki, Diane/; Bai, Xuemei/A-5443-2012; Lin, Brenda/; McPhearson, Timon/
+OI Jim, CY/0000-0003-4052-8363; Fuller, Richard/0000-0001-9468-9678;
+   Ossola, Alessandro/0000-0002-0507-6026; Elmqvist,
+   Thomas/0000-0002-4617-6197; Frantzeskaki, Niki/0000-0002-6983-448X;
+   Parnell, Susan M/0000-0002-5702-1684; Andersson,
+   Erik/0000-0003-2716-5502; alberti, marina/0000-0002-1920-309X; Pataki,
+   Diane/0000-0001-7209-514X; Bai, Xuemei/0000-0001-6556-8041; Lin,
+   Brenda/0000-0002-6011-9172; McPhearson, Timon/0000-0002-9499-0791
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+TC 35
+ZB 11
+Z9 34
+EI 2542-5196
+DA 2021-07-01
+UT WOS:000675402600013
+PM 34245718
+ER
+
+PT J
+AU Pearson, Leonie J.
+   Dare, Melaine
+TI Farmer pathways to sustainability in the face of water scarcity
+SO ENVIRONMENTAL SCIENCE & POLICY
+VL 124
+BP 186
+EP 194
+DI 10.1016/j.envsci.2021.06.016
+EA JUN 2021
+DT Article
+PD OCT 2021
+PY 2021
+OI Pearson, Leonie/0000-0001-6299-5283
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+TC 2
+ZS 0
+Z9 2
+SN 1462-9011
+EI 1873-6416
+DA 2021-09-10
+UT WOS:000691779600005
+ER
+
+PT J
+AU Coenen, Lars
+   Hansen, Teis
+   Glasmeier, Amy
+   Hassink, Robert
+TI Regional foundations of energy transitions
+SO CAMBRIDGE JOURNAL OF REGIONS ECONOMY AND SOCIETY
+VL 14
+IS 2
+BP 219
+EP 233
+DI 10.1093/cjres/rsab010
+EA JUN 2021
+DT Editorial Material
+PD JUL 2021
+PY 2021
+RI Coenen, Lars/GZN-1468-2022; Hansen, Teis/E-8032-2011
+OI Hansen, Teis/0000-0001-9383-3471
+ZS 0
+ZA 0
+ZR 0
+TC 22
+ZB 0
+Z8 1
+Z9 23
+SN 1752-1378
+EI 1752-1386
+DA 2021-08-22
+UT WOS:000684058000002
+ER
+
+PT J
+AU Shi, Linda
+   Moser, Susanne
+TI Transformative climate adaptation in the United States: Trends and
+   prospects
+SO SCIENCE
+VL 372
+IS 6549
+BP 1408
+EP +
+AR eabc8054
+DI 10.1126/science.abc8054
+DT Review
+PD JUN 25 2021
+PY 2021
+OI Shi, Linda/0000-0002-2444-367X; Moser, Susanne/0000-0001-6375-895X
+ZR 0
+ZB 4
+ZS 0
+ZA 0
+TC 34
+Z8 0
+Z9 34
+SN 0036-8075
+EI 1095-9203
+DA 2021-07-29
+UT WOS:000665860000037
+PM 33927053
+ER
+
+PT J
+AU Mach, Katharine J.
+   Siders, A. R.
+TI Reframing strategic, managed retreat for transformative climate
+   adaptation
+SO SCIENCE
+VL 372
+IS 6548
+SI SI
+BP 1294
+EP 1299
+DI 10.1126/science.abh1894
+DT Review
+PD JUN 18 2021
+PY 2021
+RI Siders, A.R./R-8672-2018; Mach, Katharine/
+OI Siders, A.R./0000-0001-6788-8313; Mach, Katharine/0000-0002-5591-8148
+Z8 0
+ZB 12
+ZA 0
+ZR 0
+ZS 0
+TC 37
+Z9 37
+SN 0036-8075
+EI 1095-9203
+DA 2021-08-12
+UT WOS:000665616000027
+PM 34140383
+ER
+
+PT J
+AU Beck, Silke
+   Jasanoff, Sheila
+   Stirling, Andy
+   Polzin, Christine
+TI The governance of sociotechnical transformations to sustainability
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 49
+BP 143
+EP 152
+DI 10.1016/j.cosust.2021.04.010
+EA JUN 2021
+DT Article
+PD APR 2021
+PY 2021
+RI Stirling, Andy/G-1608-2011; Beck, Silke/; Polzin, Christine/E-5586-2015
+OI Stirling, Andy/0000-0002-0650-431X; Beck, Silke/0000-0002-4157-0777;
+   Polzin, Christine/0000-0002-4150-5203
+ZA 0
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+TC 20
+Z9 20
+SN 1877-3435
+EI 1877-3443
+DA 2022-02-22
+UT WOS:000755175200018
+ER
+
+PT J
+AU Whitfield, Stephen
+   Apgar, Marina
+   Chabvuta, Chikondi
+   Challinor, Andrew
+   Deering, Karl
+   Dougill, Andrew
+   Gulzar, Abid
+   Kalaba, Felix
+   Lamanna, Christine
+   Manyonga, David
+   Naess, Lars Otto
+   Quinn, Claire Helen
+   Rosentock, Todd S.
+   Sallu, Susannah M.
+   Schreckenberg, Kate
+   Smith, Harriet Elizabeth
+   Smith, Ruth
+   Steward, Peter
+   Vincent, Katharine
+TI A framework for examining justice in food system transformations
+   research
+SO NATURE FOOD
+VL 2
+IS 6
+BP 383
+EP 385
+DI 10.1038/s43016-021-00304-x
+EA JUN 2021
+DT Article
+PD JUN 2021
+PY 2021
+RI Vincent, Katharine/L-5669-2019; Quinn, Claire/; Apgar, Marina/; Whitfield, Stephen/; Sallu, Susannah/
+OI Vincent, Katharine/0000-0003-3152-1522; Quinn,
+   Claire/0000-0002-2085-0446; Apgar, Marina/0000-0002-5775-6007;
+   Whitfield, Stephen/0000-0002-3040-778X; Sallu,
+   Susannah/0000-0002-1471-2485
+TC 11
+ZA 0
+ZS 0
+ZB 3
+Z8 0
+ZR 0
+Z9 11
+EI 2662-1355
+DA 2021-06-23
+UT WOS:000661580100001
+PM 37118230
+ER
+
+PT J
+AU Riedy, Chris
+TI Discursive entrepreneurship: ethical meaning-making as a transformative
+   practice for sustainable futures
+SO SUSTAINABILITY SCIENCE
+VL 17
+IS 2
+SI SI
+BP 541
+EP 554
+DI 10.1007/s11625-021-00978-z
+EA JUN 2021
+DT Article
+PD MAR 2022
+PY 2022
+ZR 0
+ZA 0
+TC 5
+ZS 0
+ZB 0
+Z8 0
+Z9 5
+SN 1862-4065
+EI 1862-4057
+DA 2021-06-13
+UT WOS:000658273700001
+ER
+
+PT J
+AU Leventon, Julia
+   Duse, Ioana A.
+   Horcea-Milcu, Andra-Ioana
+TI Leveraging Biodiversity Action From Plural Values: Transformations of
+   Governance Systems
+SO FRONTIERS IN ECOLOGY AND EVOLUTION
+VL 09
+AR 609853
+DI 10.3389/fevo.2021.609853
+DT Review
+PD JUN 4 2021
+PY 2021
+RI Leventon, Julia/AGW-8398-2022; Horcea-Milcu, Andra-Ioana/AAF-8772-2019
+OI Leventon, Julia/0000-0002-2447-8522; Horcea-Milcu,
+   Andra-Ioana/0000-0003-1757-6615
+ZR 0
+ZA 0
+ZS 0
+ZB 1
+Z8 0
+TC 11
+Z9 11
+SN 2296-701X
+DA 2021-06-25
+UT WOS:000662892600001
+ER
+
+PT J
+AU Harnesk, David
+   Isgren, Ellinor
+TI Sustainability as a Real Utopia - Heuristics for transformative
+   sustainability research
+SO ENVIRONMENT AND PLANNING E-NATURE AND SPACE
+VL 5
+IS 3
+SI SI
+BP 1678
+EP 1695
+DI 10.1177/25148486211018570
+EA MAY 2021
+DT Article
+PD SEP 2022
+PY 2022
+RI Isgren, Ellinor/AAA-2282-2022; Harnesk, David/
+OI Isgren, Ellinor/0000-0002-8949-2480; Harnesk, David/0000-0002-1932-3198
+ZA 0
+ZR 0
+Z8 0
+ZB 1
+TC 11
+ZS 0
+Z9 11
+SN 2514-8486
+EI 2514-8494
+DA 2021-05-31
+UT WOS:000849113100001
+ER
+
+PT J
+AU Manzano, Pablo
+   Burgas, Daniel
+   Cadahia, Luis
+   Eronen, Jussi T.
+   Fernandez-Llamazares, Alvaro
+   Bencherif, Slimane
+   Holand, Oystein
+   Seitsonen, Oula
+   Byambaa, Bayarmaa
+   Fortelius, Mikael
+   Fernandez-Gimenez, Maria E.
+   Galvin, Kathleen A.
+   Cabeza, Mar
+   Stenseth, Nils Chr
+TI Toward a holistic understanding of pastoralism
+SO ONE EARTH
+VL 4
+IS 5
+BP 651
+EP 665
+DI 10.1016/j.oneear.2021.04.012
+EA MAY 2021
+DT Review
+PD MAY 21 2021
+PY 2021
+RI Cadahía, Luis/HMD-2415-2023; Seitsonen, Oula/AAM-6028-2021; Manzano, Pablo/B-7672-2017; Eronen, Jussi T./B-7978-2013; Fernández-Llamazares, Álvaro/ABA-6096-2021; Fortelius, Mikael/; Fernandez-Llamazares, Alvaro/; Cabeza, Mar/; Byambaa, Bayarmaa/; bencherif, Slimane/; Burgas, Daniel/
+OI Cadahía, Luis/0000-0003-4047-5409; Seitsonen, Oula/0000-0003-3792-0081;
+   Manzano, Pablo/0000-0002-6071-2670; Eronen, Jussi
+   T./0000-0002-0390-8044; Fortelius, Mikael/0000-0002-4851-783X;
+   Fernandez-Llamazares, Alvaro/0000-0002-7813-0222; Cabeza,
+   Mar/0000-0002-7410-7631; Byambaa, Bayarmaa/0000-0003-4198-0925;
+   bencherif, Slimane/0000-0003-1447-8067; Burgas,
+   Daniel/0000-0003-3512-8365
+ZA 0
+TC 19
+ZR 0
+Z8 0
+ZB 6
+ZS 0
+Z9 19
+SN 2590-3330
+EI 2590-3322
+DA 2021-06-17
+UT WOS:000655035700013
+ER
+
+PT J
+AU Palomo, Ignacio
+   Locatelli, Bruno
+   Otero, Iago
+   Colloff, Matthew
+   Crouzat, Emilie
+   Cuni-Sanchez, Aida
+   Gomez-Baggethun, Erik
+   Gonzalez-Garcia, Alberto
+   Gret-Regamey, Adrienne
+   Jimenez-Aceituno, Amanda
+   Martin-Lopez, Berta
+   Pascual, Unai
+   Zafra-Calvo, Noelia
+   Bruley, Enora
+   Fischborn, Marie
+   Metz, Rosmarie
+   Lavorel, Sandra
+TI Assessing nature-based solutions for transformative change
+SO ONE EARTH
+VL 4
+IS 5
+BP 730
+EP 741
+DI 10.1016/j.oneear.2021.04.013
+EA MAY 2021
+DT Article
+PD MAY 21 2021
+PY 2021
+RI Grêt-Regamey, Adrienne/AAZ-7546-2021; PALOMO, IGNACIO/D-4398-2014; Martin-Lopez, Berta/R-9397-2017; PASCUAL, UNAI/B-4766-2012; Grêt-Regamey, Adrienne/HPE-6858-2023; Locatelli, Bruno/C-9957-2009; Gonzalez-Garcia, Alberto/; Jimenez Aceituno, Amanda/
+OI Grêt-Regamey, Adrienne/0000-0001-8156-9503; PALOMO,
+   IGNACIO/0000-0002-4573-5989; Martin-Lopez, Berta/0000-0003-2622-0135;
+   PASCUAL, UNAI/0000-0002-5696-236X; Grêt-Regamey,
+   Adrienne/0000-0001-8156-9503; Locatelli, Bruno/0000-0003-2983-1644;
+   Gonzalez-Garcia, Alberto/0000-0002-1969-3818; Jimenez Aceituno,
+   Amanda/0000-0002-5950-4751
+ZA 0
+ZB 8
+Z8 0
+ZS 0
+ZR 0
+TC 33
+Z9 34
+SN 2590-3330
+EI 2590-3322
+DA 2021-06-17
+UT WOS:000655035700019
+ER
+
+PT J
+AU Brondizio, Eduardo S.
+   Andersson, Krister
+   de Castro, Fabio
+   Futemma, Celia
+   Salk, Carl
+   Tengo, Maria
+   Londres, Marina
+   Tourne, Daiana C. M.
+   Gonzalez, Tais S.
+   Molina-Garzon, Adriana
+   Lopes, Gabriela Russo
+   Siani, Sacha M. O.
+TI Making place-based sustainability initiatives visible in the Brazilian
+   Amazon
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 49
+BP 66
+EP 78
+DI 10.1016/j.cosust.2021.03.007
+EA MAY 2021
+DT Article
+PD APR 2021
+PY 2021
+RI González, Taís/HIA-0096-2022; Tengö, Maria/AAC-5698-2020; Sonetti Gonzalez, Tais/; Ortiz Siani, Sacha Marua/; de Castro, Fabio/; Molina Garzon, Adriana/; Salk, Carl/; Andersson, Krister/
+OI Tengö, Maria/0000-0002-4776-3748; Sonetti Gonzalez,
+   Tais/0000-0002-2918-8815; Ortiz Siani, Sacha Marua/0000-0002-9048-4808;
+   de Castro, Fabio/0000-0001-5197-3863; Molina Garzon,
+   Adriana/0000-0001-9685-4550; Salk, Carl/0000-0003-2833-8292; Andersson,
+   Krister/0000-0002-9320-8155
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+TC 2
+Z9 2
+SN 1877-3435
+EI 1877-3443
+DA 2022-02-22
+UT WOS:000755175200011
+ER
+
+PT J
+AU Tafon, Ralph
+   Glavovic, Bruce
+   Saunders, Fred
+   Gilek, Michael
+TI Oceans of Conflict: Pathways to an Ocean Sustainability PACT
+SO PLANNING PRACTICE AND RESEARCH
+VL 37
+IS 2
+SI SI
+BP 213
+EP 230
+DI 10.1080/02697459.2021.1918880
+EA MAY 2021
+DT Article
+PD MAR 4 2022
+PY 2022
+RI Glavovic, Bruce/AAM-2684-2021
+OI Glavovic, Bruce/0000-0001-5235-1425
+Z8 0
+ZS 0
+ZR 0
+TC 11
+ZA 0
+ZB 3
+Z9 11
+SN 0269-7459
+EI 1360-0583
+DA 2021-05-27
+UT WOS:000647075000001
+ER
+
+PT J
+AU Dahlet, Lol Lana
+   Himes-Cornell, Amber
+   Metzner, Rebecca
+TI Fisheries conflicts as drivers of social transformation
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 53
+BP 9
+EP 18
+DI 10.1016/j.cosust.2021.03.011
+EA APR 2021
+DT Article
+PD DEC 2021
+PY 2021
+OI Himes-Cornell, Amber/0000-0003-3695-2241
+TC 3
+Z8 0
+ZS 0
+ZA 0
+ZB 1
+ZR 0
+Z9 3
+SN 1877-3435
+EI 1877-3443
+DA 2021-11-25
+UT WOS:000711940600002
+ER
+
+PT J
+AU Gavonel, Maria Franco
+   Adger, William Neil
+   de Campos, Ricardo Safra
+   Boyd, Emily
+   Carr, Edward R.
+   Fabos, Anita
+   Fransen, Sonja
+   Jolivet, Dominique
+   Zickgraf, Caroline
+   Codjoe, Samuel Na
+   Abu, Mumuni
+   Siddiqui, Tasneem
+TI The migration-sustainability paradox: transformations in mobile worlds
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 49
+BP 98
+EP 109
+DI 10.1016/j.cosust.2021.03.013
+EA APR 2021
+DT Article
+PD APR 2021
+PY 2021
+RI Abu, Mumuni/Y-2583-2019; Carr, Edward R/A-7206-2009; Fabos, Anita/; Zickgraf, Caroline/; Carr, Edward/; Franco Gavonel, Maria/; Jolivet, Dominique/; Siddiqui, Tasneem/
+OI Abu, Mumuni/0000-0002-6455-0162; Fabos, Anita/0000-0001-6178-6439;
+   Zickgraf, Caroline/0000-0002-0398-1700; Carr,
+   Edward/0000-0001-7784-471X; Franco Gavonel, Maria/0000-0003-2377-5987;
+   Jolivet, Dominique/0000-0003-4931-6789; Siddiqui,
+   Tasneem/0000-0003-4733-7439
+ZR 0
+Z8 0
+TC 4
+ZB 1
+ZS 0
+ZA 0
+Z9 4
+SN 1877-3435
+EI 1877-3443
+DA 2022-02-22
+UT WOS:000755175200014
+ER
+
+PT J
+AU Mai, Laura
+   Boulot, Emilie
+TI Harnessing the transformative potential of Earth System Law: From theory
+   to practice
+SO EARTH SYSTEM GOVERNANCE
+VL 7
+SI SI
+AR 100103
+DI 10.1016/j.esg.2021.100103
+EA APR 2021
+DT Article
+PD MAR 2021
+PY 2021
+OI Mai, Laura/0000-0001-8975-1078; Boulot, Emille/0009-0004-5859-1218
+TC 12
+Z8 0
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z9 12
+SN 2589-8116
+DA 2021-09-23
+UT WOS:000694543100010
+ER
+
+PT J
+AU Massarella, Kate
+   Nygren, Anja
+   Fletcher, Robert
+   Buscher, Bram
+   Kiwango, Wilhelm A.
+   Komi, Sanna
+   Krauss, Judith E.
+   Mabele, Mathew B.
+   Mclnturff, Alex
+   Sandroni, Laila T.
+   Alagona, Peter S.
+   Brockington, Dan
+   Coates, Robert
+   Duffy, Rosaleen
+   Ferraz, Katia M. P. M. B.
+   Koot, Stasja
+   Marchini, Silvio
+   Percequillo, Alexandre R.
+TI Transformation beyond conservation: how critical social science can
+   contribute to a radical new agenda in biodiversity conservation
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 49
+BP 79
+EP 87
+DI 10.1016/j.cosust.2021.03.005
+EA APR 2021
+DT Article
+PD APR 2021
+PY 2021
+RI Mabele, Mathew Bukhi/AHD-7633-2022; Nygren, Anja/AGL-3680-2022; Komi, Sanna/HOA-6697-2023; /ADO-3246-2022; Coates, Robert/HGB-7262-2022; Percequillo, Alexandre R/C-3067-2012; Komi, Sanna/; Brockington, Dan/; Massarella, Kate/; Sandroni, Laila/; Kiwango, Wilhelm Andrew/; Ferraz, Katia Maria/D-7244-2012; Duffy, Rosaleen/; McInturff, Alex/
+OI Mabele, Mathew Bukhi/0000-0002-2460-2415; Nygren,
+   Anja/0000-0001-9054-1801; Percequillo, Alexandre R/0000-0002-7892-8912;
+   Komi, Sanna/0000-0001-8331-2701; Brockington, Dan/0000-0001-5692-0154;
+   Massarella, Kate/0000-0001-6721-1281; Sandroni,
+   Laila/0000-0003-4632-5284; Kiwango, Wilhelm Andrew/0000-0002-4058-1853;
+   Ferraz, Katia Maria/0000-0002-7870-8696; Duffy,
+   Rosaleen/0000-0002-6779-7240; McInturff, Alex/0000-0002-4858-1292
+ZR 0
+ZS 1
+TC 27
+Z8 0
+ZB 6
+ZA 0
+Z9 28
+SN 1877-3435
+EI 1877-3443
+DA 2021-04-16
+UT WOS:000755175200012
+ER
+
+PT J
+AU Huttunen, Suvi
+   Kaljonen, Minna
+   Lonkila, Annika
+   Rantala, Salla
+   Rekola, Aino
+   Paloniemi, Riikka
+TI Pluralising agency to understand behaviour change in sustainability
+   transitions
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+VL 76
+AR 102067
+DI 10.1016/j.erss.2021.102067
+EA APR 2021
+DT Article
+PD JUN 2021
+PY 2021
+RI Kaljonen, Minna/AAD-2065-2019; Huttunen, Suvi/; Lonkila, Annika/
+OI Kaljonen, Minna/0000-0001-8067-2402; Huttunen, Suvi/0000-0002-8484-9014;
+   Lonkila, Annika/0000-0002-2637-396X
+ZA 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 13
+Z9 13
+SN 2214-6296
+EI 2214-6326
+DA 2021-06-09
+UT WOS:000656405400005
+ER
+
+PT J
+AU Lepenies, Robert
+   Zakari, Ibrahim Sidi
+TI Citizen Science for Transformative Air Quality Policy in Germany and
+   Niger
+SO SUSTAINABILITY
+VL 13
+IS 7
+AR 3973
+DI 10.3390/su13073973
+DT Article
+PD APR 2021
+PY 2021
+RI Lepenies, Robert/W-8082-2019
+OI Lepenies, Robert/0000-0002-4454-5921
+ZB 3
+ZA 0
+ZR 0
+Z8 0
+TC 6
+ZS 0
+Z9 6
+EI 2071-1050
+DA 2021-05-06
+UT WOS:000638915100001
+ER
+
+PT J
+AU Galvin, Kathleen A.
+TI Transformational adaptation in drylands
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 50
+SI SI
+BP 64
+EP 71
+DI 10.1016/j.cosust.2021.03.003
+EA MAR 2021
+DT Article
+PD JUN 2021
+PY 2021
+Z8 0
+ZS 0
+ZB 2
+ZA 0
+ZR 0
+TC 5
+Z9 5
+SN 1877-3435
+EI 1877-3443
+DA 2021-10-02
+UT WOS:000696958300009
+ER
+
+PT J
+AU Bastiaensen, Johan
+   Huybrechs, Frederic
+   Merlet, Pierre
+   Romero, Milagros
+   Van Hecken, Gert
+TI Fostering bottom-up actor coalitions for transforming complex rural
+   territorial pathways
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 49
+BP 42
+EP 49
+DI 10.1016/j.cosust.2021.02.001
+EA MAR 2021
+DT Article
+PD APR 2021
+PY 2021
+RI Romero, Milagros/GZH-2839-2022; Romero, Milagros/; Merlet, Pierre/; Huybrechs, Frederic/I-8059-2015
+OI Romero, Milagros/0000-0002-2894-3807; Merlet,
+   Pierre/0000-0001-9459-9197; Huybrechs, Frederic/0000-0002-6430-3444
+ZS 0
+ZR 0
+Z8 0
+TC 3
+ZB 1
+ZA 0
+Z9 3
+SN 1877-3435
+EI 1877-3443
+DA 2022-02-22
+UT WOS:000755175200008
+ER
+
+PT J
+AU Wyborn, C.
+   Montana, J.
+   Kalas, N.
+   Clement, S.
+   Davila, F.
+   Knowles, N.
+   Louder, E.
+   Balan, M.
+   Chambers, J.
+   Christel, L.
+   Forsyth, T.
+   Henderson, G.
+   Izquierdo Tort, S.
+   Lim, M.
+   Martinez-Harms, M. J.
+   Mercon, J.
+   Nuesiri, E.
+   Pereira, L.
+   Pilbeam, V.
+   Turnhout, E.
+   Wood, S.
+   Ryan, M.
+TI An agenda for research and action toward diverse and just futures for
+   life on Earth
+SO CONSERVATION BIOLOGY
+VL 35
+IS 4
+BP 1086
+EP 1097
+DI 10.1111/cobi.13671
+EA MAR 2021
+DT Article
+PD AUG 2021
+PY 2021
+RI Forsyth, Tim/K-1044-2019; Clement, Sarah/O-9997-2016; Pereira, Laura M./L-7258-2013; Izquierdo-Tort, Santiago/AHC-4278-2022; Wyborn, Carina/AAU-4818-2021; Lim, Michelle/; Knowles, Natalie/; Montana, Jasper/; Davila, Federico/; Kalas, Nicole/; Martinez-Harms, Maria Jose/; Wyborn, Carina/
+OI Forsyth, Tim/0000-0001-7227-9475; Clement, Sarah/0000-0002-5422-622X;
+   Pereira, Laura M./0000-0002-4996-7234; Izquierdo-Tort,
+   Santiago/0000-0003-0139-6839; Lim, Michelle/0000-0002-0559-0113;
+   Knowles, Natalie/0000-0002-5605-5954; Montana,
+   Jasper/0000-0003-3405-2549; Davila, Federico/0000-0002-6899-1854; Kalas,
+   Nicole/0000-0003-2626-4293; Martinez-Harms, Maria
+   Jose/0000-0003-2655-3116; Wyborn, Carina/0000-0002-4314-347X
+ZB 11
+ZS 0
+TC 28
+Z8 0
+ZR 0
+ZA 0
+Z9 28
+SN 0888-8892
+EI 1523-1739
+DA 2021-03-03
+UT WOS:000624618800001
+PM 33244774
+ER
+
+PT J
+AU Darnhofer, Ika
+TI Farming Resilience: From Maintaining States towards Shaping
+   Transformative Change Processes
+SO SUSTAINABILITY
+VL 13
+IS 6
+AR 3387
+DI 10.3390/su13063387
+DT Article
+PD MAR 2021
+PY 2021
+OI Darnhofer, Ika/0000-0002-0809-9602
+Z8 0
+ZS 0
+ZA 0
+ZR 0
+TC 12
+ZB 4
+Z9 12
+EI 2071-1050
+DA 2021-05-19
+UT WOS:000645752000001
+ER
+
+PT J
+AU Kihoro, E. M.
+   Schoneveld, G. C.
+   Crane, T. A.
+TI Pathways toward inclusive low-emission dairy development in Tanzania:
+   Producer heterogeneity and implications for intervention design
+SO AGRICULTURAL SYSTEMS
+VL 190
+AR 103073
+DI 10.1016/j.agsy.2021.103073
+EA FEB 2021
+DT Article
+PD MAY 2021
+PY 2021
+OI Schoneveld, George/0000-0003-1157-8222
+ZA 0
+ZR 0
+Z8 0
+TC 7
+ZB 1
+ZS 0
+Z9 7
+SN 0308-521X
+EI 1873-2267
+DA 2021-05-27
+UT WOS:000647657100007
+ER
+
+PT J
+AU Haider, L. Jamila
+   Schluter, Maja
+   Folke, Carl
+   Reyers, Belinda
+TI Rethinking resilience and development: A coevolutionary perspective
+SO AMBIO
+VL 50
+IS 7
+SI SI
+BP 1304
+EP 1312
+DI 10.1007/s13280-020-01485-8
+EA FEB 2021
+DT Article
+PD JUL 2021
+PY 2021
+RI Schlüter, Maja/C-2374-2015; Folke, Carl/; Reyers, Belinda/; Haider, L. Jamila/
+OI Schlüter, Maja/0000-0002-7780-1039; Folke, Carl/0000-0002-4050-3281;
+   Reyers, Belinda/0000-0002-2194-8656; Haider, L.
+   Jamila/0000-0002-0265-5356
+ZR 0
+TC 17
+ZS 1
+ZB 2
+Z8 0
+ZA 0
+Z9 17
+SN 0044-7447
+EI 1654-7209
+DA 2021-03-10
+UT WOS:000616995500006
+PM 33566331
+ER
+
+PT J
+AU Wang, Shuai
+   Song, Shuang
+   Zhang, Junze
+   Wu, Xutong
+   Fu, Bojie
+TI Achieving a fit between social and ecological systems in drylands for
+   sustainability
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 48
+BP 53
+EP 58
+DI 10.1016/j.cosust.2020.09.008
+DT Article
+PD FEB 2021
+PY 2021
+RI Wang, Shuai/HZJ-7466-2023; Wu, Xutong/GLN-5137-2022; Fu, Bojie/B-1493-2009; Wang, Shuai/B-2334-2017
+OI Wu, Xutong/0000-0001-6124-0436; Wang, Shuai/0000-0003-1595-9858
+ZR 0
+Z8 1
+ZS 0
+TC 11
+ZB 6
+ZA 0
+Z9 11
+SN 1877-3435
+EI 1877-3443
+DA 2021-04-24
+UT WOS:000632646500007
+ER
+
+PT J
+AU Leach, Melissa
+   MacGregor, Hayley
+   Scoones, Ian
+   Wilkinson, Annie
+TI Post-pandemic transformations: How and why COVID-19 requires us to
+   rethink development
+SO WORLD DEVELOPMENT
+VL 138
+AR 105233
+DI 10.1016/j.worlddev.2020.105233
+DT Article
+PD FEB 2021
+PY 2021
+RI Wilkinson, Annie/HLX-7386-2023; Scoones, Ian/
+OI Scoones, Ian/0000-0001-8547-4464
+ZR 0
+ZB 11
+TC 128
+Z8 2
+ZS 2
+ZA 0
+Z9 130
+SN 0305-750X
+EI 1873-5991
+DA 2021-01-14
+UT WOS:000601162800029
+PM 33100478
+ER
+
+PT J
+AU Ramos-Mejia, Monica
+   Duenas-Ocampo, Sebastian
+   Gomati de la Vega, Isabella
+TI Understanding organisations for a post-growth era: contributions from an
+   epistemic analysis
+SO INTERNATIONAL JOURNAL OF SOCIOLOGY AND SOCIAL POLICY
+VL 41
+IS 11-12
+BP 1227
+EP 1243
+DI 10.1108/IJSSP-06-2020-0251
+EA JAN 2021
+DT Article
+PD NOV 2 2021
+PY 2021
+OI Gomati de la Vega, Isabella/0000-0003-4633-7998; Ramos-Mejia,
+   Monica/0000-0002-9653-831X; Duenas-Ocampo, Sebastian/0000-0002-5444-2205
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+TC 1
+ZA 0
+Z9 1
+SN 0144-333X
+EI 1758-6720
+DA 2021-02-09
+UT WOS:000610515500001
+ER
+
+PT J
+AU Werners, Saskia E.
+   Wise, Russell M.
+   Butler, James R. A.
+   Totin, Edmond
+   Vincent, Katharine
+TI Adaptation pathways: A review of approaches and a learning framework
+SO ENVIRONMENTAL SCIENCE & POLICY
+VL 116
+BP 266
+EP 275
+DI 10.1016/j.envsci.2020.11.003
+EA JAN 2021
+DT Review
+PD FEB 2021
+PY 2021
+RI Butler, James RA/D-7446-2011; Wise, Russell M/G-5463-2010; Vincent, Katharine/L-5669-2019; werners, saskia/; Totin, Edmond/
+OI Butler, James RA/0000-0001-8333-947X; Wise, Russell
+   M/0000-0002-5882-5123; Vincent, Katharine/0000-0003-3152-1522; werners,
+   saskia/0000-0002-1705-4318; Totin, Edmond/0000-0003-3377-6190
+ZA 0
+ZB 9
+TC 52
+Z8 0
+ZR 0
+ZS 1
+Z9 52
+SN 1462-9011
+EI 1873-6416
+DA 2021-02-26
+UT WOS:000613645200008
+ER
+
+PT J
+AU Belisle-Toler, Rachael
+   Hodbod, Jennifer
+   Wentworth, Chelsea
+TI A mixed methods approach to exploring values that inform desirable
+   food-systems futures
+SO SUSTAINABILITY-SCIENCE PRACTICE AND POLICY
+VL 17
+IS 1
+BP 362
+EP 376
+DI 10.1080/15487733.2021.1996768
+DT Article
+PD JAN 1 2021
+PY 2021
+OI Wentworth, Chelsea/0000-0002-5016-7277; Hodbod,
+   Jennifer/0000-0001-8899-6583
+TC 2
+ZR 0
+ZA 0
+ZB 1
+ZS 0
+Z8 0
+Z9 2
+EI 1548-7733
+DA 2022-12-28
+UT WOS:000891833800029
+ER
+
+PT J
+AU Sellberg, My M.
+   Cockburn, Jessica
+   Holden, Petra B.
+   Lam, David P. M.
+TI Towards a caring transdisciplinary research practice: navigating
+   science, society and self
+SO ECOSYSTEMS AND PEOPLE
+VL 17
+IS 1
+BP 292
+EP 305
+DI 10.1080/26395916.2021.1931452
+DT Article
+PD JAN 1 2021
+PY 2021
+RI Holden, Petra/AAQ-3951-2021; Cockburn, Jessica/; Sellberg, My M./; Lam, David Patrick Michael/
+OI Holden, Petra/0000-0002-3047-1407; Cockburn,
+   Jessica/0000-0002-3954-7340; Sellberg, My M./0000-0002-0158-164X; Lam,
+   David Patrick Michael/0000-0002-3604-0800
+ZA 0
+ZB 12
+TC 32
+ZS 0
+ZR 0
+Z8 0
+Z9 32
+EI 2639-5916
+DA 2021-07-06
+UT WOS:000664918400001
+ER
+
+PT J
+AU Pereira, Laura
+   Kuiper, Jan J.
+   Selomane, Odirilwe
+   Aguiar, Ana Paula D.
+   Asrar, Ghassem R.
+   Bennett, Elena M.
+   Biggs, Reinette
+   Calvin, Katherine
+   Hedden, Steve
+   Hsu, Angel
+   Jabbour, Jason
+   King, Nicholas
+   Koberle, Alexandre C.
+   Lucas, Paul
+   Nel, Jeanne
+   Norstrom, Albert V.
+   Peterson, Garry
+   Sitas, Nadia
+   Trisos, Christopher
+   van Vuuren, Detlef P.
+   Vervoort, Joost
+   Ward, James
+TI Advancing a toolkit of diverse futures approaches for global
+   environmental assessments
+SO ECOSYSTEMS AND PEOPLE
+VL 17
+IS 1
+BP 191
+EP 204
+DI 10.1080/26395916.2021.1901783
+DT Article
+PD JAN 1 2021
+PY 2021
+RI Hopeward, James David/GLS-9445-2022; Bennett, Elena/A-9553-2008; Selomane, Odirilwe/L-8068-2019; Vervoort, Joost M./R-1735-2016; Koberle, Alexandre/AAN-1104-2021; Pereira, Laura M./L-7258-2013; Aguiar, Ana Paula D/R-9256-2016; Peterson, Garry D/C-1309-2008; Kuiper, Jan J./; Lucas, Paul/; Sitas, Nadia/; van Vuuren, Detlef/A-4764-2009
+OI Hopeward, James David/0000-0003-4847-841X; Selomane,
+   Odirilwe/0000-0002-6892-4221; Vervoort, Joost M./0000-0001-8289-7429;
+   Pereira, Laura M./0000-0002-4996-7234; Aguiar, Ana Paula
+   D/0000-0002-0683-1142; Peterson, Garry D/0000-0003-0173-0112; Kuiper,
+   Jan J./0000-0002-6655-9355; Lucas, Paul/0000-0003-0292-7830; Sitas,
+   Nadia/0000-0003-0888-8617; van Vuuren, Detlef/0000-0003-0398-2831
+Z8 0
+ZS 0
+TC 15
+ZA 0
+ZB 6
+ZR 0
+Z9 15
+EI 2639-5916
+DA 2021-05-15
+UT WOS:000640366800001
+ER
+
+PT J
+AU Lam, David P. M.
+   Martin-Lopez, Berta
+   Horcea-Milcu, Andra I.
+   Lang, Daniel J.
+TI A leverage points perspective on social networks to understand
+   sustainability transformations: evidence from Southern Transylvania
+SO SUSTAINABILITY SCIENCE
+VL 16
+IS 3
+SI SI
+BP 809
+EP 826
+DI 10.1007/s11625-020-00881-z
+EA DEC 2020
+DT Article
+PD MAY 2021
+PY 2021
+RI Horcea-Milcu, Andra-Ioana/AAF-8772-2019; Martin-Lopez, Berta/R-9397-2017; Lang, Daniel J./; Lam, David Patrick Michael/
+OI Horcea-Milcu, Andra-Ioana/0000-0003-1757-6615; Martin-Lopez,
+   Berta/0000-0003-2622-0135; Lang, Daniel J./0000-0001-5435-1488; Lam,
+   David Patrick Michael/0000-0002-3604-0800
+ZB 1
+ZA 0
+ZS 0
+TC 9
+Z8 0
+ZR 0
+Z9 9
+SN 1862-4065
+EI 1862-4057
+DA 2020-12-17
+UT WOS:000595382600001
+ER
+
+PT J
+AU Reisman, Emily
+   Fairbairn, Madeleine
+TI Agri-Food Systems and the Anthropocene
+SO ANNALS OF THE AMERICAN ASSOCIATION OF GEOGRAPHERS
+VL 111
+IS 3
+BP 687
+EP 697
+DI 10.1080/24694452.2020.1828025
+EA NOV 2020
+DT Article
+PD NOV 12 2020
+PY 2020
+OI Fairbairn, Madeleine/0000-0003-0168-4179
+ZR 0
+ZB 0
+TC 11
+ZS 0
+Z8 0
+ZA 0
+Z9 11
+SN 2469-4452
+EI 2469-4460
+DA 2020-12-03
+UT WOS:000590652100001
+ER
+
+PT J
+AU Hernandez-Castilla, Reyes
+   Opazo, Hector
+TI Sustainable Development Goals: Contributions from the Educational
+   Committed Research
+SO PROFESORADO-REVISTA DE CURRICULUM Y FORMACION DE PROFESORADO
+VL 24
+IS 3
+BP 1
+EP 8
+DI 10.30827/profesorado.v24i3.16996
+DT Article
+PD NOV 2020
+PY 2020
+RI Opazo, Héctor/AAM-2661-2021
+OI Opazo, Héctor/0000-0002-8276-1668
+TC 2
+ZR 0
+ZB 0
+ZA 0
+Z8 0
+ZS 0
+Z9 2
+SN 1138-414X
+EI 1989-6395
+DA 2021-03-02
+UT WOS:000620590700001
+ER
+
+PT J
+AU Grandin, Jakob
+   Haarstad, Havard
+TI Transformation as relational mobilisation: The networked geography of
+   Addis Ababa's sustainable transport interventions
+SO ENVIRONMENT AND PLANNING D-SOCIETY & SPACE
+VL 39
+IS 2
+BP 289
+EP 308
+AR 0263775820963281
+DI 10.1177/0263775820963281
+EA OCT 2020
+DT Article
+PD APR 2021
+PY 2021
+TC 11
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+ZA 0
+Z9 11
+SN 0263-7758
+EI 1472-3433
+DA 2020-10-30
+UT WOS:000578593000001
+ER
+
+PT J
+AU Caniglia, Guido
+   Luederitz, C.
+   von Wirth, T.
+   Fazey, I
+   Martin-Lopez, B.
+   Hondrila, K.
+   Konig, A.
+   von Wehrden, H.
+   Schapke, N. A.
+   Laubichler, M. D.
+   Lang, D. J.
+TI A pluralistic and integrated approach to action-oriented knowledge for
+   sustainability
+SO NATURE SUSTAINABILITY
+VL 4
+IS 2
+BP 93
+EP 100
+DI 10.1038/s41893-020-00616-z
+EA OCT 2020
+DT Article
+PD FEB 2021
+PY 2021
+RI Fazey, Ioan/ABB-3403-2021; Martin-Lopez, Berta/R-9397-2017; Lang, Daniel J./; Hondrila, Kristina/; Laubichler, Manfred/; Luederitz, Christopher/; Schapke, Niko/
+OI Martin-Lopez, Berta/0000-0003-2622-0135; Lang, Daniel
+   J./0000-0001-5435-1488; Hondrila, Kristina/0000-0002-5042-5440;
+   Laubichler, Manfred/0000-0001-6152-0251; Luederitz,
+   Christopher/0000-0002-7873-4229; Schapke, Niko/0000-0003-2232-1430
+ZS 0
+ZA 0
+TC 109
+Z8 0
+ZR 0
+ZB 24
+Z9 110
+SN 2398-9629
+DA 2020-10-19
+UT WOS:000575773600001
+ER
+
+PT J
+AU Leach, Melissa
+   Nisbett, Nicholas
+   Cabral, Lidia
+   Harris, Jody
+   Hossain, Naomi
+   Thompson, John
+TI Food politics and development
+SO WORLD DEVELOPMENT
+VL 134
+AR 105024
+DI 10.1016/j.worlddev.2020.105024
+DT Review
+PD OCT 2020
+PY 2020
+OI Nisbett, Nicholas/0000-0002-9558-2263; Hossain,
+   Naomi/0000-0002-3244-2319; Harris, Jody/0000-0002-3369-1253
+ZA 0
+ZS 0
+ZB 2
+Z8 0
+ZR 0
+TC 46
+Z9 46
+SN 0305-750X
+EI 1873-5991
+DA 2020-08-17
+UT WOS:000554926900008
+ER
+
+PT J
+AU Loboguerrero, Ana Maria
+   Thornton, Philip
+   Wadsworth, Jonathan
+   Campbell, Bruce M.
+   Herrero, Mario
+   Mason-D'Croz, Daniel
+   Dinesh, Dhanush
+   Huyer, Sophia
+   Jarvis, Andy
+   Millan, Alberto
+   Wollenberg, Eva
+   Zebiak, Stephen
+TI Perspective article: Actions to reconfigure food systems
+SO GLOBAL FOOD SECURITY-AGRICULTURE POLICY ECONOMICS AND ENVIRONMENT
+VL 26
+AR 100432
+DI 10.1016/j.gfs.2020.100432
+DT Article
+PD SEP 2020
+PY 2020
+RI Mason-D'Croz, Daniel/M-4254-2016; Huyer, Sophia/IAN-7280-2023; Herrero, Mario/A-6678-2015; Dinesh, Dhanush/; Loboguerrero, Ana Maria/; Jarvis, Andy/K-5516-2013
+OI Mason-D'Croz, Daniel/0000-0003-0673-2301; Huyer,
+   Sophia/0000-0001-6267-8667; Herrero, Mario/0000-0002-7741-5090; Dinesh,
+   Dhanush/0000-0002-1976-0486; Loboguerrero, Ana
+   Maria/0000-0003-2690-0763; Jarvis, Andy/0000-0001-6543-0798
+ZB 1
+Z8 1
+ZS 0
+ZR 0
+ZA 0
+TC 13
+Z9 14
+SN 2211-9124
+DA 2021-01-25
+UT WOS:000602888500016
+PM 33014702
+ER
+
+PT J
+AU Borie, Maud
+   Gustafsson, Karin M.
+   Obermeister, Noam
+   Turnhout, Esther
+   Bridgewater, Peter
+TI Institutionalising reflexivity? Transformative learning and the
+   Intergovernmental science-policy Platform on Biodiversity and Ecosystem
+   Services (IPBES)
+SO ENVIRONMENTAL SCIENCE & POLICY
+VL 110
+BP 71
+EP 76
+DI 10.1016/j.envsci.2020.05.005
+DT Article
+PD AUG 2020
+PY 2020
+OI Gustafsson, Karin M/0000-0002-1495-8346; Obermeister,
+   Noam/0000-0001-7738-9462; Borie, Maud/0000-0002-1538-8832
+ZB 5
+Z8 1
+ZR 0
+ZS 0
+TC 25
+ZA 0
+Z9 26
+SN 1462-9011
+EI 1873-6416
+DA 2020-06-16
+UT WOS:000537622000007
+ER
+
+PT J
+AU Falayi, Menelisi
+   Gambiza, James
+   Schoon, Michael
+TI Unpacking Changing Multi-Actor and Multi-Level Actor Ties in
+   Transformative Spaces: Insights from a Degraded Landscape, Machubeni,
+   South Africa
+SO LAND
+VL 9
+IS 7
+AR 227
+DI 10.3390/land9070227
+DT Article
+PD JUL 2020
+PY 2020
+RI Gambiza, James/GPX-8046-2022; BITOUN, RACHEL Elisabeth/AAC-9538-2021; Falayi (PhD), Menelisi/
+OI BITOUN, RACHEL Elisabeth/0000-0002-3614-9910; Falayi (PhD),
+   Menelisi/0000-0001-5564-7379
+ZS 0
+ZA 0
+Z8 0
+TC 7
+ZR 0
+ZB 4
+Z9 7
+EI 2073-445X
+DA 2020-08-14
+UT WOS:000554820100001
+ER
+
+PT J
+AU Paterson, Shona K.
+   Le Tissier, Martin
+   Whyte, Hester
+   Robinson, Lisa B.
+   Thielking, Kristin
+   Ingram, Mrill
+   McCord, John
+TI Examining the Potential of Art-Science Collaborations in the
+   Anthropocene: A Case Study of Catching a Wave
+SO FRONTIERS IN MARINE SCIENCE
+VL 7
+AR 340
+DI 10.3389/fmars.2020.00340
+DT Article
+PD MAY 19 2020
+PY 2020
+RI Le Tissier, Martin/ABB-9457-2020; Le Tissier, Martin/ACC-9543-2022; Paterson, Shona/
+OI Le Tissier, Martin/0000-0003-2542-390X; Paterson,
+   Shona/0000-0003-3107-585X
+ZA 0
+ZR 0
+Z8 0
+TC 8
+ZB 2
+ZS 0
+Z9 8
+EI 2296-7745
+DA 2020-05-29
+UT WOS:000533862600001
+ER
+
+PT J
+AU Obermeister, Noam
+TI Tapping into science advisers' learning
+SO PALGRAVE COMMUNICATIONS
+VL 6
+IS 1
+AR 74
+DI 10.1057/s41599-020-0462-z
+DT Article
+PD APR 29 2020
+PY 2020
+OI Obermeister, Noam/0000-0001-7738-9462
+ZS 0
+ZB 0
+ZA 0
+TC 4
+ZR 0
+Z8 0
+Z9 4
+SN 2055-1045
+DA 2020-05-21
+UT WOS:000531337300002
+ER
+
+PT J
+AU Arnott, James C.
+   Mach, Katharine J.
+   Wong-Parodi, Gabrielle
+TI Editorial overview: The science of actionable knowledge
+SO CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY
+VL 42
+SI SI
+BP A1
+EP A5
+DI 10.1016/j.cosust.2020.03.007
+DT Editorial Material
+PD FEB 2020
+PY 2020
+RI Arnott, James C./O-1029-2015; Wong-Parodi, Gabrielle/
+OI Arnott, James C./0000-0003-3989-6724; Wong-Parodi,
+   Gabrielle/0000-0001-5207-7489
+ZS 0
+TC 17
+Z8 0
+ZR 0
+ZB 2
+ZA 0
+Z9 17
+SN 1877-3435
+EI 1877-3443
+DA 2020-12-31
+UT WOS:000523572800001
+ER
+
+PT J
+AU Pereira, Laura M.
+   Drimie, Scott
+   Maciejewski, Kristi
+   Tonissen, Patrick Bon
+   Biggs, Reinette (Oonsie)
+TI Food System Transformation: Integrating a Political-Economy and
+   Social-Ecological Approach to Regime Shifts
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+VL 17
+IS 4
+AR 1313
+DI 10.3390/ijerph17041313
+DT Article
+PD FEB 2020
+PY 2020
+RI Pereira, Laura M./L-7258-2013; DRIMIE, SCOTT/T-5109-2017; Biggs, Reinette/A-5155-2010
+OI Pereira, Laura M./0000-0002-4996-7234; DRIMIE,
+   SCOTT/0000-0003-3827-8051; Biggs, Reinette/0000-0003-0300-4149
+ZB 5
+ZA 0
+Z8 0
+TC 25
+ZS 1
+ZR 0
+Z9 26
+EI 1660-4601
+DA 2020-04-20
+UT WOS:000522388500189
+PM 32085576
+ER
+
+PT S
+AU Skrimizea, Eirini
+   Lecuyer, Lou
+   Bunnefeld, Nils
+   Butler, James R. A.
+   Fickel, Thomas
+   Hodgson, Isla
+   Holtkamp, Carolin
+   Marzano, Mariella
+   Parra, Constanza
+   Pereira, Laura
+   Petit, Sandrine
+   Pound, Diana
+   Rodriguez, Iokine
+   Ryan, Paul
+   Staffler, Jutta
+   Vanbergen, Adam J.
+   Van den Broeck, Pieter
+   Wittmer, Heidi
+   Young, Juliette C.
+BE Bohan, DA
+   Vanbergen, AJ
+TI Sustainable agriculture: Recognizing the potential of conflict as a
+   positive driver for transformative change
+SO FUTURE OF AGRICULTURAL LANDSCAPES, PT I
+SE Advances in Ecological Research
+VL 63
+BP 255
+EP 311
+DI 10.1016/bs.aecr.2020.08.003
+DT Review; Book Chapter
+PD 2020
+PY 2020
+RI Vanbergen, Adam J./I-6863-2012; Young, Juliette/B-4225-2012; Wittmer, Heidi/H-7264-2012; Lecuyer, Lou/HGM-5898-2022; Bunnefeld, Nils/G-1946-2011; Pereira, Laura M./L-7258-2013; Fickel, Thomas/GZN-0447-2022; Butler, James RA/D-7446-2011; Hodgson, Isla/; SKRIMIZEA, EIRINI/; Van den Broeck, Pieter/
+OI Vanbergen, Adam J./0000-0001-8320-5535; Young,
+   Juliette/0000-0002-8522-0883; Wittmer, Heidi/0000-0001-6966-7258;
+   Pereira, Laura M./0000-0002-4996-7234; Fickel,
+   Thomas/0000-0002-9284-1151; Butler, James RA/0000-0001-8333-947X;
+   Hodgson, Isla/0000-0002-6967-3882; SKRIMIZEA,
+   EIRINI/0000-0001-7952-3303; Van den Broeck, Pieter/0000-0002-3388-0759
+Z8 0
+ZR 0
+ZS 0
+TC 26
+ZA 0
+ZB 11
+Z9 26
+SN 0065-2504
+EI 2163-582X
+BN 978-0-12-822017-7
+DA 2021-02-19
+UT WOS:000610769400008
+ER
+
+PT J
+AU West, Simon
+   Haider, L. Jamila
+   Stalhammar, Sanna
+   Woroniecki, Stephen
+TI A relational turn for sustainability science? Relational thinking,
+   leverage points and transformations
+SO ECOSYSTEMS AND PEOPLE
+VL 16
+IS 1
+BP 304
+EP 325
+DI 10.1080/26395916.2020.1814417
+DT Review
+PD JAN 1 2020
+PY 2020
+OI Stalhammar, Sanna/0000-0002-3398-2640; Woroniecki,
+   Stephen/0000-0003-1894-2859; West, Simon/0000-0002-9738-0593; Haider, L.
+   Jamila/0000-0002-0265-5356
+ZS 0
+TC 104
+ZB 32
+ZR 0
+ZA 0
+Z8 0
+Z9 104
+EI 2639-5916
+DA 2020-01-01
+UT WOS:000588122000001
+ER
+
+PT J
+AU Bieling, Claudia
+   Eser, Uta
+   Plieninger, Tobias
+TI Towards a better understanding of values in sustainability
+   transformations: ethical perspectives on landscape stewardship
+SO ECOSYSTEMS AND PEOPLE
+VL 16
+IS 1
+BP 188
+EP 196
+DI 10.1080/26395916.2020.1786165
+DT Article
+PD JAN 1 2020
+PY 2020
+RI Plieninger, Tobias/E-3861-2010; Bieling, Claudia/
+OI Plieninger, Tobias/0000-0003-1478-2587; Bieling,
+   Claudia/0000-0001-5001-4150
+ZB 10
+TC 18
+Z8 0
+ZS 0
+ZR 0
+ZA 0
+Z9 18
+EI 2639-5916
+DA 2020-01-01
+UT WOS:000552609700001
+ER
+
+PT S
+AU Clark, William C.
+   Harley, Alicia G.
+BE Gadgil, A
+   Tomich, TP
+TI Sustainability Science: Toward a Synthesis
+SO ANNUAL REVIEW OF ENVIRONMENT AND RESOURCES, VOL 45
+SE Annual Review of Environment and Resources
+VL 45
+BP 331
+EP 386
+DI 10.1146/annurev-environ-012420-043621
+DT Review; Book Chapter
+PD 2020
+PY 2020
+RI Clark, William/AHI-7305-2022; Harley, Alicia G/AGV-4976-2022; Clark, William/
+OI Clark, William/0000-0001-8994-5251
+ZA 0
+ZS 1
+Z8 1
+TC 105
+ZR 0
+ZB 33
+Z9 107
+SN 1543-5938
+BN 978-0-8243-2345-5
+DA 2020-01-01
+UT WOS:000590409700012
+ER
+
+PT J
+AU Bouzarovski, Stefan
+TI Transforming Urban Energy Demand: A Timely Challenge
+SO FRONTIERS IN SUSTAINABLE CITIES
+VL 2
+AR 29
+DI 10.3389/frsc.2020.00029
+DT Editorial Material
+PD 2020
+PY 2020
+ZS 0
+ZB 0
+TC 6
+Z8 0
+ZR 0
+ZA 0
+Z9 6
+EI 2624-9634
+DA 2020-01-01
+UT WOS:000751652700029
+ER
+
+EF

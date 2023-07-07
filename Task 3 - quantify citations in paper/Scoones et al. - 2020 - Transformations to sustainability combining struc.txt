@@ -1,0 +1,1280 @@
+Available online at www.sciencedirect.com
+
+ScienceDirect
+Transformations to sustainability: combining structural,
+systemic and enabling approaches
+Ian Scoones1, Andrew Stirling2, Dinesh Abrol3, Joanes Atela4,
+Lakshmi Charli-Joseph5, Hallie Eakin6, Adrian Ely2, Per Olsson7,
+Laura Pereira8, Ritu Priya3, Patrick van Zwanenberg9 and
+Lichao Yang10
+The imperatives of environmental sustainability, poverty
+alleviation and social justice (partially codified in the Sustainable
+Development Goals or SDGs) call for ambitious societal
+transformations. As such, few aspects of actionable knowledge
+for sustainability are more crucial than those concerning the
+processes of transformation. This article offers a brief overview of
+different conceptualisations of transformation, and outlines a set
+of practical principles for effective research and action towards
+sustainability. We review three approaches to transformations,
+labelled: ‘structural’, ‘systemic’ and ‘enabling’. We show how
+different ways of understanding what we mean by
+transformations can affect what actions follow. But these
+approaches are not mutually exclusive. We use an international
+set of examples on low carbon economy transformations, seed
+systems, wetland conservation and peri-urban development to
+show how they can be complementary and reinforcing. We
+describe three cross-cutting practical considerations that must
+be taken seriously for effective transformations to sustainability:
+diverse knowledges, plural pathways and the essentially political
+nature of transformation. Realizing the ambitions of the SDGs, we
+conclude, requires being clear about what we mean by
+transformation, and recognizing these basic methodological
+principles for action.
+
+Addresses
+1
+STEPS Centre, Institute of Development Studies, University of Sussex,
+Falmer, Brighton BN1 9RE, UK
+2
+STEPS Centre, Science Policy Research Unit, University of Sussex,
+Falmer, Brighton, BN1 9SL, UK
+3
+Transdisciplinary Research Cluster on Sustainability Studies, Jawaharlal
+Nehru University, New Mehrauli Road, New Delhi 110067, India
+4
+African Centre for Technology Studies, ICIPE Duduville Campus,
+Kasaran, P.O. Box 45917 – 00100, Nairobi, Kenya
+5
+Laboratorio Nacional de Ciencias de la Sostenibilidad [LANCIS],
+Instituto de Ecologı́a [IE], Universidad Nacional Autónoma de México
+[UNAM], Mexico City, 04500, Mexico
+6
+School of Sustainability, Arizona State University, PO Box 875502,
+Tempe, AZ 85287-5502, USA
+7
+Stockholm Resilience Centre, Stockholm University, Kräftriket 2B,
+SE-10691, Sweden
+8
+Centre for Complex Systems in Transition, University of Stellenbosch,
+19 Jonkershoek Rd, Stellenbosch, South Africa
+9
+Centro de Investigaciones para la Transformación [CENIT], Universidad
+Nacional de San Martı́n [UNSAM], Av. Pres. Roque Sáenz Peña 832,
+CP1035, Ciudad Autonóma de Buenos Aires, Argentina
+10
+School of Social Development and Public Policy, Beijing Normal
+University, 19 Xinjiekou Wai Street, Haidian District, Beijing 100875, China
+Corresponding author: Stirling, Andrew (a.c.stirling@sussex.ac.uk)
+www.sciencedirect.com
+
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+This review comes from a themed issue on The state of knowledge
+on social transformations to sustainability
+Edited by Susi Moser, Sarah Moore and Lizzie Sayer
+For a complete overview see the Issue and the Editorial
+Available online 22nd January 2020
+Received: 15 November 2019; Accepted: 12 December 2019
+https://doi.org/10.1016/j.cosust.2019.12.004
+1877-3435/ã 2019 Elsevier B.V. All rights reserved.
+
+Introduction: what is transformation?
+Through the Sustainable Development Goals, or
+SDGs, the international community adopted an ambitious agenda to address the interlinked challenges of
+environmental sustainability (previously defined, for
+example, with reference to the ‘planetary boundaries’
+[1,2]), eliminating poverty alongside fulfilling other
+social and economic needs [3], and promoting equity
+[4]. In response, a wide literature reflects a large
+movement calling for transformations to sustainability.
+While a ubiquitous term, it is often not clear what
+should be transformed, by and for whom, and through
+what processes. As Feola argues, “high conceptual
+elasticity and lack of empirical grounding of the concept of transformation generate the risk of voiding the
+term of meaning” [5]. Others point to the risks inherent
+to the ‘diminution or mainstreaming’ [6], or the
+‘contortion or manipulation’ of notions of transformation [7] in ways which act against genuine, radical
+change. In response, as argued elsewhere ([8] chapter
+1), including in this journal [9], we see a crucial need to
+consider reflexively how knowledge about transformation can inform efforts towards intentional change in
+line with social-environmental challenges and the
+SDGs. In order to do this, we first probe what is meant
+by ‘transformation’.
+According to Patterson, the term generally implies
+“fundamental changes in structural, functional, relational,
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+66 The state of knowledge on social transformations to sustainability
+
+and cognitive aspects of socio-technical-ecological
+systems that lead to new patterns of interactions and
+outcomes” ([10], drawing on [11,12,5]). Other work on
+transformation emphasizes how system boundaries are
+defined, what functions and structure are recognized as
+determining of system states, and what dynamics are
+considered essential for a system’s persistence [13,14].
+The processes that generate transformations are also
+subject of debate [15]. For some, transformation arises
+endogenously from incremental, carefully planned interventions made by (often policy) actors [16], whilst
+for others, transformation is an emergent property of
+large-scale political-economic forces and social mobilization [17]. In other cases, transformation is not humangenerated, but triggered by exogenous biophysical
+forces such as climate change, which, while they may
+be anthropogenic in nature, are outside the control of any
+actor or group [18].
+Among those perspectives focusing specifically on the
+possible roles of social agency in the driving of transformation, three broadly distinguishable emphases emerge.
+Reflecting a critical stance concerning the current
+economic interests and practices producing unsustainable
+outcomes, some authors point to a need for fundamental
+structural changes to production and consumption [19–21].
+Others advocate acceleration of more incremental
+approaches for managing social, technological and ecological
+transitions, driven by combinations of technological
+innovations and progressive policy [22,23]. Still others argue
+that change must emerge from below through networks of
+civic movements and grassroots activity that together, in
+often unruly ways, construct wider change [17]. How do we
+make sense of these different ways of understanding and
+enacting transformation?
+This paper focuses particularly on human drivers of
+transformations — but recognises after Patterson (above)
+that these can be viewed equally as structural, functional,
+relational, or cognitive in nature. We argue that to achieve
+the humanitarian, ecological and technological visions
+encapsulated in the SDGs, transformation will be
+required at multiple scales and organizational levels,
+and with deliberate normative steering.
+We suggest that contemporary debates about transformations to sustainability should draw on deep, contrasting
+political traditions, which reflect distinct but overlapping
+understandings of social processes that generate transformative change [8,24]. In the following sections we do
+this, drawing on these literatures to propose three distinct
+but complementary approaches to understanding and
+advancing transformations: 1) ‘structural approaches’,
+referring to fundamental changes in the way production
+and consumption is governed, organized and practiced by
+societies; 2) ‘systemic approaches’, referring to intentional
+change targeted at the interdependencies of specific
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+institutions, technologies and constellations of actors in
+order to steer complex systems towards normative goals;
+and 3) ‘enabling approaches’ focused on fostering the
+human agency, values and capacities necessary to manage
+uncertainty, act collectively, identify and enact pathways to
+desired futures.
+Structural approaches
+
+Structural approaches focus on changes in perceived underlying foundations of politics, economy and society, and the
+need for a complete overhaul of the ideological underpinnings of social systems writ large. Exponents include
+classical political economists like Marx, who argued that
+revolutionary change was possible at historical moments
+when relations of labour and capital do not match existing
+capabilities, techniques and technologies [25]. Drawing
+on Marx, Lenin focused on the class tensions wrought
+by processes of social differentiation in society [26], while
+Gramsci envisaged changes overturning generally
+accepted social values and understandings resulting in
+revolutionary transformation [27,28].
+These kinds of structural analyses highlight how key
+moments, or conjunctures, are important in generating
+transformations, as the relationships between economies
+and societies shift, generating crises and tensions
+(as illustrated by Polanyi’s seminal analysis [14]), or
+alternatively pointing towards new inspirations and
+movements for change [29]. Such movements emerging
+across civil society — for example, focusing on alternative
+economic models including zero growth [30,31] or degrowth [32,33], race, class or gender rights [34,35] — may
+also, some argue, come together to create a new politics
+for transformative structural change [36,37].
+Structural approaches offer powerful historical analyses of
+transformations relating to markets, commodity forms or
+class relations occurring through radical, sometimes
+revolutionary, shifts in power and control at key moments.
+Yet many of these studies are rather generic and sweeping.
+Some emphasize material forces and downplay human
+agency and will, while others imply mechanical causal
+processes. Many of them are limited in their appreciation
+of environmental thresholds as they often focus on past
+transformations, rather than future-oriented efforts.
+The importance of localized activity, cultural practices or
+incremental policy action is frequently side-lined by a
+focus on deeper structural dynamics, driven by historical
+processes and shifting interests [38].
+Systemic approaches
+
+Systemic approaches, by contrast, follow the resurgence
+of growth in systems thinking in the 1980s [39,40] to
+identify particular features of systems (such as system
+elements, drivers, levels) as targets for focused change,
+typically modulated by policy, while recognizing the
+significant uncertainty, propensity for non-linear response
+www.sciencedirect.com
+
+Transformations to Sustainability: structural, systemic and enabling approaches Scoones et al. 67
+
+and inherent complexity of system interactions. On the
+one hand, perspectives from social-ecological systems
+thinking (developed from ecology [41]), highlight
+the interplay of innovation, learning, and adaptability
+in creating system properties such as resilience [42],
+acknowledging the potential for dynamic change across
+scales [43]. Over the past few decades, social-ecological
+systems approaches have taken many forms, and have
+increasingly paid attention to power, politics, institutions,
+social dimensions and local contexts [44,45]. Many
+sophisticated case studies have followed, with major
+implications for understanding system sustainability
+and transformative change [46]. These follow broadly
+similar patterns, in which multiple biophysical and
+social features are defined for a notionally bounded
+social-ecological system, with strategic interventions
+then designed to improve system resilience: the ability
+to return to a new state following various kinds of
+perturbation [47].
+On the other hand, socio-technical systems approaches
+focus on different system components such as technology,
+infrastructure, financial rules, industry and distribution
+networks markets and user practices, regulations and
+policies [48]. Traditionally, these emphasise more
+controlled ‘transitions’, involving interlinked processes
+at levels of the ‘niche’ (localised settings where novelties
+emerge), the ‘regime’ (the rules and institutions ordering
+wider practice) and ‘the landscape’ (the deeper patterns
+shaping social and technological change) [49]. In this
+perspective ‘niche’ innovations are able to reform wider
+‘regimes’ and so generate socio-technical transitions [50].
+Knowledge about system properties is seen to offer
+chances for transitions to be managed in ways directed
+by policy [51]. Examples include transformations of
+transport systems, renewable energy innovations and
+agricultural practices. Over time, this approach has been
+extended to focus more on the social and political
+dimensions of change [52,53], as well as tackling how
+change is resisted. Explorations of ‘niches’ as sites for
+innovation have also been extended beyond technology
+to social and cultural innovations, variously addressing the
+roles of socio-political diversity [54] and traditional
+ecological knowledge [31], and how these combine in
+movements [55,52,56]. But a focus on particular system
+categories — like ‘actors’ and ‘levels’ — is retained, as is a
+commitment to policy change through incentives,
+investments and policy initiatives, usually led by the
+state, but often in alliance with others, across the private
+sector and civic groups [57,58].
+Regardless of the degree of control over change processes
+and system outcomes, these system-focused approaches
+emphasize the need for knowledge on system dynamics:
+the interdependency of social, ecological, institutional
+and technological elements that together mark thresholds
+in system states. In focusing on the system as a whole,
+www.sciencedirect.com
+
+system approaches have tended to diminish the role of
+individual agency, downplay the complexity of politics,
+power and asymmetries in human-environment dynamics
+[59,44]. Originating in the experience of socialtechnological change in the Global North or through
+the analysis of relatively bounded systems of natural
+resource management, these approaches have often
+implicitly presumed the embrace of Western ideals of
+deliberative democracy, pre-existing capacities for
+collective action, and general support for change that will
+result in enhanced equity, environmental integrity and
+improved public welfare [61]. Needless to say, it is not
+clear how well these assumptions hold even in places of
+established democratic institutions, and they may not
+hold true in many other parts of the world where progress
+in the SDGs is desperately needed [62,63].
+
+Enabling approaches
+
+Enabling approaches draw on both these traditions to
+highlight the agency and uncertainties inherent in choosing aims and directions for transformative change [64].
+Enabling approaches focus less on specific desired configurations of the system state than structural approaches,
+and less on the management of system dynamics than
+system approaches. Instead, these approaches emphasize
+creating the social attributes — capacities — that
+empower individuals and communities to take action
+on their own behalf. By ‘agency’, we refer to the deliberate exercise of individual or collective will [65,66], with
+enabling approaches focusing especially on the most
+excluded interests. For example, many forms of low
+carbon transitions have been proposed, each presupposing different values, interests and actions. How can a
+policy-maker decide, in merely technical ways, which
+policy is most appropriate? What groups and individuals
+are able to mobilize the capacities to participate, make
+their interests heard and organize to implement change?
+How can conditions be created that support the formation
+of alliances and social networks through which the
+burden and benefits of transformational processes can
+be negotiated? Resilience raises similar queries, with
+system change following shocks and stress affecting
+different people in different ways, and marginalized
+groups typically the most vulnerable [13].
+Enabling approaches take a more optimistic and directly
+activist stance than some structural or systems approaches,
+focusing on processes and capacities rather than just outcomes [67]. Beyond major, historically-driven structural
+reconfigurations or system changes, opportunities for
+transformation are seen in terms of individually smaller
+actions that collectively, over time, shift system states in
+ways which may be unexpected but which reflect the values
+and visions of mobilized agents [17]. Placing less emphasis
+on grand theoretical frameworks or pre-decided categories
+of phenomena, enabling approaches focus on the values,
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+68 The state of knowledge on social transformations to sustainability
+
+agency, relations and processes that underlie both structures and systems [68].
+Multiple forms of power are exercised, with power
+emerging both in structural forces and in collective action
+[69]. Focusing on the scope for political mobilization and
+cultural change, an enabling approach takes a hopeful,
+caring, emancipatory stance on transformation; one that
+de-emphasizes controlling, violent or fearful futures [70].
+Enabling change will inevitably take different forms
+in different settings, and requires a wider, unruly and
+often adversarial politics of citizen mobilization at its
+heart [71–74]; in ways that it might be hoped are more
+protected from manipulation or management by
+privileged interests.
+A number of perspectives are central to an enabling
+approach [75,76,77]. Network understandings may
+help address more messy power dynamics than are
+envisaged in structural or systemic approaches, linking
+emerging new actors, structures and processes that
+challenge incumbent positions and cultivate new
+pathways to sustainability [62,63,78]. A focus on
+practice and agency affords more scope for action by
+citizens, enabling more emancipatory change, whatever
+the direction [79]. The politics of knowledge is also
+stressed, including how future transformations are imagined [75,80]. Enabling approaches may be critiqued for
+a bias towards privileging local perspectives in an
+inherently globalized world [81,82], or a lack of sufficient
+attention to how ‘enabled’ communities can induce
+needed structural changes to escape traps of poverty
+or oppression [83,84].
+
+Complementary lenses
+
+Structural, systemic and enabling approaches are not
+mutually exclusive: they offer complementary analytical
+lenses on transformative change, as well as complementary approaches to understanding and trying to bring
+about real-world change (Table 1). There is no necessary
+sequence or logic to conditions that favour structural,
+systemic or enabling transformation. While in some cases,
+change can be triggered by larger-scale ideological shifts
+and movements of capital, leading in turn to enhanced
+opportunity and agency for previously marginalized
+actors, in other cases, change may be more dispersed
+and grassroots in nature, cascading up from local innovations that disrupt system dynamics to create structural
+change. Nevertheless, we would argue that for
+socially just and equitable transformations (in line with
+the ambitions of the SDGs) to occur, necessary structural
+and systemic changes will demand enabling and emancipatory change as well. Two illustrations show how
+transformations may emerge in different ways.
+First, there are transformations to low carbon energy systems
+that are essential for tackling climate change. These
+are recognized across many governments, businesses and
+civil society organizations across the world. With such
+transformations central to a number of SDGs, most recognize that climate change requires deep structural shifts
+away from fossil fuels [85]. A structural approach argues for
+the reconfiguring of global markets and infrastructures,
+radically shifting forms of production and consumption
+[86]. Requiring support for alternatives, this fundamentally
+challenges incumbent interests and implies asymmetrical
+costs for transitioning populations. Across Europe,
+
+Table 1
+Complementary lenses
+Approach
+
+Definition/emphasis
+
+Structural
+
+Fundamental changes in the way Highlights the prevalent
+production and consumption is economic and political
+governed, organized and
+processes and associated
+practiced by societies
+interests that serve to
+perpetuate current conditions
+
+Systemic
+
+Enabling
+
+Pros
+
+Cons
+
+Example
+
+Lack of emphasis on
+Emergent discourses on
+environmental triggers and
+decarbonization or zero- or
+processes, individual agency
+degrowth economic
+and the possibilities of
+structures
+Mass social mobilization
+incremental change; historical
+studies may downplay the role of around climate change and
+complexity and serendipity
+economic inequity
+Intentional change targeted at Highlights interdependencies,
+Low carbon energy
+Critiqued for de-emphasis of
+the interdependencies of
+connectivity across scale and
+individual agency, power and
+transitions, focusing on
+specific institutions,
+geography, and the potential for politics and/or overly managerial technology-centred
+developments, modulated
+technologies and constellations non-linear shifts in system
+approach, glossing over
+of actors in order to steer
+dynamics across scales.
+differences in capacities,
+by incentives and
+complex systems towards
+Emphasizes the role of
+governance structure and
+disincentives enacted in
+normative goals
+ecological dynamics in social
+politics
+policy mixes
+change and vice versa.
+Fostering the human agency,
+Recognizes potential of human May neglect significant
+Community led
+values and capacities necessary agents for collective action;
+structural, political obstacles to environmental action;
+to manage uncertainty, act
+explicitly addresses
+social transformation; burdens hacker/maker spaces for
+collectively, identify and enact asymmetries in power and
+those with greatest vulnerability grassroots innovation;
+pathways to desired futures
+circumstances of social injustice with task of transformation
+commoning approaches to
+sustainable local economies
+
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+www.sciencedirect.com
+
+Transformations to Sustainability: structural, systemic and enabling approaches Scoones et al. 69
+
+structural transformations have emerged through radical
+shifts in economic conditions, such as dramatic reductions
+in costs of renewable energy, shifting options in the energy
+sector. Change may also result from new political and
+institutional commitments — with structural shifts away
+from conventional energy infrastructures, as currently
+pursued in Germany [87].
+A socio-technical systems approach, by contrast,
+examines how an incumbent fossil fuel ‘regime’ can be
+transformed through substitution by new low carbon
+innovations emerging in ‘niches’ (like wind and solar
+power), and how these can be nurtured and protected
+[88]. This approach, now evident in many European
+countries, advocates incremental responses to adapt to
+changes in an existing energy regime, including shifts
+in production patterns, consumption behaviour and
+motivating expectations that allow new, more resilient
+systems to develop [89]. Recent work in Kenya has
+investigated the potential for systemic change associated
+with the pay-as-you go solar photovoltaic niche and
+examined its transformative potential in terms of inter
+alia the national context for innovation and technology
+uptake [90].
+An enabling approach to low carbon transformation, by
+contrast, focuses on supporting novel pathways for more
+emergent social, political and cultural changes, often involving the mobilization of grassroots movements and alliances
+driven by a new ethics of sustainability [91]. Examples can
+be found in many contributions made by civil society in
+areas like community-owned wind power, socially-useful
+production or ecological agricultural practices [92]. Here,
+directions of transformation are deliberated upon more
+politically, articulating diverse definitions of sustainability
+and wider social priorities [93,94].
+More control-oriented approaches, aiming at structural and
+systemic changes, may not engage in this broad politics of
+deliberation [70]. ‘Eco-modernist’ visions, for example,
+highlight rapid technological ‘solutions’ for climate change,
+including focusing on nuclear or geo-engineering technologies [95,96]. But this technical, control-focus can
+neglect wider implications around uncertainty, justice or
+cultural fit. By contrast, an enabling approach highlights
+complementarities between social and environmental
+aims, with an openness to contestation, dissent and
+deliberation. This helps to shape actively sustainability
+transformations that advance social justice as well as
+ecological integrity.
+A second example highlights the importance of open
+source approaches to sustainable food and farming
+systems. Transformations in food and farming systems
+away from input-intensive polluting industrial farming
+towards more diverse sustainable systems are immensely
+challenging. This is especially so in settings like
+www.sciencedirect.com
+
+Argentina where monolithic systems of intensive
+commodity crop and animal production are expanding
+rapidly, destroying existing agricultural system diversity.
+A pre-condition for agricultural transformation is to
+protect what remains of agricultural diversity and expand
+it further, to retain a range of alternative working
+practices that experiment with less input-intensive
+and more socially inclusive and productive agricultural
+systems. Here enabling approaches, such as shifts
+towards open source legal rules for seed innovation, or
+co-operative business models and fair-trade certifications, provide ways to preserve and foster agricultural
+diversity. This is because they help open up space for
+emergent opportunities, enabling new actors to engage
+and novel practices to develop.
+For example, institutional innovations like open source seed
+licenses can help to reconfigure the wider political economic
+structures of food and farming that drive unsustainability.
+Such licenses are more accessible to economically marginal
+interests and avoid the exclusions of patent-based rules for
+governing seed innovation [97]. In Argentina, such new
+institutional arrangements have helped form bridges
+between those concerned with adverse effects of strict
+intellectual property regimes on domestic industries and
+technological capabilities and those committed to changing
+seed systems in favour of more marginalized producers [98].
+In turn, through involving new people, ideas and practices,
+such change builds awareness of the constraints and
+opportunities imposed by wider political-economic
+structures, and enables a novel politics of transformation
+around seed production and associated farming systems.
+Structural, systemic and enabling approaches are thus
+complementary. Instrumental systemic change in policies
+and institutions can be enabling of social movements and
+novel alliances seeking to address sustainability challenges
+in diverse ways, and at the same time, to lay the ground for a
+reconfiguration of broader structures.
+
+Principles for pursuing complementarities in
+transformative change
+These examples highlight how efforts to advance transformations to sustainability may draw on complementary
+approaches. Nevertheless, achieving such complementarity implies open, plural and democratic politics, with
+central roles not just for policy, but also for mobilization,
+critique and political challenge [92]. Such aspirational
+conditions are clearly not equally available across the
+globe, and, given the diversity of contexts in which
+transformation is urgently needed, processes of change
+are likely to be contested, in some cases, violently. How,
+then, can the science and policy communities vested in
+the realization of the SDGs respond practically and
+ethically? What specific approaches can help facilitate
+transformative change? What principles can best help
+realize the complementarities? We suggest three.
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+70 The state of knowledge on social transformations to sustainability
+
+The first is ‘taking diverse knowledges seriously’. Different
+perspectives compete in processes of transformation,
+rooted in different worldviews, positions and knowledges.
+It is crucial for scientists and practitioners to appreciate
+this diversity — and not homogenize it into a singular
+view of progress driven by circumscribed, expert sustainability science [99]. This is not just about respecting
+‘indigenous’ or ‘lay’ knowledges, but exploring how new
+hybrid knowledge systems — combining diverse sources
+of knowledge — can emerge through productive
+interactions in which research priorities, problem
+definitions and options are negotiated [100,101].
+This is the essence of transdisciplinarity, where multiple
+forms of expertise co-construct new knowledges that are
+both broader in what they consider and more open in their
+implications for change [102]. Such processes of co-construction are intensely political, as new ways of thinking
+about problems and solutions are created, together with
+new ways of tackling problems and acting on the world
+[103]. This is more than ‘getting people around a table’
+and engineering consensus in managerial forms of
+participation. Required instead are more equal processes
+of collaboration and exchange, exploring diverse visions
+from different standpoints [104]. The process through
+which such collaboration and exchange is realized will
+necessarily differ, and needs to be acutely sensitive to the
+political opportunities and costs, social-cultural context
+and the current state of a particular system [105]. For
+scientists and practitioners, enabling approaches often
+require a transformation in roles, embracing positions
+that emphasize facilitation, ‘brokering’, convening and
+steering rather than solely knowledge production or
+policy implementation [106].
+For example, ‘transformation labs’ have been used in a
+number of recent initiatives as spaces for dialogue around
+transformation [67,97,107,108]. These processes help
+mobilize people and action around a problem, giving
+opportunities for learning and reflexivity in exploring divergent values and interests [109,110]. What constitutes the
+structure and process for a transformation lab in the United
+Kingdom, however, will be quite different to what such
+a process looks like in China [106,111], given existing
+political circumstances and governance structures that
+place different costs on the recognition of plural
+knowledges. In addressing the sustainability challenges
+of the Xochimilco wetland in Mexico City, for instance,
+a culture of exchange was created that enabled participants
+to re-frame basic challenges. Through participatory
+activities, the transformation lab embraced an enabling
+approach, building space for participants to step back from
+the contentious land use and water quality issues that
+divided the community, to focus on the values and
+meanings they collectively wanted to conserve [107].
+Rather than an exhausting task of fighting forces that the
+participants felt were beyond participants’ control, the
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+problem was recast as one of maintaining the identity
+and meanings they attached to the ‘Xochimilco wetland’.
+By focusing on capacities and agency, both of individual
+people and different social groups, the process illuminated
+where power is held and how it can be mobilized to achieve
+more just and sustainable development pathways [112].
+Beyond appreciation of diverse knowledges, there is a need to
+‘take plural pathways seriously’. Different ideas and values of
+sustainability imply multiple — very material — institutional
+and infrastructural transformations. No matter how specific
+the context, there is never only one relevant, viable path. The
+many indicators and targets of the SDGs usefully delimit a
+target space — but how to realize the plurality of ways to get
+there? This will require demanding new forms of deliberation
+amongst contending actors. Especially crucial is engagement
+not just with diverse ideas, but also with the contrasting norms,
+interests and practices of different actors. In areas like
+agricultural strategies, energy policy or public health,
+approaches like multi-criteria mapping and participatory
+scenario workshops can help collaborative efforts to navigate
+the implications of different pathways and the contrasting
+ways to develop any one [113].
+For example, progress in addressing the sustainability
+challenges of the Xochimilco wetland has been stymied
+by disagreement over the best strategies to pursue. Those
+who consider themselves native to the communities that
+have practised agriculture within this wetland argue
+that the persistent degradation and urbanization of this
+environment, the decline of traditional farming techniques, and the commodification of the ecosystem suit the
+interests of the urban elite. They are suspicious of formal
+development plans and interventions by the city,
+and advocate local sovereignty and control in the
+face of external power: in other words, a structural transformation. Alternatively, some focus on technological
+interventions, arguing that transformation is needed in
+the ways people live within the system, rather than with
+the system itself. Thus, they demand institutional and
+policy support for eco-friendly sanitation technologies
+and rainwater harvesting, as mechanisms through
+which the human relationship to the ecosystem can be
+fundamentally changed. The transformation lab created a
+space to confront and discuss assumptions about which
+pathway — of many possibilities — will be most
+successful for whom, and why.
+Our third principle, ‘taking politics seriously’, builds directly
+on the previous two. It reminds us that — however well
+assisted by technical expertise — engaging with a diversity
+of contexts or a plurality of perspectives is always deeply
+political. Negotiations among contending knowledges
+and divergent interests across multiple actors inevitably
+involves politics: confronting disparate views, interests and
+forms of incumbent power [114]. Wider political institutions, economic systems and technical infrastructures
+www.sciencedirect.com
+
+Transformations to Sustainability: structural, systemic and enabling approaches Scoones et al. 71
+
+inevitably shape what happens and what might be possible.
+But taking an enabling approach means a focus on agency
+and the capacities of actors to open up opportunities, often
+in surprising alliances.
+
+and when such mobilization is occurring and what such
+movements imply for the meaning, process and direction
+of transformative change is fundamental to achieving the
+aspirations articulated in the SDGs.
+
+Both in the Xochimilco wetland and in the city of Gurgaon in
+India, different perspectives on sustainability again play a
+key role. In the case of Gurgaon, participatory practices
+around the Gurgaon Water Forum have been able to make
+a significant impact on the imaginations, values and interests
+of public administrators, resident welfare associations and
+citizen groups working to transform urban planning and
+governance [115]. In the Xochimilco wetland, local farmers
+see degradation of the wetland ecosystem as a result of
+decline in traditional systems of land use and commodification of the area by urban elites. For them, transformation is
+about resistance in the face of the power of development
+plans and elite control. However, an expected change in
+political leadership and new opportunities presented by
+Mexico City’s embrace of planning for resilience are
+now providing new platforms for action. The case underscores not only the interlinked nature of sustainability goals,
+but also that the pathways to these goals will require
+negotiation, contestation and alliance-building. Taking
+diverse knowledges — including values and moral
+positions — seriously helps reframe dominant policy
+narratives in formal political arenas. This broadens out what
+is taken into account and opens up possibilities for change:
+challenging discursive closures that exclude alternative
+pathways.
+
+Emancipatory transformations to
+sustainability
+
+Likewise in peri-urban Delhi, India, alliances of citizen
+environmentalists are addressing toxic pollution using a
+range of strategies from legal activism to citizen science
+monitoring [57]. Strategic alignments between activist
+interventions and some within the state or business are
+challenging established pathways and opening up
+opportunities for change [59]. A focus on social innovation
+helps move the emphasis away from technological fixes or
+instrumental policy intervention and towards the
+realizing of entirely new possibilities. This requires
+thinking deliberately about where the chinks lie in the
+armour of power — and what the opportunities might
+be for tactical alliances. It means looking for political
+openings: in who has the capacity to act and what mobilizations are required to challenge incumbent interests
+and constraining structures. Alongside more conventional
+‘academic rigour’, then, taking politics seriously also
+emphasises ‘political rigour’ — where diverse people
+and knowledges challenge prevailing power in collective
+political interventions. Many examples can be found in
+environmental justice struggles around the world; for
+instance in the hundreds of cases documented in the
+global ‘EJ-Atlas’ or Latin American ‘Grupo Confluencias’
+initiatives [60]. Political rigour of course entails significant
+risks and costs, and such risks can be debilitating for
+transformative action. Nevertheless, attention to how
+www.sciencedirect.com
+
+Achieving the SDGs by 2030 will require massive
+transformations in economies, societies and politics. If such
+transformations are to be not only ecologically beneficial, but
+emancipatory for the most marginalised people, then
+approaches are required that are at once structural, systemic
+and enabling. Structural or systemic approaches may underpin analysis and offer strategic responses, whether through
+informing social movements or guiding policy interventions
+that aim to elevate small-scale niche experiments beyond
+the local. Complementary enabling approaches may also
+draw upon these analyses whilst focusing on fostering
+agency, values and capacities for emancipatory change. This
+requires embedding the three principles proposed here:
+taking seriously diverse knowledges, plural pathways and
+the inherently political nature of transformations. This paper
+offers some pointers for thinking more deeply about these
+challenges — and for translating results into action-oriented
+practice, as illustrated by the examples discussed.
+Combining recognition for deep structural realities as well
+as vibrant social possibilities, these three principles help
+open up space for new social and technical innovations, as
+well as deliberation, contestation and democratic debate.
+These qualities are each individually essential — as well as
+collectively necessary — for achieving both the SDGs and
+the wider ambitions of sustainability.
+
+Conflict of interest statement
+Nothing declared.
+
+Acknowledgements
+This paper has emerged from the collective work of the ESRC STEPS
+Centre and Consortium (Grant Number ES/I021620/10). All authors are
+members of the STEPS Global Consortium (https://steps-centre.org/global/)
+and the ‘Pathways’ Transformative Knowledge Network, which has been
+supported by Transformations to Sustainability programme, which is
+coordinated by the International Science Council (ISC) and funded by the
+Swedish International Development Cooperation Agency (Sida).
+
+References and recommended reading
+Papers of particular interest, published within the period of review,
+have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+
+Steffen W et al.: Planetary boundaries: guiding human
+development on a changing planet. Science (80-) 2015, 347.
+
+2.
+
+Rockström J et al.: A safe operating space for humanity. Nature
+2009, 461:472-475.
+
+3.
+
+Raworth K: A Safe and Just Space for Humanity: Can We Live Within
+the Doughnut? . Available (November 2019) at: Oxford: Oxfam; 2012
+https://www-cdn.oxfam.org/s3fs-public/file_attachments/
+dp-a-safe-and-just-space-for-humanity-130212-en_5.pdf.
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+72 The state of knowledge on social transformations to sustainability
+
+4.
+
+
+Leach M et al.: Equity and sustainability in the anthropocene: a
+social–ecological systems perspective on their intertwined
+futures. Glob Sustain 2018, 1
+This important review by some of the leading authorities in the field,
+summarizes the state of knowledge concerning the interlinked challenges
+of equity and sustainability. Emphasizing that they cannot be addressed
+separately, it outlines emerging new thinking which recognizes the multiple perspectives and dimensions involved.
+
+24. Scoones I: The politics of sustainability and development. Annu
+Rev Environ Resour 2016:1-27
+
+In a field increasingly subject to pressures for professionalization and
+instrumentalization, this paper offers an up-to-date state-of-the art review
+of the hitherto often unduly neglected political aspects of relations
+between sustainability and development. Examining political dimensions
+both of patterns of resource use and of scarcity, it discusses technologyled, market-led, state-led, and citizen-led processes of change.
+
+5.
+
+Feola G: Societal transformation in response to global
+environmental change: a review of emerging concepts. Ambio
+2014, 44:376-390.
+
+25. Marx K: Capital: a Critique of Political Economy - Volume 1.
+Harmondsworth: Penguin; 1976.
+
+6.
+
+Pelling M: Transformation: a renewed window on development
+responsibility for risk management. J Extreme Events 2014, 1 p.
+1402003.
+
+7.
+
+Blythe J et al.: The dark side of transformation: latent risks in
+contemporary sustainability discourse. Antipode 2018,
+50:1206-1223.
+
+8. Scoones I, Newell P, Leach M: The Politics of Green
+ Transformations. London: Earthscan Routledge; 2015
+Resulting from a series of conferences and workshops held by the Global
+Consortium for Social Technological and Environmental Pathways to
+Sustainability (STEPS), this state-of-the-art edited volume contains a
+series of chapters summarizing key divergent perspectives on transformations to sustainability.
+9.
+
+W.-P. G, Arnott J, Mach K: Transforming science-society
+engagement and generating actionable knowledge for
+environmental sustainability under global change. Curr Opin
+Environ Sustain 2020.
+
+10. Patterson J, Schulz K, Vervoort J, Van Der Hel S, Sethi M,
+Barau A: Exploring the governance and politics of
+transformations towards sustainability. Environ Innov Soc
+Transitions 2017, 24:1-16.
+
+26. Lenin VI: Revolution, Democracy, Socialism. London: Pluto Press;
+2008.
+27. Gramsci A: Selections from the Prison Notebooks of Antonio
+Gramsci. New York: International Publishers; 1971.
+28. Davis M: Old Gods, New Enigmas - Marx’s Lost Theory. London:
+Verso; 2018.
+29. Mouffe C: For a Left Populism. London: Verso; 2018.
+30. Jackson T: Prosperity without growth London. Available
+(November 2019) at: http://www.sd-commission.org.uk/data/files/
+publications/prosperity_without_growth_report.pdf.
+31. Lara LG, Pereira LM, Ravera F, Jiménez-Aceituno A: Flipping the
+tortilla: social-ecological innovations and traditional
+ecological knowledge for more sustainable agri-food systems
+in spain. Sustainability 2009, 11.
+32. Martı́nez-alier J, Pascual U, Vivien F, Zaccai E: Sustainable degrowth: mapping the context, criticisms and future prospects
+of an emergent paradigm. Ecol Econ 2010, 69:1741-1747.
+33. Kallis G, Kerschner C, Martinez-Alier J: The economics of
+degrowth. Ecol Econ 2012, 84:172-180.
+
+11. Hackmann AL, St. Clair H: Transformative cornerstones of
+social science research for global change. Int Soc Sci Counc
+Paris 2013, 4:117-152.
+
+34. Kaijser A, Kronsell A: Climate change through the lens of
+intersectionality. Environ Polit 2014, 23:417-433.
+
+12. O’Brien K: Global environmental change III: closing the gap
+between knowledge and action. Prog Hum Geogr 2012,
+37:587-596.
+
+35. Maina-okori NM, Koushik JR, Wilson A: Reimagining
+intersectionality in environmental and sustainability
+education: a critical literature review. J Environ Educ 2018,
+49:286-296.
+
+13. Leach M, Scoones I, Stirling A: Dynamic Sustainabilities:
+Technology, Environment, Social Justice. London: Earthscan;
+2010.
+14. Stirling A: Pluralising progress: from integrative transitions to
+transformative diversity. Environ Innov Soc Transitions 2011,
+1:82-88.
+15. Smith A, Stirling A, Berkhout F: The governance of sustainable
+socio-technical transitions. Res Policy 2005, 34:1491-1510.
+16. Schot J, Steinmueller WE: New directions for innovation
+studies: missions and transformation. Res Poliicy 2018,
+47:1583-1584.
+17. Stirling A: Emancipating transformations: from controlling ‘the
+transition’ to culturing plural radical progress. The Politics of
+Green Transformations. London: Routledge; 2015, 54-67.
+18. Kates RW, Travis WR, Wilbanks TJ: Transformational adaptation
+when incremental adaptations to climate change are
+insufficient. Proc Natl Acad Sci U S A 2012, 109:7156-7161.
+19. Newell P: The politics of green transformations in capitalism. In
+The Politics of Green Transformation. Edited by Scoones I, Leach
+M, Newel P. London: Earthscan; 2015.
+20. Foster JB, Clark B, York R: The Ecological Rift: Capitalism’s War on
+the Earth. New York: Monthly Review Press; 2010.
+21. D’Alisa G, Demaria F, Kallis G (Eds): Degrowth: a Vocabulary for a
+New Era. London: Routledge; 2015.
+
+36. Fraser N: A triple movement? New Left Rev 2013, 81:119-132.
+37. Wainwright H: A New Politics From the Left. Chichester: John
+Wiley & Sons; 2018.
+38. Abrol D: Conditions for the achievement of pharmaceutical
+innovation for sustainable development: lessons from India.
+World Rev Sci Technol Sustain Dev 2006, 3.
+39. Meadows DH: System dynamics meets the press. Syst Dyn Rev
+1989, 5:69-80.
+40. Meadows DH, Meadows DL, Randers J: Beyond the Limits: Global
+Collapse or A Sustainable Future. London: Earthscan Publications
+Ltd; 1992. Earthscan.
+41. Holling CS: Resilience and stability of ecological systems. Annu
+Rev Ecol Syst 1973, 4:1-23.
+42. Folke C, Carpenter SR, Walker B, Scheffer M, Chapin T,
+Rockström J: Resilience thinking: integrating resilience,
+adaptability and transformability. Ecol Soc 2010, 15.
+43. Berkes F, Colding J, Folke C (Eds): Social-ecological Systems:
+Building Resilience For Complexity and Change. Cambridge:
+Cambridge University Press; 2003.
+44. Brown K: Global Environmental Change I: A Social Turn For
+Resilience? Prog Hum Geogr 2013, 38(1):107-117.
+45. Westley F et al.: Tipping toward sustainability: emerging
+pathways of transformation. Ambio 2011, 40:762-780.
+
+22. O’Brien K, O’Brien K: Global environmental change II: from
+adaptation to deliberate transformation. Prog Hum Geogr 2012,
+36:667-676.
+
+46. Olsson P, Galaz V, Boonstra WJ: Sustainability transformations:
+a resilience perspective. Ecol Soc 2014, 19.
+
+23. Grin J, Rotmans J, Schot J, Geels F, Loorbach D: Transitions to
+Sustainable Development: New Directions in the Study of Long
+Term Transformative Change. London: Routledge; 2010.
+
+47. Folke C: Resilience: the emergence of a perspective for social–
+ecological systems analyses. Glob Environ Change 2006,
+16:253-267.
+
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+www.sciencedirect.com
+
+Transformations to Sustainability: structural, systemic and enabling approaches Scoones et al. 73
+
+48. Geels FW: Technological transitions as evolutionary
+reconfiguration processes: a multi-level perspective and a
+case-study. Res Policy 2002, 31:1257-1274.
+49. Rip A, Kemp R: Technological change. In Human Choice and
+climate change: an international assessment. Edited by Rayner S,
+Malone EL. Columbus: Batelle Press; 1998:327-399.
+50. Geels F: Technological Transitions and System Innovations: a Coevolutionary and Socio-technical Analysis. Cheltenham, UK;
+Northampton, MA: Edward Elgar; 2005.
+51. Loorbach D, Rotmans J: The practice of transition
+management: examples and lessons from four distinct cases.
+Futures 2010, 42:237-246.
+52. Kern F: Energy transitions and deliberate transition
+management: implementing the green economy. Okol
+Wirtschaften 2013, 3:20-23.
+53. Geels FW: Regime resistance against low carbon transitions:
+introducing politics and power into the multi-level
+perspective. Theory Cult Soc 2014, 31:21-40.
+54. Raven R, Ghosh B, Wieczorek A, Stirling A, Ghosh D, Jolly S,
+
+Karjangtimapron E, Prabudhanitisarn S, Roy J, Sangawongse S,
+Sengers F: Unpacking sustainabilities in diverse transition
+contexts: solar photovoltaic and urban mobility experiments
+in India and Thailand. Sustain. Sci. 2017, 12(4):579-596
+Focusing on two key fields for sustainability transformations in two urban
+settings in the Global South, this paper explores a dimension that is
+unusual in the ‘technological transitions’ field, in that it systematically
+analyses a number of dimensions of diversity in the framing both of
+sustainability and transformation.
+55. Seyfang G: The new economics of sustainable consumption:
+seeds of change. Basingstoke. Palgrave Macmillan; 2008.
+56. Pansera M, Owen R: Framing inclusive innovation within the
+
+discourse of development: insights from case studies in India.
+Res Policy 2017, 47:23-34
+Exploring ideas and practices around ‘inclusive innovation’ in an important setting in the Global South, this provides a useful and authoritative
+overview of a concept that is becoming increasingly prominent in discussions of transformations to sustainability.
+57. Abrol D: Embedding technology in community-based
+production systems through people’s technology initiatives:
+lessons from the Indian experience. Int J Technol Manag Sustain
+Dev 2005, 4:3-20.
+58. Schmitz H: Green transformation: is there a fast track? In The
+Politics of Green Transformations. Edited by Scoones I, Leach M,
+Newell P. London: Routledge; 2015.
+59. Meadowcroft J: Engaging with the politics of sustainability
+transitions. Environ Innov Soc Transitions 2011, 1:70-75.
+60. Temper L, Walter M, Rodriguez I, Kothari A, Turhan E: A
+perspective on radical transformations to sustainability:
+resistances, movements and alternatives. Sustain Sci 2018,
+13:747-764.
+61. Shove E, Walker G: CAUTION! Transitions ahead: politics,
+practice, and sustainable transition management. Environ Plan
+A 2007, 39:763-770.
+62. Moore M-L, Olsson P, Nilsson W, Rose L, Westley FR: Navigating
+emergence and system reflexivity as key transformative
+capacities: experiences from a Global Fellowship program.
+Ecol Soc 2018, 23.
+63. Drimie S, Hamann R, Manderson AP, Mlondobozi N: Creating
+transformative spaces for dialogue and action: reflecting on
+the experience of the Southern Africa Food Lab. Ecol Soc
+2018, 23.
+64. Brien KO: Political agency: the key to tackling climate change.
+Science (80-) 2015, 350.
+65. Sools A, Hein Mooren J: Towards narrative futuring in
+psychology: becoming resilient by imagining the future. Grad J
+Soc Sci 2012, 9:203.
+66. Bandura A: Toward a psychology of human agency. Perspect
+Psychol Sci 2006, 1:164-180.
+www.sciencedirect.com
+
+67. Pereira LM, Karpouzoglou T, Frantzeskaki N, Olsson P: Designing
+ transformative spaces for sustainability in social-ecological
+systems. Ecol Soc 2018, 23
+Providing an overview of an important state-of-the art special issue, this
+article summarises current experience in the building of transformative
+spaces, which is all the more valuable for redressing the neglect elsewhere of attention to initiatives undertaken in the Global South.
+68. Hulme M: Why We Disagree About Climate Change. Cambridge:
+Cambridge Univ Press; 2009.
+69. Stirling A: Transforming power: social science and the politics
+of energy choices. Energy Res Soc Sci 2014, 1:83-95.
+70. Stirling A: Engineering and sustainability: control and care in
+unfoldings of modernity. In Routledge Companion to the
+
+Philosophy of Engineering, , vol. 06. Edited by Michelfelder DP,
+Doorn N. London: Routledge; 2019
+Addressing a key distinguishing feature of ‘enabling’ approaches to
+transformation, this paper explores the contrast between ‘caring’ and
+‘controlling’ approaches to sustainability– and examines the ways in
+which the latter understanding is constantly pressurised in the colonialities of contemporary globalising modernity.
+71. Mouffe C: The Return of the Political. London: Verso; 1993.
+72. Fraser N: Can society be commodities all the way down?
+Polanyian reflections on capitalist crisis. FMSH 2012.
+18 August 2012.
+73. Hall AJ, Yoganand B, Sulaiman RV, C.N.G (Eds): Post-harvest
+Innovations in Innovation: Reflections on Partnership and Learning.
+Patancheru: Crop Post-Harvest Programme, South Asia; 2003.
+74. Abrol D: Pro-poor innovation-making, knowledge production
+and technology implementation for rural areas: lessons from
+the Indian experience. In Innovation in India: Melting Economic
+Growth with Inclusive Development. Edited by Ramani S.
+Cambridge: Cambridge Univ Press; 2014.
+75. Pereira LM, Hichert T, Hamann M, Preiser R, Biggs R: Using
+
+futures methods to create transformative spaces: visions of a
+good Anthropocene in southern Africa. Ecol Soc 2018, 23
+Organised around the key concept of the Anthropocene, which features
+strongly in much discussion of sustainability transformations, this paper
+provides a useful contemporary analysis from a Global Southern perspective of the value of futures methods in addressing challenges of
+complexity, diversity, and uncertainty.
+76. Galafassi D et al.: Stories in social-ecological knowledge
+cocreation. Ecol Soc 2018, 23
+
+Drawing on contemporary experience with knowledge co-creation processes for sustainability transformations in in Kenya and Mozambique,
+this paper usefully analyzes the role of techniques for fostering “shared
+conceptual repertoires” in order to facilitate communicative spaces.
+77. Dyer M: Transforming communicative spaces: the rhythm of
+gender in meetings in rural Solomon Islands. Ecol Soc 2018, 23.
+78. Marshall F, Dolley J, Priya R: Transdisciplinary research as
+
+transformative space making for sustainability: enhancing
+propoor transformative agency in periurban contexts. Ecol
+Soc 2018, 23
+Drawing on research undertaken around Delhi, this paper analyses the
+role of transdisciplinary development research (TDR) in building sustainability transformations. Extending attention beyond this, the authors
+explore a novel idea of ‘transformative space making’ (TSM) as a means
+to cocreate solution-oriented knowledge focusing especially on contending power relations.
+79. Arora S: Defying Control: Aspects of Caring Engagement Between
+Divergent Knowledge Practices. Brighton: STEPS Centre; 2017.
+80. Hebinck A, Vervoort JM, Hebinck P, Rutting L, Galli F: Imagining
+
+transformative futures: participatory foresight for food
+systems change. Ecol Soc 2018, 23
+Drawing on research in southern Africa, this paper focuses on the
+potential roles that might be played by the deliberate envisioning of
+positive futures is a first step in creating a shared understanding and
+commitment towards radical transformations toward sustainability.
+81. Born B, Purcell M: Avoiding the local trap: scale and food systems
+in planning research. J Plan Educ Res 2006, 26:195-207.
+82. Brown JC, Purcell M: There’s nothing inherent about scale:
+political ecology, the local trap, and the politics of
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+74 The state of knowledge on social transformations to sustainability
+
+development in the Brazilian Amazon. Geoforum 2005,
+36:607-624.
+83. Eakin H: The ‘turn to capacity’ in vulnerability research. In
+Applied Studies in Climate Adaptation. Edited by Palutikof D,
+Boulter JP, Barnett S, Rissik J. Chichester: John Wiley; 2015.
+84. Jasanoff S: Just transitions: a humble approach to global
+energy futures. Energy Res Soc Sci 2018, 35:11-14.
+85. Mitchell T: Carbon Democracy: Political Power in the Age of Oil.
+London: Verso; 2011.
+86. Bulkeley H et al.: Governing climate change transnationally:
+assessing the evidence from a database of sixty initiatives.
+Environ Plan C Polit Sp 2014, 30:591-612.
+87. Kuzemko C, Mitchell C, Lockwood M, Hoggett R: Policies,
+politics and demand side innovations: the untold story of
+Germany’s energy transition. Energy Res Soc Sci 2017,
+28:58-67.
+88. Smith A, Raven R: What is protective space? Reconsidering
+niches in transitions to sustainability. Res Policy 2012,
+41:1025-1036.
+89. Folke C, Hahn T, Olsson P, Norberg J: Adaptive governance of
+social-ecological systems. Annu Rev Environ Resour 2005,
+30:441-473.
+90. Ockwell D et al.: Can pay-as-you-go, digitally enabled business
+models support sustainability transformations in developing
+countries? Outstanding questions and a theoretical basis for
+future research. Sustainability 2019, 11:1-21.
+91. Smith A, Fressoli M, Abrol D, Around E, Ely A: Grassroots
+Innovation Movements. London: Routledge Earthscan; 2016.
+92. Smith A, Stirling A: Innovation, sustainability and democracy:
+ an analysis of grassroots contributions. J Self-Governance
+Manag Econ 2018, 6:64-97
+The role of democratic struggle and grassroots mobilization is a crucial
+but arguably underemphasized theme in much high-level policy discussion of sustainability transformations– especially in relation to science,
+technology and innovation. This paper provides a useful general overview
+of key current themes in this field.
+93. STEPS Centre: Innovation, Sustainability, Development: A New
+Manifesto. . Available (November 2019) at: Brighton: STEPS
+Centre; 2010 In: https://steps-centre.org/publication/
+innovation-sustainability-development-a-new-manifesto/.
+94. Abrol D: Technological alternatives for Indian futures. In
+
+Alternative Futures: India Unshackled. Edited by Kothari A, Joy KJ.
+Delhi: Authors Upfront; 2017
+In a courageous and farsighted volume by a diverse array of leading
+scholars on issues on sustainability transformation, this chapter focuses
+in particular on what key lessons from past radical critique of technology
+have to offer for contemporary debates about the potential role for
+technological alternatives.
+95. Asafu-Adjaye J et al.: An Ecomodernist Manifesto. . Available
+(November 2019) at: Washington: Breathrough Institute; 2015 In:
+http://www.ecomodernism.org/.
+96. Preiser R, Pereira LM, (Oonsie) Biggs R: Navigating alternative
+ framings of human-environment interactions: variations on
+the theme of ‘Finding Nemo,’. Anthropocene 2017, 20:83-87
+This group of leading activist-scholars, working on sustainability transformations in Africa, usefully explore the practical implications of four
+contending framings of human-environment interactions: the eco- modernist perspective, the planetary stewardship paradigm; the pathways to
+sustainability approach; and the critical post-humanist paradigm. They
+conclude by developing a novel synthetic approach based on ‘the
+Anthropocene as responsibility’.
+97. Van Zwanenberg P, Cremaschi A, Obaya M, Marin A,
+ Lowenstein V: Seeking unconventional alliances and bridging
+innovations in spaces for transformative change: the seed
+sector and agricultural sustainability. Ecol Soc 2018, 23
+This paper draws on experience in developing an important contemporary sustainability transformations intervention initiated in Argentina, concerning a radical new open source seed licensing system. Exploring the
+implications well beyond the particular initial setting, this work offers a
+compelling model for other kinds and applications of activist scholarship
+in this field.
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+98. Marin A, Stubrin L, van Zwanenberg P, Van Zwanenberg P:
+Developing Capabilities in the Seed Industry: Which Direction to
+Follow? Brighton: Science Policy Research Unit; 2014. Available
+(November 2019) at: http://sro.sussex.ac.uk/id/eprint/49232/.
+99. Wright EO, Folbre N, Andersson J, Hearn J, Himmelweit S,
+ Stirling A: Chapter 21. The multiple directions of social
+progress: ways forward. International Panel on Social Progress:
+Rethinking Society for the 21st Century. Cambridge: Cambridge
+University Press; 2018
+Convened as a global initiative to address crucial challenges in progressive visions of sustainability transformations, the International Panel on
+Social Progress provides a comprehensive state-of-the-art review of
+many key dimensions of associated political struggle.
+100. Vogel C, Moser SC, Kasperson RE, Dabelko GD: Linking
+vulnerability, adaptation, and resilience science to practice:
+pathways, players, and partnerships. Glob Environ Change
+2007, 17:349-364.
+101. Tengö M, Brondizio ES, Elmqvist T, Malmer P, Spierenburg M:
+Connecting diverse knowledge systems for enhanced
+ecosystem governance: the multiple evidence base approach.
+Ambio 2014, 43:579-591.
+102. Marshall F: Recognising sustainability frontiers in the periurban. South Asian Water Stud 2016, 5:98-102.
+103. Jasanoff S (Ed): States of Knowledge: the Co-production of
+Science and Social Order. London: Routledge; 2004.
+104. Pereira L, Karpouzoglou T, Doshi S, Frantzeskaki N: Organising a
+safe space for navigating social-ecological transformations to
+sustainability. Int J Environ Res Public Health 2015, 12:6027-6044.
+105. Pereira L, Frantzeskaki N, Hebinck A, Charli L, Scott J, Dyer M:
+Transformative spaces in the making : key lessons from nine
+cases in the Global South. Sustain Sci 2019:1-18.
+106. Wittmayer JM, Scha N: Action, research and participation: roles
+of researchers in sustainability transitions. Sustain Sci 2014,
+9:483-496.
+107. Charli-Joseph L, Siqueiros-Garcia JM, Eakin H, Manuel Navarrete D, Shelton R: Promoting agency for social-ecological
+transformation: a transformation-lab in the Xochimilco socialecological system. Ecol Soc 2018, 23
+This team of activist-researchers working in Mexico City describe an
+important initiative in the peri-urban Xochimilco wetland, in which an
+innovative ‘T-lab’ experiment explored a compelling hybrid participatoryanalytic approach towards the building of genuinely bottom-up transformative spaces– aiming to create conditions for ‘endogenous
+transformations’.
+108. Pereira L, Drimie S, Zgambo O, Biggs RO: Planning for change:
+Transformation Labs for an alternative food system in the Western
+Cape. . Stellenbosch, South Africa 2018.
+109. Ely A, Marin A: Learning about ‘Engaged Excellence’ across a
+ transformative knowledge network. IDS Bull 2016, 47
+Coordinating a successful sustainability transformations collaborative
+research initiative across four continents, the authors reflect on key
+general lessons arising across the diverse approaches and settings. A
+number of practical conclusions arise for the conduct of a ‘pathways
+approach’ to ‘engaged excellence’.
+110. Sharpe B, Hodgson A, Leicester G, Lyon A, Fazey I: Three
+horizons: a pathways practice for transformation. Ecol Soc
+2016, 21:47.
+111. Yang A, Jiang L, Ely C: A study of ‘Green Unemployed Groups’
+from a resilience perspective. Guizhou Soc Sci 2018, 347:135-142.
+112. Eakin H, Shelton R, Siqueiros-Garcia JM, Charli-Joseph L,
+Manuel-Navarrete D: Loss and social-ecological
+transformation: Pathways of change in Xochimilco, Mexico.
+Ecol Soc 2020, 24(3):1-15.
+113. Eames M, Mcdowall W: Sustainability, foresight and
+contested futures: exploring visions and pathways in the
+transition to a hydrogen economy. Technol Anal Strateg
+Manag 2010, 22:671-692.
+114. Stirling A: How deep is incumbency? A ‘configuring fields’
+approach to redistributing and reorienting power in socio
+material change. Energy Res Soc Sci 2019, 58:101239
+www.sciencedirect.com
+
+Transformations to Sustainability: structural, systemic and enabling approaches Scoones et al. 75
+
+This paper explores the extent to which the global patterns of incumbency
+implicated in sustainabilty challenges can exercise conditioning effects even
+on the content of research concerning possibilities for progressive social
+transformations. Diagnosing resulting tendencies to adopt’ eagle-eye’ views
+of change processes, it proposes an alternative’ worm-eye’ view that better
+recognizes (and so may help enable) a stronger role for democratic struggle.
+115. Abrol D: Intervening for the sustainable transformation of
+ urban environment and water management in Gurgaon:
+
+www.sciencedirect.com
+
+learning from the creation of a multistakeholder platform in
+India. Front Environ Health Rev 2020. Forthcoming
+This paper recounts experience of a key case mentioned in the present
+article, arising from many years of activist research in the northern Indian
+city of Gurgaon. The Gurgaon Water Forum offers a model for engaging
+the imaginations, values and interests of public administrators, resident
+welfare associations and citizen groups in transformative urban
+planning.
+
+Current Opinion in Environmental Sustainability 2020, 42:65–75
+
+
