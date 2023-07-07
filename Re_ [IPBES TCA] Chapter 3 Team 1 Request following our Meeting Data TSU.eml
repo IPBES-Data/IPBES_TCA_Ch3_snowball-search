@@ -1,0 +1,733 @@
+Return-Path: <catherine.sabinot@ird.fr>
+Authentication-Results:  kundenserver.de; dkim=pass header.i=@ird.fr
+Received: from smtpout01-ext2.partage.renater.fr ([194.254.240.33]) by
+ mx.kundenserver.de (mxeue112 [217.72.192.67]) with ESMTPS (Nemesis) id
+ 1MDxPm-1q8Lm51GvU-009uEy for <Rainer@krugs.de>; Sun, 02 Jul 2023 23:54:05
+ +0200
+Received: from zmtaauth03.partage.renater.fr (zmtaauth03.partage.renater.fr [194.254.240.26])
+	by smtpout10.partage.renater.fr (Postfix) with ESMTP id A01DB69ABC;
+	Sun,  2 Jul 2023 23:53:50 +0200 (CEST)
+Received: from zmtaauth03.partage.renater.fr (localhost [127.0.0.1])
+	by zmtaauth03.partage.renater.fr (Postfix) with ESMTPS id 618B68008D;
+	Sun,  2 Jul 2023 23:53:50 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by zmtaauth03.partage.renater.fr (Postfix) with ESMTP id 3C54380168;
+	Sun,  2 Jul 2023 23:53:50 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 zmtaauth03.partage.renater.fr 3C54380168
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ird.fr;
+	s=77D99324-DC69-476F-ADA2-EEC1FFF0B4F4; t=1688334830;
+	bh=5/0Rc7ld8wDi9K0rGcxI1XY6b/yQCwjigH7/WNgd0k8=;
+	h=Message-ID:Date:MIME-Version:From:To;
+	b=N/4JOdEZCCuj/Xp6I9CXiF0jJ4WtaufChJKYPHqh0cY2c+9MH/1KtmXM72Ohpavdp
+	 gU/1of2GmDXZIWzUMVEwrz4+m9Qi+uwTrYVqxW7eksECqQMdFoGHKEwLp/UK3RSBSD
+	 GK9kf57KyWjw1zdRG2KRgAXMI9w4hFJZMW6pNm7J/eWunVwhKjIyQjJVE9KyqZ58JI
+	 7487pUny0CzlxT4J7OQm9iBdPQktSRGbSso/nBUGbYY1QfBev9kd/TarBWIMe2M3Lt
+	 7QQWbFgSpGHvnJHY7olyZFpz456VM4eTK1NAbwWam6Cm2pS4zJhc3QOxNzP7D7OBai
+	 OgxfsQ+eMS5tQ==
+Received: from zmtaauth03.partage.renater.fr ([127.0.0.1])
+	by localhost (zmtaauth03.partage.renater.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 755XAF6fmLaJ; Sun,  2 Jul 2023 23:53:50 +0200 (CEST)
+Received: from [192.168.1.31] (unknown [194.254.241.250])
+	by zmtaauth03.partage.renater.fr (Postfix) with ESMTPA id C480F8012D;
+	Sun,  2 Jul 2023 23:53:44 +0200 (CEST)
+Content-Type: multipart/alternative;
+ boundary="------------qNzCfPvHXTi96rJ0g1gHWzDK"
+Message-ID: <6b99d8be-6c73-2f1b-ac23-870ed9e1ca49@ird.fr>
+Date: Mon, 3 Jul 2023 08:53:56 +1100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.12.0
+Subject: Re: [IPBES TCA] Chapter 3 Team 1 Request following our Meeting Data
+ TSU
+Content-Language: fr
+From: Catherine SABINOT <catherine.sabinot@ird.fr>
+To: Renske Gudde <renske.gudde@senckenberg.de>,
+ Aidin Niamir <aidin.niamir@senckenberg.de>, Rainer M Krug <Rainer@krugs.de>
+References: <AM0PR04MB4593DE1342060C7D9DA77B0B9F5BA@AM0PR04MB4593.eurprd04.prod.outlook.com>
+ <885689f9-8e5f-1b2d-841b-b1ded2201bbb@ird.fr>
+ <4f272b89-b5de-2b74-c450-c6d9cf012c93@senckenberg.de>
+ <c55f759b-788f-56c3-4e46-9424782b6d92@ird.fr>
+ <1104499959.1338105.1687469126835@office.mailbox.org>
+ <f535932b-95b5-4c11-1444-e92aad70a120@ird.fr>
+Cc: "lam@leuphana.de" <lam@leuphana.de>,
+ "bjorn-ola.linner@liu.se" <bjorn-ola.linner@liu.se>,
+ "N.Roskruge@massey.ac.nz" <N.Roskruge@massey.ac.nz>,
+ "stephen.woroniecki@liu.se" <stephen.woroniecki@liu.se>,
+ "elena.bennett@mcgill.ca" <elena.bennett@mcgill.ca>,
+ "yanina.sica@senckenberg.de" <yanina.sica@senckenberg.de>,
+ "zuhre.aksoy@boun.edu.tr" <zuhre.aksoy@boun.edu.tr>,
+ "oonsie@sun.ac.za" <oonsie@sun.ac.za>,
+ "rcalderon@cua.uam.mx" <rcalderon@cua.uam.mx>,
+ "andressavmansur@gmail.com" <andressavmansur@gmail.com>,
+ Rainer M Krug <Rainer@krugs.de>,
+ IPBES TCA TSU <ipbes-tsu-transformative-change@umontpellier.fr>
+In-Reply-To: <f535932b-95b5-4c11-1444-e92aad70a120@ird.fr>
+X-Virus-Scanned: clamav-milter 0.103.8 at clamav04
+X-Virus-Status: Clean
+X-Renater-Ptge-SpamState: clean
+X-Renater-Ptge-SpamScore: -100
+X-Renater-Ptge-SpamCause: gggruggvucftvghtrhhoucdtuddrgedviedruddugddtfecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftnecuuegrihhlohhuthemuceftddtnecusecvtfgvtghiphhivghnthhsucdlqddutddtmdenucfjughrpegtkfffgggfuffhvfhfvegjsegrtderredtfeejnecuhfhrohhmpeevrghthhgvrhhinhgvucfuteeukffpqffvuceotggrthhhvghrihhnvgdrshgrsghinhhothesihhrugdrfhhrqeenucggtffrrghtthgvrhhnpedvffdtjeekteegudelfeelhedutdelieeiveehkeffgfetfedvudefleegfeeuudenucffohhmrghinhepughoihdrohhrghdpshgvnhgtkhgvnhgsvghrghdruggvnecukfhppeduleegrddvheegrddvgedurddvhedtnecuvehluhhsthgvrhfuihiivgeptdenucfrrghrrghmpehinhgvthepudelgedrvdehgedrvdeguddrvdehtddphhgvlhhopegludelvddrudeikedruddrfedungdpmhgrihhlfhhrohhmpeevrghthhgvrhhinhgvucfuteeukffpqffvuceotggrthhhvghrihhnvgdrshgrsghinhhothesihhrugdrfhhrqedpnhgspghrtghpthhtohepudegpdhrtghpthhtoheprhgvnhhskhgvrdhguhguuggvsehsvghntghkvghnsggvrhhgrdguvgdprhgtphhtthhopegrihguihhnrdhnihgrmhhirhesshgvnhgtkhgvnhgsvghrghdruggvpdhrtghpthhtoheptfgrihhnvghrsehkrhhughhsrdguvgdprhgtphht
+ thhopehlrghmsehlvghuphhhrghnrgdruggvpdhrtghpthhtohepsghjohhrnhdqohhlrgdrlhhinhhnvghrsehlihhurdhsvgdprhgtphhtthhopefprdftohhskhhruhhgvgesmhgrshhsvgihrdgrtgdrnhii
+Envelope-To: <Rainer@krugs.de>
+X-Spam-Flag: NO
+UI-InboundReport: notjunk:1;M01:P0:O5ek1aOYMsY=;j7V6pkzZXR9frKR+SP/+6BQTCVOp
+ 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
+ SPopAIFyY6H1NHEf11xqluV
+
+This is a multi-part message in MIME format.
+--------------qNzCfPvHXTi96rJ0g1gHWzDK
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+Dear Renske, Aidin, Rainer,
+
+I'm writing to you today because we don't know how much time you need to=20
+do the searchs you've started. We have a group meeting on Tuesday and=20
+we'd like to know when you think you'll be able to send us the precious=20
+results to plan our last 2 weeks of work?
+
+/As a reminder:/
+
+/*** Task 1: proceed with pulling citations for one generation back and=20
+forward for the following 4 papers: *//*
+*//**/1- Evans et al. (2023) https://doi.org/10.1016/j.marpol.2023.105710
+2- Fisher et al. (2022) https://doi.org/10.1016/j.cosust.2022.101160
+3- Loorbach et al. (2017)=20
+https://doi.org/10.1146/annurev-environ-102014-021340
+4- Scoones et al. (2020) https://doi.org/10.1016/j.cosust.2019.12.004
+
+/*** Task2: *//*add the references of=C2=A0 the previously sent papers to=
+ the=20
+dataset and cross it with other entries.*/
+1 - Waddock, Fazwy in review
+2- Aspoy at al, 2023 (unpublished report)
+
+/******* Moreover, I have an additional question:*/
+My regret is that all the listed references in the review papers are in=20
+English. And I know that several French and Spanish-speaking researchers=20
+publish major papers and books rather in their own language
+ >> In your search, /*is it possible to pay particular attention to=20
+non-English publications */(which have an English abstract but are then=20
+written in French, Spanish or Chinese (for French and Spanish I can read=20
+/ for Chinese I have asked to colleagues)?
+
+We thank you in advance for your answers and your work!
+
+Best,
+
+Andressa, David and Catherine, for the Chapter 3 -Team1 :)
+
+
+___________________________________________________________________
+Catherine Sabinot, PhD
+Ethno=C3=A9cologue et anthropologue
+Dynamiques socio-environnementales sur les littoraux, =C3=AEles et oc=C3=A9=
+ans
+
+Institut de recherche pour le D=C3=A9veloppement
+UMR 228 ESPACE-DEV - Equipe LADIVA
+Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9, adaptation, =
+viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers
+Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex - Nouvelle-Cal=C3=A9d=
+onie
+
+Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype : sabinot.cather=
+ine
+
+Le 23/06/2023 =C3=A0 11:39, Catherine SABINOT a =C3=A9crit=C2=A0:
+>
+> Dear Renske,
+>
+> Thanks a lot !
+>
+> Best regards
+>
+> Catherine
+>
+> ___________________________________________________________________
+> Catherine Sabinot, PhD
+> Ethno=C3=A9cologue et anthropologue
+> Dynamiques socio-environnementales sur les littoraux, =C3=AEles et oc=C3=
+=A9ans
+>
+> Institut de recherche pour le D=C3=A9veloppement
+> UMR 228 ESPACE-DEV - Equipe LADIVA
+> Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9, adaptation=
+, viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers
+> Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex - Nouvelle-Cal=C3=A9=
+donie
+>
+> Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype : sabinot.cath=
+erine
+> Le 23/06/2023 =C3=A0 08:25, Renske Gudde a =C3=A9crit=C2=A0:
+>> Dear Catherine,
+>> Please find the pdf of the Waddock paper attached to this email.
+>> Best wishes,
+>> Renske
+>>> Catherine SABINOT <catherine.sabinot@ird.fr> hat am 22.06.2023 21:23=20
+>>> CEST geschrieben:
+>>>
+>>> Dear Aidin,
+>>>
+>>> Thank you for you quick answer and thank you to start the work for=20
+>>> the 4 first papers.
+>>>
+>>> Then the more useful to do I think is to add the references of the=20
+>>> two papers to the dataset and cross it with other entries. Unless=20
+>>> one of the chapter colleagues to whom this message is addressed says=20
+>>> otherwise, let's go with that logic!
+>>>
+>>> Waddock paper you sent seems very very interesting. I read the=20
+>>> abstract because surprisingly I don't have access to download it. Is=20
+>>> it possible to send it to us please?
+>>> Waddock, S., 2020. Thinking Transformational System Change. Journal=20
+>>> of Change Management 20, 189=E2=80=93201.=20
+>>> https://doi.org/10.1080/14697017.2020.1737179
+>>>
+>>> Thanks a lot!
+>>>
+>>> Ant thanks Rayner for your time on our request!
+>>>
+>>> Best regards,
+>>>
+>>> Catherine
+>>>
+>>> ___________________________________________________________________
+>>> Catherine Sabinot, PhD
+>>> Ethno=C3=A9cologue et anthropologue
+>>> Dynamiques socio-environnementales sur les littoraux, =C3=AEles et oc=
+=C3=A9ans
+>>>
+>>> Institut de recherche pour le D=C3=A9veloppement
+>>> UMR 228 ESPACE-DEV - Equipe LADIVA
+>>> Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9, adaptati=
+on, viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers
+>>> Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex - Nouvelle-Cal=C3=
+=A9donie
+>>>
+>>> Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype : sabinot.ca=
+therine
+>>> Le 22/06/2023 =C3=A0 22:58, Aidin Niamir a =C3=A9crit=C2=A0:
+>>>> Dear Catherine
+>>>>
+>>>> Happy to hear that our earlier meeting was helpful.
+>>>>
+>>>> The task is clear. We will proceed with pulling citations for one=20
+>>>> generation back and forward for the following 4 papers:
+>>>>
+>>>> 1- Evans et al. (2023) https://doi.org/10.1016/j.marpol.2023.105710
+>>>> 2- Fisher et al. (2022) https://doi.org/10.1016/j.cosust.2022.101160
+>>>> 3- Loorbach et al. (2017)=20
+>>>> https://doi.org/10.1146/annurev-environ-102014-021340
+>>>> 4- Scoones et al. (2020) https://doi.org/10.1016/j.cosust.2019.12.00=
+4
+>>>>
+>>>>
+>>>> For Waddock & Fazwy (in review) we can't do much, since it is not=20
+>>>> published yet.
+>>>> We can only add their references to the dataset and cross it with=20
+>>>> other entries if you find it useful. Or you can pick another=20
+>>>> relevant publication from Waddock, like this one=20
+>>>> https://doi.org/10.1080/14697017.2020.1737179
+>>>>
+>>>>
+>>>> More or less the same applies to Aspoy et al. (2023). What we can=20
+>>>> do is add the 63 references listed in Appendix 1 to the dataset and=20
+>>>> cross it with other entries.
+>>>>
+>>>> From our side, Rainer (in CC) will be supporting you with this=20
+>>>> task. He has a lot of experience in the field and you are in good=20
+>>>> hands.
+>>>> We will start our work on the first 4 papers, meanwhile please let=20
+>>>> us know your decision about Waddock & Fazwy (in review) and Aspoy=20
+>>>> et al. (2023).
+>>>>
+>>>> Best
+>>>> Aidin
+>>>>
+>>>> On 22-Jun-23 5:17, Catherine SABINOT wrote:
+>>>>> Dear Aidin,
+>>>>>
+>>>>> Following our successive meetings and the very informative and=20
+>>>>> inpiring one with you, we have decided to ask you please
+>>>>>
+>>>>> *- to identify all the key references used in the 5 review papers=20
+>>>>> we list (one generation back and forward) **/and the report in=20
+>>>>> folder attached /**No keyword search.*
+>>>>> =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 > This search will perm=
+it to make sure that all essential=20
+>>>>> references are included in our review=C2=A0 for the analyse of=C2=A0=
+ 'How do=20
+>>>>> TC occur'
+>>>>>
+>>>>> Evans, T., Fletcher, S., Failler, P., Potts, J., 2023. Untangling=20
+>>>>> theories of transformation: Reflections for ocean governance.=20
+>>>>> Marine Policy 155, 105710.=20
+>>>>> https://doi.org/10.1016/j.marpol.2023.105710
+>>>>> Fisher, E., Brondizio, E., Boyd, E., 2022. Critical social science=20
+>>>>> perspectives on transformations to sustainability. Current Opinion=20
+>>>>> in Environmental Sustainability 55, 101160.=20
+>>>>> https://doi.org/10.1016/j.cosust.2022.101160
+>>>>> Loorbach, D., Frantzeskaki, N., Avelino, F., 2017. Sustainability=20
+>>>>> Transitions Research: Transforming Science and Practice for=20
+>>>>> Societal Change. Annual Review of Environment and Resources 42,=20
+>>>>> 599=E2=80=93626. https://doi.org/10.1146/annurev-environ-102014-021=
+340
+>>>>> Scoones, I., Stirling, A., Abrol, D., Atela, J., Charli-Joseph,=20
+>>>>> L., Eakin, H., Ely, A., Olsson, P., Pereira, L., Priya, R., van=20
+>>>>> Zwanenberg, P., Yang, L., 2020. Transformations to sustainability:=20
+>>>>> combining structural, systemic and enabling approaches. Current=20
+>>>>> Opinion in Environmental Sustainability, Advancing the science of=20
+>>>>> actionable knowledge for sustainability 42, 65=E2=80=9375.=20
+>>>>> https://doi.org/10.1016/j.cosust.2019.12.004
+>>>>> Waddock, Fazwy in review (attached): PLEASE DO NOT SHARE,=20
+>>>>> CONFIDENTIAL
+>>>>>
+>>>>> The attached report (Aspoy at al, 2023)=C2=A0 is not a review on TC=
+=20
+>>>>> theories but on behaviour and decision making change for=20
+>>>>> biodiversity and will probably help us a lot for this review.
+>>>>>
+>>>>> We thank you very much for your help and avaibability,
+>>>>>
+>>>>> PLease do not hesitate to contact David (lam@leuphana.de) and I if=20
+>>>>> you need more elements (both of you because I will have irregular=20
+>>>>> access during the next days)
+>>>>>
+>>>>> Best,
+>>>>>
+>>>>> Catherine and David, for Chap3-Team1
+>>>>>
+>>>>> PS : The 4 first papers are in zotero folder=C2=A0 "Chap3 / Theorie=
+s=20
+>>>>> and Frameworks TC Section II / Reviews of Theories TC"
+>>>>>
+>>>>>
+>>>>> ___________________________________________________________________
+>>>>> Catherine Sabinot, PhD
+>>>>> Ethno=C3=A9cologue et anthropologue
+>>>>> Dynamiques socio-environnementales sur les littoraux, =C3=AEles et =
+oc=C3=A9ans
+>>>>>
+>>>>> Institut de recherche pour le D=C3=A9veloppement
+>>>>> UMR 228 ESPACE-DEV - Equipe LADIVA
+>>>>> Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9, adapta=
+tion,=20
+>>>>> viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers
+>>>>> Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex - Nouvelle-Cal=C3=
+=A9donie
+>>>>>
+>>>>> Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype :=20
+>>>>> sabinot.catherine
+>>>>>
+>> Dr Renske Gudde
+>> Technical Coordinator - IPBES technical support unit for data
+>> Senckenberg Biodiversity and Climate Research Institute
+>> Senckenberganlage 25, 60325 Frankfurt am Main, Germany
+>> renske.gudde@senckenberg.de | +49 69 7542 1885=20
+>> <mailto:renske.gudde@senckenberg.de>
+>>
+>> Senckenberg Gesellschaft f=C3=BCr Naturforschung (Rechtsf=C3=A4higer V=
+erein gem=C3=A4=C3=9F
+>> =C2=A7 22 BGB)
+>> Senckenberganlage 25, D-60325 Frankfurt am Main
+>>
+>> Member of the Leibniz Association
+>> www.senckenberg.de <http://www.senckenberg.de/>
+--------------qNzCfPvHXTi96rJ0g1gHWzDK
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8">
+  </head>
+  <body>
+    <p>Dear Renske, Aidin, Rainer,<br>
+    </p>
+    <p>I'm writing to you today because we don't know how much time you
+      need to do the searchs you've started. We have a group meeting on
+      Tuesday and we'd like to know when you think you'll be able to
+      send us the precious results to plan our last 2 weeks of work?</p>
+    <p><i>As a reminder:</i><br>
+    </p>
+    <p><i><b>** Task 1: proceed with pulling citations for one
+          generation back and forward for the following 4 papers: </b></i=
+><i><b><br>
+        </b></i><i><b> </b></i>1- Evans et al. (2023) <a
+        class=3D"moz-txt-link-freetext"
+        href=3D"https://doi.org/10.1016/j.marpol.2023.105710">https://doi=
+.org/10.1016/j.marpol.2023.105710</a>
+      <br>
+      2- Fisher et al. (2022) <a class=3D"moz-txt-link-freetext"
+        href=3D"https://doi.org/10.1016/j.cosust.2022.101160">https://doi=
+.org/10.1016/j.cosust.2022.101160</a>
+      <br>
+      3- Loorbach et al. (2017) <a class=3D"moz-txt-link-freetext"
+        href=3D"https://doi.org/10.1146/annurev-environ-102014-021340">ht=
+tps://doi.org/10.1146/annurev-environ-102014-021340</a>
+      <br>
+      4- Scoones et al. (2020) <a class=3D"moz-txt-link-freetext"
+        href=3D"https://doi.org/10.1016/j.cosust.2019.12.004">https://doi=
+.org/10.1016/j.cosust.2019.12.004</a>
+      <br>
+    </p>
+    <p><i><b>** Task2: </b></i><i><b>add the references of=C2=A0 the
+          previously sent papers to the dataset and cross it with other
+          entries.</b></i><br>
+      1 - Waddock, Fazwy in review<br>
+      2- Aspoy at al, 2023 (unpublished report) <br>
+    </p>
+    <p><i><b>****** Moreover, I have an additional question:</b></i><br>
+      My regret is that all the listed references in the review papers
+      are in English. And I know that several French and
+      Spanish-speaking researchers publish major papers and books rather
+      in their own language<br>
+      &gt;&gt; In your search, <i><b>is it possible to pay particular
+          attention to non-English publications </b></i>(which have an
+      English abstract but are then written in French, Spanish or
+      Chinese (for French and Spanish I can read / for Chinese I have
+      asked to colleagues)?</p>
+    <p>We thank you in advance for your answers and your work!</p>
+    <p>Best,<br>
+    </p>
+    <p>Andressa, David and Catherine, for the Chapter 3 -Team1 :)</p>
+    <p><br>
+    </p>
+    <p></p>
+    <pre class=3D"moz-signature" cols=3D"72">____________________________=
+_______________________________________
+Catherine Sabinot, PhD
+Ethno=C3=A9cologue et anthropologue
+Dynamiques socio-environnementales sur les littoraux, =C3=AEles et oc=C3=A9=
+ans
+
+Institut de recherche pour le D=C3=A9veloppement
+UMR 228 ESPACE-DEV - Equipe LADIVA
+Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9, adaptation, =
+viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers
+Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex - Nouvelle-Cal=C3=A9d=
+onie
+
+Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype : sabinot.cather=
+ine</pre>
+    <div class=3D"moz-cite-prefix">Le 23/06/2023 =C3=A0 11:39, Catherine
+      SABINOT a =C3=A9crit=C2=A0:<br>
+    </div>
+    <blockquote type=3D"cite"
+      cite=3D"mid:f535932b-95b5-4c11-1444-e92aad70a120@ird.fr">
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+      <p>Dear Renske,</p>
+      <p>Thanks a lot !</p>
+      <p>Best regards</p>
+      <p>Catherine<br>
+      </p>
+      <pre class=3D"moz-signature" cols=3D"72">__________________________=
+_________________________________________
+Catherine Sabinot, PhD
+Ethno=C3=A9cologue et anthropologue
+Dynamiques socio-environnementales sur les littoraux, =C3=AEles et oc=C3=A9=
+ans
+
+Institut de recherche pour le D=C3=A9veloppement
+UMR 228 ESPACE-DEV - Equipe LADIVA
+Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9, adaptation, =
+viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers
+Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex - Nouvelle-Cal=C3=A9d=
+onie
+
+Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype : sabinot.cather=
+ine</pre>
+      <div class=3D"moz-cite-prefix">Le 23/06/2023 =C3=A0 08:25, Renske G=
+udde a
+        =C3=A9crit=C2=A0:<br>
+      </div>
+      <blockquote type=3D"cite"
+        cite=3D"mid:1104499959.1338105.1687469126835@office.mailbox.org">
+        <meta http-equiv=3D"Content-Type" content=3D"text/html;
+          charset=3DUTF-8">
+        <div> Dear Catherine, </div>
+        <div class=3D"default-style"> =C2=A0 </div>
+        <div class=3D"default-style"> Please find the pdf of the Waddock
+          paper attached to this email. </div>
+        <div class=3D"default-style"> =C2=A0 </div>
+        <div class=3D"default-style"> Best wishes, </div>
+        <div class=3D"default-style"> Renske </div>
+        <blockquote type=3D"cite">
+          <div> Catherine SABINOT <a class=3D"moz-txt-link-rfc2396E"
+              href=3D"mailto:catherine.sabinot@ird.fr"
+              moz-do-not-send=3D"true">&lt;catherine.sabinot@ird.fr&gt;</=
+a>
+            hat am 22.06.2023 21:23 CEST geschrieben: </div>
+          <div> =C2=A0 </div>
+          <div> =C2=A0 </div>
+          <p>Dear Aidin,</p>
+          <p>Thank you for you quick answer and thank you to start the
+            work for the 4 first papers.</p>
+          <p>Then the more useful to do I think is to add the references
+            of the two papers to the dataset and cross it with other
+            entries. Unless one of the chapter colleagues to whom this
+            message is addressed says otherwise, let's go with that
+            logic!</p>
+          <p>Waddock paper you sent seems very very interesting. I read
+            the abstract because surprisingly I don't have access to
+            download it. Is it possible to send it to us please?<br>
+            <span style=3D"color: #808000;">Waddock, S., 2020. Thinking
+              Transformational System Change. Journal of Change
+              Management 20, 189=E2=80=93201. <a class=3D"moz-txt-link-fr=
+eetext"
+                href=3D"https://doi.org/10.1080/14697017.2020.1737179"
+                moz-do-not-send=3D"true">https://doi.org/10.1080/14697017=
+.2020.1737179</a></span></p>
+          <p>Thanks a lot!</p>
+          <p>Ant thanks Rayner for your time on our request!</p>
+          <p>Best regards,</p>
+          <p>Catherine</p>
+          <pre class=3D"moz-signature">__________________________________=
+_________________________________
+Catherine Sabinot, PhD
+Ethno=C3=A9cologue et anthropologue
+Dynamiques socio-environnementales sur les littoraux, =C3=AEles et oc=C3=A9=
+ans
+
+Institut de recherche pour le D=C3=A9veloppement
+UMR 228 ESPACE-DEV - Equipe LADIVA
+Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9, adaptation, =
+viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers
+Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex - Nouvelle-Cal=C3=A9d=
+onie
+
+Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype : sabinot.cather=
+ine</pre>
+          <div class=3D"moz-cite-prefix"> Le 22/06/2023 =C3=A0 22:58, Aid=
+in
+            Niamir a =C3=A9crit=C2=A0: </div>
+          <blockquote type=3D"cite"> Dear Catherine <br>
+            <br>
+            Happy to hear that our earlier meeting was helpful. <br>
+            <br>
+            The task is clear. We will proceed with pulling citations
+            for one generation back and forward for the following 4
+            papers: <br>
+            <br>
+            1- Evans et al. (2023) <a class=3D"moz-txt-link-freetext"
+              href=3D"https://doi.org/10.1016/j.marpol.2023.105710"
+              moz-do-not-send=3D"true">https://doi.org/10.1016/j.marpol.2=
+023.105710</a>
+            <br>
+            2- Fisher et al. (2022) <a class=3D"moz-txt-link-freetext"
+              href=3D"https://doi.org/10.1016/j.cosust.2022.101160"
+              moz-do-not-send=3D"true">https://doi.org/10.1016/j.cosust.2=
+022.101160</a>
+            <br>
+            3- Loorbach et al. (2017) <a class=3D"moz-txt-link-freetext"
+href=3D"https://doi.org/10.1146/annurev-environ-102014-021340"
+              moz-do-not-send=3D"true">https://doi.org/10.1146/annurev-en=
+viron-102014-021340</a>
+            <br>
+            4- Scoones et al. (2020) <a class=3D"moz-txt-link-freetext"
+              href=3D"https://doi.org/10.1016/j.cosust.2019.12.004"
+              moz-do-not-send=3D"true">https://doi.org/10.1016/j.cosust.2=
+019.12.004</a>
+            <br>
+            <br>
+            <br>
+            For Waddock &amp; Fazwy (in review) we can't do much, since
+            it is not published yet. <br>
+            We can only add their references to the dataset and cross it
+            with other entries if you find it useful. Or you can pick
+            another relevant publication from Waddock, like this one <a
+              class=3D"moz-txt-link-freetext"
+              href=3D"https://doi.org/10.1080/14697017.2020.1737179"
+              moz-do-not-send=3D"true">https://doi.org/10.1080/14697017.2=
+020.1737179</a>
+            <br>
+            <br>
+            <br>
+            More or less the same applies to Aspoy et al. (2023). What
+            we can do is add the 63 references listed in Appendix 1 to
+            the dataset and cross it with other entries. <br>
+            <br>
+            From our side, Rainer (in CC) will be supporting you with
+            this task. He has a lot of experience in the field and you
+            are in good hands. <br>
+            We will start our work on the first 4 papers, meanwhile
+            please let us know your decision about Waddock &amp; Fazwy
+            (in review) and Aspoy et al. (2023). <br>
+            <br>
+            Best <br>
+            Aidin <br>
+            <br>
+            On 22-Jun-23 5:17, Catherine SABINOT wrote: <br>
+            <blockquote type=3D"cite"> Dear Aidin, <br>
+              <br>
+              Following our successive meetings and the very informative
+              and inpiring one with you, we have decided to ask you
+              please <br>
+              <br>
+              *- to identify all the key references used in the 5=C2=A0
+              review papers we list (one generation back and forward)
+              **/and the report in folder attached /**No keyword
+              search.* <br>
+              =C2=A0=C2=A0=C2=A0=C2=A0 =C2=A0=C2=A0=C2=A0 &gt; This searc=
+h will permit to make sure that
+              all essential references are included in our review=C2=A0 f=
+or
+              the analyse of=C2=A0 'How do TC occur' <br>
+              <br>
+              Evans, T., Fletcher, S., Failler, P., Potts, J., 2023.
+              Untangling theories of transformation: Reflections for
+              ocean governance. Marine Policy 155, 105710. <a
+                class=3D"moz-txt-link-freetext"
+                href=3D"https://doi.org/10.1016/j.marpol.2023.105710"
+                moz-do-not-send=3D"true">https://doi.org/10.1016/j.marpol=
+.2023.105710</a>
+              <br>
+              Fisher, E., Brondizio, E., Boyd, E., 2022. Critical social
+              science perspectives on transformations to sustainability.
+              Current Opinion in Environmental Sustainability 55,
+              101160. <a class=3D"moz-txt-link-freetext"
+                href=3D"https://doi.org/10.1016/j.cosust.2022.101160"
+                moz-do-not-send=3D"true">https://doi.org/10.1016/j.cosust=
+.2022.101160</a>
+              <br>
+              Loorbach, D., Frantzeskaki, N., Avelino, F., 2017.
+              Sustainability Transitions Research: Transforming Science
+              and Practice for Societal Change. Annual Review of
+              Environment and Resources 42, 599=E2=80=93626. <a
+                class=3D"moz-txt-link-freetext"
+                href=3D"https://doi.org/10.1146/annurev-environ-102014-02=
+1340"
+                moz-do-not-send=3D"true">https://doi.org/10.1146/annurev-=
+environ-102014-021340</a>
+              <br>
+              Scoones, I., Stirling, A., Abrol, D., Atela, J.,
+              Charli-Joseph, L., Eakin, H., Ely, A., Olsson, P.,
+              Pereira, L., Priya, R., van Zwanenberg, P., Yang, L.,
+              2020. Transformations to sustainability: combining
+              structural, systemic and enabling approaches. Current
+              Opinion in Environmental Sustainability, Advancing the
+              science of actionable knowledge for sustainability 42,
+              65=E2=80=9375. <a class=3D"moz-txt-link-freetext"
+                href=3D"https://doi.org/10.1016/j.cosust.2019.12.004"
+                moz-do-not-send=3D"true">https://doi.org/10.1016/j.cosust=
+.2019.12.004</a>
+              <br>
+              Waddock, Fazwy in review (attached): PLEASE DO NOT SHARE,
+              CONFIDENTIAL <br>
+              <br>
+              The attached report (Aspoy at al, 2023)=C2=A0 is not a revi=
+ew=C2=A0
+              on TC theories but on behaviour and decision making change
+              for biodiversity and will probably help us a lot for this
+              review. <br>
+              <br>
+              We thank you very much for your help and avaibability, <br>
+              <br>
+              PLease do not hesitate to contact David (<a
+                class=3D"moz-txt-link-abbreviated moz-txt-link-freetext"
+                href=3D"mailto:lam@leuphana.de" moz-do-not-send=3D"true">=
+lam@leuphana.de</a>)
+              and I if you need more elements (both of you because I
+              will have irregular access during the next days) <br>
+              <br>
+              Best, <br>
+              <br>
+              Catherine and David, for Chap3-Team1 <br>
+              <br>
+              PS : The 4 first papers are in zotero folder=C2=A0 "Chap3 /
+              Theories and Frameworks TC Section II / Reviews of
+              Theories TC" <br>
+              <br>
+              <br>
+___________________________________________________________________ <br>
+              Catherine Sabinot, PhD <br>
+              Ethno=C3=A9cologue et anthropologue <br>
+              Dynamiques socio-environnementales sur les littoraux, =C3=AE=
+les
+              et oc=C3=A9ans <br>
+              <br>
+              Institut de recherche pour le D=C3=A9veloppement <br>
+              UMR 228 ESPACE-DEV - Equipe LADIVA <br>
+              Littoraux, =C3=AEles et archipels - Vuln=C3=A9rabilit=C3=A9=
+, adaptation,
+              viabilit=C3=A9 des territoires insulaires et c=C3=B4tiers <=
+br>
+              Centre IRD Anse Vata - BPA5 98848 Noum=C3=A9a Cedex -
+              Nouvelle-Cal=C3=A9donie <br>
+              <br>
+              Bur : +687 26 08 32 / Mob : +687 97 25 59 - Pseudo skype :
+              sabinot.catherine <br>
+              <br>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+        <div class=3D"default-style"> =C2=A0 </div>
+        <div class=3D"io-ox-signature">
+          <div class=3D"default-style"> Dr Renske Gudde </div>
+          <div class=3D"default-style">
+            <div> Technical Coordinator - IPBES technical support unit
+              for data </div>
+            <div> Senckenberg Biodiversity and Climate Research
+              Institute </div>
+            <div> Senckenberganlage 25, 60325 Frankfurt am Main, Germany
+            </div>
+            <a class=3D"mailto-link"
+              href=3D"mailto:renske.gudde@senckenberg.de"
+              moz-do-not-send=3D"true">renske.gudde@senckenberg.de | +49
+              69 7542 1885</a> </div>
+          <div class=3D"default-style"> <br>
+            <div> Senckenberg Gesellschaft f=C3=BCr Naturforschung
+              (Rechtsf=C3=A4higer Verein gem=C3=A4=C3=9F </div>
+            <div> =C2=A7 22 BGB) </div>
+            <div> Senckenberganlage 25, D-60325 Frankfurt am Main </div>
+            <br>
+            <div> Member of the Leibniz Association </div>
+            <a href=3D"http://www.senckenberg.de/" moz-do-not-send=3D"tru=
+e">www.senckenberg.de</a>
+          </div>
+        </div>
+      </blockquote>
+    </blockquote>
+  </body>
+</html>
+
+--------------qNzCfPvHXTi96rJ0g1gHWzDK--

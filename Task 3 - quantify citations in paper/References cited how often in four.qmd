@@ -1,0 +1,191 @@
+---
+title: "References cited by the four papers"
+format:
+    html:
+        toc: true
+        embed-resources: true
+        code-fold: true
+        code-summary: "Show the code"
+    docx:
+        toc: true
+        number-sections: true
+        highlight-style: github
+---
+
+# References cited how often in four
+
+## Preparation
+To extraxt the citations in the text, the following workflowe was used:
+1. Extraction of text from pdf using `pdftotext`
+2. Extraction of citations eiother in `\[*\]` or `(*)` using BBEdit and the Extract command
+3. cleaning of the resulting references to obtain a csv
+
+## Analysis
+### Evans 2023
+
+```{r}
+#| eval: true
+#| echo: true
+cit <- read.csv(
+    "Evans et al. - 2023 - extracted [] - cleaned.csv",
+    header = TRUE
+)
+
+cit <- table(cit) |>
+    as.data.frame()
+
+
+ref <- read.csv(
+    "Evans et al. - 2023 - ref.csv",
+    header = TRUE,
+    row.names = NULL,
+    sep = ",",
+    quote = "|"
+)
+
+cit <- merge(
+    cit,
+    ref,
+    by = "ref",
+    all.x = TRUE
+)
+
+cit <- cit[order(cit$Freq, decreasing = TRUE), ]
+
+write.csv(
+    cit,
+    "Evans et al. - 2023 - citation occurances.csv",
+    row.names = FALSE
+)
+
+knitr::kable(
+    cit,
+    caption = "References cited in Evans et al. 2023"
+)
+```
+
+### Fisher 2022
+
+```{r}
+#| eval: true
+#| echo: true
+cit <- read.csv(
+    "Fisher et al. - 2022 - extracted [] - cleaned.csv",
+    header = TRUE
+)
+
+cit <- table(cit["ref"]) |>
+    as.data.frame()
+
+ref <- read.csv(
+    "Fisher et al. - 2022 - ref.csv",
+    header = TRUE,
+    row.names = NULL,
+    sep = ",",
+    quote = "|"
+)
+
+cit <- merge(
+    cit,
+    ref,
+    by = "ref",
+    all.x = TRUE
+)
+
+cit <- cit[order(cit$Freq, decreasing = TRUE),]
+
+write.csv(
+    cit,
+    "Fisher et al. - 2022- citation occurances.csv",
+    row.names = FALSE
+)
+
+knitr::kable(
+    cit,
+    caption = "References cited in Fisher et al. 2022"
+)
+```
+
+### Loorbach 2017
+
+```{r}
+#| eval: true
+#| echo: true
+cit <- read.csv(
+    "Loorbach et al. - 2017 - extracted () - cleaned.csv",
+    header = TRUE
+)
+
+cit <- table(cit["ref"]) |>
+    as.data.frame()
+
+ref <- read.csv(
+    "Loorbach et al. - 2017 - ref.csv",
+    header = TRUE,
+    row.names = NULL,
+    sep = ",",
+    quote = "|"
+)
+
+cit <- merge(
+    cit,
+    ref,
+    by = "ref",
+    all.x = TRUE
+)
+
+cit <- cit[order(cit$Freq, decreasing = TRUE),]
+
+write.csv(
+    cit,
+    "Loorbach et al. - 2017- citation occurances.csv",
+    row.names = FALSE
+)
+
+knitr::kable(
+    cit,
+    caption = "References cited in Loorbach et al. 2017"
+)
+```
+
+### Scoones 2020
+
+```{r}
+#| eval: true
+#| echo: true
+cit <- read.csv(
+    "Scoones et al. - 2020 - extracted [] - cleaned.csv",
+    header = TRUE
+)
+
+cit <- table(cit["ref"]) |>
+    as.data.frame()
+
+ref <- read.csv(
+    "Scoones et al. - 2020 - ref.csv",
+    header = TRUE,
+    row.names = NULL,
+    sep = ",",
+    quote = "|"
+)
+
+cit <- merge(
+    cit,
+    ref,
+    by = "ref",
+    all.x = TRUE
+)
+
+cit <- cit[order(cit$Freq, decreasing = TRUE),]
+
+write.csv(
+    cit,
+    "Scoones et al. - 2020- citation occurances.csv",
+    row.names = FALSE
+)
+
+knitr::kable(
+    cit,
+    caption = "References cited in Scoones et al. 2020"
+)
+```
