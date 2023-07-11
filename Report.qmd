@@ -1,0 +1,77 @@
+# Forward - Backward search of literature based on key papers
+
+# Working Title:TfC Ch 3 Team 1
+
+## Contact Points
+
+### contact:
+    - [Catherine Sabinot](catherine.sabinot@ird.fr)
+### cc
+    - [Zuhre Aksoy](zuhre.aksoy@boun.edu.tr)
+    - [Andressa](andressavmansur@gmail.com)
+    - [TfC tsu](ipbes-tsu-transformative-change@umontpellier.fr)
+
+# Approach
+The authors provided a list of four key-references:
+
+- Evans, Tegan, Stephen Fletcher, Pierre Failler, and Jonathan Potts. “Untangling Theories of Transformation: Reflections for Ocean Governance.” Marine Policy 155 (September 2023): 105710. https://doi.org/10.1016/j.marpol.2023.105710.
+- Fisher, Eleanor, Eduardo Brondizio, and Emily Boyd. “Critical Social Science Perspectives on Transformations to Sustainability.” Current Opinion in Environmental Sustainability 55 (April 2022): 101160. https://doi.org/10.1016/j.cosust.2022.101160.
+- Loorbach, Derk, Niki Frantzeskaki, and Flor Avelino. “Sustainability Transitions Research: Transforming Science and Practice for Societal Change.” Annual Review of Environment and Resources 42, no. 1 (October 17, 2017): 599–626. https://doi.org/10.1146/annurev-environ-102014-021340.
+- Scoones, Ian, Andrew Stirling, Dinesh Abrol, Joanes Atela, Lakshmi Charli-Joseph, Hallie Eakin, Adrian Ely, et al. “Transformations to Sustainability: Combining Structural, Systemic and Enabling Approaches.” Current Opinion in Environmental Sustainability 42 (February 2020): 65–75. https://doi.org/10.1016/j.cosust.2019.12.004.
+
+They requested the following:
+
+## Task 1
+
+- Search for all references the key-references **cites**
+- Search for all references the key-references is **cited** in
+
+## Task 2
+Two additional papers were provided by the authors:
+
+- Håkon Aspøy, Yennie K. Bredin, Berit Junker-Köhler, David N. Barton, Inventory of behaviour science theories potentially influencing biodiversity decision making Deliverable number: D1.2, Norwegian Institute for Nature Research (NINA)
+- Waddock, Fazwy in review (attached): PLEASE DO NOT SHARE, CONFIDENTIAL
+
+Of these additional references, the authors requested the following:
+- extract list of references cited in the two additional papers
+
+## Task 3
+Quantify the **local impact** of the cited references in the key-papers by counting how often the reference is cited in the respective key-paper.
+
+## Task 4
+Quantify the **global impact** of the references the key-paper **cites** as well as the refererences where the ke-paper is **cited** in by counting the number each of these papers is cited globally and dividing it by the time since publication of the respective paper.
+
+
+# Methods
+## Task 1
+### key-references cites references
+The references were manually downloaded from the Web of Science and are saved in different formats in the folder `./Task 1/Scopus`. It is not expected to be different when downloading these from the Web of Science.
+
+### key-references is cited in
+The references were manually downloaded from the Web of Science and are saved in different formats in the folder `./Task 1/WoS`.
+
+## Task 2
+The references in Aspøy et al and Waddock & Fazwy were extracted by:
+- copying the references out of the pdf and cleai=ning the text
+- converting the formated references into different formats using [Reference Extractor](https://rintze.zelle.me/ref-extractor/)
+resulting files are stored in the folder ./Task 2/`
+
+## Task 3
+
+The **local importance** is determined by counting the number of times a reference is cited in a key-paper. This is done by:
+
+1. converting the key-papers into a single text file (`./Task 3/....txt`)
+2. extract all citations in paper by extracting all `[...]
+ or `(...)`, depending on citation style (`./Task 3/... - extracted [].txt`)
+3. clean the text files to remove regular brackets and expand e.g [1-3] to [1], [2], [3] (`./Task 3/... - extracted - cleaned.txt`)
+4. extracting the references cited in the key-papers and convert them usinf the same approach as for Task 2 (`./Task 3/... - ref.csv`)
+5. use the script in `./Task 3/References cited how often in four.qmd
+6. resulting files are saved in `./Task 3/... - citation occurances.csv`. The columns are:
+    - **first Number**: Internal number
+    - **ref**: Reference number of the cited reference in the key-paper
+    - **Freq**: Number of times the reference is cited in the key-paper
+    - **citation**: The complete citation of the reference
+ 
+ ## Task 4
+The **global importance** is determined by counting the number of times a reference is cited in a key-paper. 
+For this, an automated script is required that automatically reads the number of times cited. 

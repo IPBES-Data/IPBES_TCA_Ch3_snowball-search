@@ -1,0 +1,105 @@
+---
+title: "Automation of some tasks"
+format:
+    html:
+        toc: true
+        embed-resources: true
+        code-fold: true
+        code-summary: "Show the code"
+    docx:
+        toc: true
+        number-sections: true
+        highlight-style: github
+---
+
+# Setup
+```{r}
+#| label: setup
+#| 
+
+library(bibtex)
+library(openalexR)
+
+#library(dplyr)
+#library(ggplot2)
+#library(knitr)
+
+kp <- bibtex::read.bib("./key-paper.bib")
+dois <- sapply(
+    kp, 
+    function(x){
+        x$doi
+    }
+    )
+
+```
+
+# Searches
+## WoS
+Need extended API access - sorting it out
+```{r}
+#| label: wosr
+#| eval: false
+#| 
+
+library(wosr)
+
+sid <- wosr::auth(username = NULL, password = NULL)
+
+uts <- c("WOS:000362312600021", "WOS:000439855300030", "WOS:000294946900020")
+pull_cited_refs(uts, sid)
+```
+
+# q: how c an I read bibtex files into R
+
+## OpenAlex
+```{r}
+#| label: openalex
+#| 
+
+library(ggraph)
+library(tidygraph)
+
+key_works <- oa_fetch(
+    entity = "works",
+    doi = dois,
+    verbose = TRUE
+)
+
+ids <- openalexR:::shorten_oaid(key_works$id)
+
+cites <- lapply(
+    ids,
+    function(id) {
+        oa_fetch(
+            entity = "works",
+            output = "tibble",
+            cites = id,
+            verbose = TRUE
+        )
+    }
+)
+names(cites) <- ids
+
+snowball <- oa_snowball(
+    identifier = ids,
+    verbose = TRUE
+)
+
+
+ggraph(graph = as_tbl_graph(snowball), layout = "stress") +
+    geom_edge_link(aes(alpha = after_stat(index)), show.legend = FALSE) +
+    geom_node_point(aes(fill = oa_input, size = cited_by_count), shape = 21, color = "white") +
+    geom_node_label(aes(filter = oa_input, label = id), nudge_y = 0.2, size = 3) +
+    scale_edge_width(range = c(0.1, 1.5), guide = "none") +
+    scale_size(range = c(3, 10), guide = "none") +
+    scale_fill_manual(values = c("#a3ad62", "#d46780"), na.value = "grey", name = "") +
+    theme_graph() +
+    theme(
+        plot.background = element_rect(fill = "transparent", colour = NA),
+        panel.background = element_rect(fill = "transparent", colour = NA),
+        legend.position = "bottom"
+    ) +
+    guides(fill = "none")
+
+```
