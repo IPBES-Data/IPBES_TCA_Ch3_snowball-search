@@ -75,3 +75,7 @@ The **local importance** is determined by counting the number of times a referen
  ## Task 4
 The **global importance** is determined by counting the number of times a reference is cited in a key-paper. 
 For this, an automated script is required that automatically reads the number of times cited. 
+
+https://www.nature.com/articles/d41586-022-00138-y
+https://blog.ourresearch.org/new-study-shows-openalex-is-a-good-alternative-to-scopus-for-demographic-research/
+https://blog.ourresearch.org/openalex-update-june/
