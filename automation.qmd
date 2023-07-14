@@ -1,5 +1,5 @@
 ---
-title: "Automation of some tasks"
+title: "Snowball Search and global quantification of the references"
 format:
     html:
         toc: true
@@ -10,6 +10,10 @@ format:
         toc: true
         number-sections: true
         highlight-style: github
+    pdf:
+        toc: true
+        number-sections: true
+
 ---
 
 # Setup
@@ -35,25 +39,13 @@ dois <- sapply(
 ```
 
 # Searches
-## WoS
-Need extended API access - sorting it out
-```{r}
-#| label: wosr
-#| eval: false
-#| 
-
-library(wosr)
-
-sid <- wosr::auth(username = NULL, password = NULL)
-
-uts <- c("WOS:000362312600021", "WOS:000439855300030", "WOS:000294946900020")
-pull_cited_refs(uts, sid)
-```
-
 
 ## OpenAlex
+
+### Setup OpelAnex usage and do snowball serarch
+
 ```{r}
-#| label: openalex
+#| label: openalex_prep
 #| 
 
 library(ggraph)
@@ -62,7 +54,7 @@ library(tidygraph)
 key_works <- oa_fetch(
     entity = "works",
     doi = dois,
-    verbose = TRUE
+    verbose = FALSE
 )
 
 ids <- openalexR:::shorten_oaid(key_works$id)
@@ -74,7 +66,7 @@ citing_kp <- lapply(
             entity = "works",
             output = "tibble",
             cites = id,
-            verbose = TRUE
+            verbose = FALSE
         )
     }
 )
@@ -87,24 +79,29 @@ cited_by_kp <- lapply(
             entity = "works",
             output = "tibble",
             cited_by = id,
-            verbose = TRUE
+            verbose = FALSE
         )
     }
 )
 names(cited_by_kp) <- ids
 
-
+## get the snowball data
 snowball <- oa_snowball(
     identifier = ids,
-    verbose = TRUE
+    verbose = FALSE
 )
 
-snowball$edges <- snowball$edges |>
-    mutate(from_kp = from %in% ids, to_kp = to %in% ids)
+flat_snow <- snowball2df(snowball)
+```
 
+### Graph of links between references
+
+```{r}
+#| label: openalex_graph
+#| 
 
 ggraph(graph = as_tbl_graph(snowball), layout = "stress") +
-    geom_edge_link(aes(alpha = after_stat(index)), show.legend = FALSE, arrow = arrow(length = unit(1, 'mm'))) +
+    geom_edge_link(aes(alpha = after_stat(index)), show.legend = FALSE) +
     geom_node_point(aes(fill = oa_input, size = cited_by_count), shape = 21, color = "white") +
     geom_node_label(aes(filter = oa_input, label = id), nudge_y = 0.2, size = 3) +
     scale_edge_width(range = c(0.1, 1.5), guide = "none") +
@@ -118,13 +115,91 @@ ggraph(graph = as_tbl_graph(snowball), layout = "stress") +
     ) +
     guides(fill = "none")
 
-
 ```
+
+### Identification of references with more than one edge
+
+This is the number of connections (`connection_count)`of the paper (`id`)
 
 ```{r}
-#| label: identify_two_key_paper_sampling
+#| label: openalex_edgecount
 #| 
+    
+mult_edge <- flat_snow |>
+    select(id, connection_count) |>
+    filter(connection_count > 1) |>
+    arrange(desc(connection_count))
 
-duplicated(x$from) & !(x$from_kp)
+links <- flat_snow |>
+    filter(id %in% mult_edge$id)
 
+links |>
+    select(id, display_name, publication_year, doi, connection_count) |>
+    arrange(desc(connection_count)) |>
+    knitr::kable()
 ```
+
+
+### Identification of Concepts
+
+OpenAlex assigns all works concepts. The concepts are in hirarchical order, ranging from 0 to 3. The higher the number, the more specific the concept. The concepts are assigned to the paper (`id`)
+
+
+#### Level 0
+```{r}
+lapply(
+    flat_snow[["concepts"]],
+    FUN = function(x) {
+        x[["display_name"]][x[["level"]] == 0]
+    }
+) |>
+    unlist() |>
+    table() |>
+    sort(decreasing = TRUE) |>
+    knitr::kable()
+```
+
+#### Level 1
+```{r}
+lapply(
+    flat_snow[["concepts"]],
+    function(x) {
+        x[["display_name"]][x[["level"]] == 1]
+    }
+) |>
+    unlist() |>
+    table() |>
+    sort(decreasing = TRUE) |>
+    knitr::kable()
+```
+
+#### Level 2
+
+```{r}
+lapply(
+    flat_snow[["concepts"]],
+    function(x) {
+        x[["display_name"]][x[["level"]] == 2]
+    }
+) |>
+    unlist() |>
+    table() |>
+    sort(decreasing = TRUE) |>
+    knitr::kable()
+```
+
+#### Level 3
+
+```{r}
+lapply(
+    flat_snow[["concepts"]],
+    function(x) {
+        x[["display_name"]][x[["level"]] == 3]
+    }
+) |>
+    unlist() |>
+    table() |>
+    sort(decreasing = TRUE) |>
+    knitr::kable()
+```
+

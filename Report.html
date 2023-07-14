@@ -1,0 +1,118 @@
+<h1
+id="forward---backward-search-of-literature-based-on-key-papers">Forward
+- Backward search of literature based on key papers</h1>
+<h1 id="working-titletfc-ch-3-team-1">Working Title:TfC Ch 3 Team 1</h1>
+<h2 id="contact-points">Contact Points</h2>
+<h3 id="contact">contact:</h3>
+<pre><code>- [Catherine Sabinot](catherine.sabinot@ird.fr)</code></pre>
+<h3 id="cc">cc</h3>
+<pre><code>- [Zuhre Aksoy](zuhre.aksoy@boun.edu.tr)
+- [Andressa](andressavmansur@gmail.com)
+- [TfC tsu](ipbes-tsu-transformative-change@umontpellier.fr)</code></pre>
+<h1 id="approach">Approach</h1>
+<p>The authors provided a list of four key-references:</p>
+<ul>
+<li>Evans, Tegan, Stephen Fletcher, Pierre Failler, and Jonathan Potts.
+“Untangling Theories of Transformation: Reflections for Ocean
+Governance.” Marine Policy 155 (September 2023): 105710.
+https://doi.org/10.1016/j.marpol.2023.105710.</li>
+<li>Fisher, Eleanor, Eduardo Brondizio, and Emily Boyd. “Critical Social
+Science Perspectives on Transformations to Sustainability.” Current
+Opinion in Environmental Sustainability 55 (April 2022): 101160.
+https://doi.org/10.1016/j.cosust.2022.101160.</li>
+<li>Loorbach, Derk, Niki Frantzeskaki, and Flor Avelino. “Sustainability
+Transitions Research: Transforming Science and Practice for Societal
+Change.” Annual Review of Environment and Resources 42, no. 1 (October
+17, 2017): 599–626.
+https://doi.org/10.1146/annurev-environ-102014-021340.</li>
+<li>Scoones, Ian, Andrew Stirling, Dinesh Abrol, Joanes Atela, Lakshmi
+Charli-Joseph, Hallie Eakin, Adrian Ely, et al. “Transformations to
+Sustainability: Combining Structural, Systemic and Enabling Approaches.”
+Current Opinion in Environmental Sustainability 42 (February 2020):
+65–75. https://doi.org/10.1016/j.cosust.2019.12.004.</li>
+</ul>
+<p>They requested the following:</p>
+<h2 id="task-1">Task 1</h2>
+<ul>
+<li>Search for all references the key-references
+<strong>cites</strong></li>
+<li>Search for all references the key-references is
+<strong>cited</strong> in</li>
+</ul>
+<h2 id="task-2">Task 2</h2>
+<p>Two additional papers were provided by the authors:</p>
+<ul>
+<li>Håkon Aspøy, Yennie K. Bredin, Berit Junker-Köhler, David N. Barton,
+Inventory of behaviour science theories potentially influencing
+biodiversity decision making Deliverable number: D1.2, Norwegian
+Institute for Nature Research (NINA)</li>
+<li>Waddock, Fazwy in review (attached): PLEASE DO NOT SHARE,
+CONFIDENTIAL</li>
+</ul>
+<p>Of these additional references, the authors requested the following:
+- extract list of references cited in the two additional papers</p>
+<h2 id="task-3">Task 3</h2>
+<p>Quantify the <strong>local impact</strong> of the cited references in
+the key-papers by counting how often the reference is cited in the
+respective key-paper.</p>
+<h2 id="task-4">Task 4</h2>
+<p>Quantify the <strong>global impact</strong> of the references the
+key-paper <strong>cites</strong> as well as the refererences where the
+ke-paper is <strong>cited</strong> in by counting the number each of
+these papers is cited globally and dividing it by the time since
+publication of the respective paper.</p>
+<h1 id="methods">Methods</h1>
+<h2 id="task-1-1">Task 1</h2>
+<h3 id="key-references-cites-references">key-references cites
+references</h3>
+<p>The references were manually downloaded from the Web of Science and
+are saved in different formats in the folder
+<code>./Task 1/Scopus</code>. It is not expected to be different when
+downloading these from the Web of Science.</p>
+<h3 id="key-references-is-cited-in">key-references is cited in</h3>
+<p>The references were manually downloaded from the Web of Science and
+are saved in different formats in the folder
+<code>./Task 1/WoS</code>.</p>
+<h2 id="task-2-1">Task 2</h2>
+<p>The references in Aspøy et al and Waddock &amp; Fazwy were extracted
+by: - copying the references out of the pdf and cleai=ning the text -
+converting the formated references into different formats using <a
+href="https://rintze.zelle.me/ref-extractor/">Reference Extractor</a>
+resulting files are stored in the folder ./Task 2/`</p>
+<h2 id="task-3-1">Task 3</h2>
+<p>The <strong>local importance</strong> is determined by counting the
+number of times a reference is cited in a key-paper. This is done
+by:</p>
+<ol type="1">
+<li>converting the key-papers into a single text file
+(<code>./Task 3/....txt</code>)</li>
+<li>extract all citations in paper by extracting all
+<code>[...]  or</code>(…)<code>, depending on citation style (</code>./Task
+3/… - extracted [].txt`)</li>
+<li>clean the text files to remove regular brackets and expand e.g [1-3]
+to [1], [2], [3]
+(<code>./Task 3/... - extracted - cleaned.txt</code>)</li>
+<li>extracting the references cited in the key-papers and convert them
+usinf the same approach as for Task 2
+(<code>./Task 3/... - ref.csv</code>)</li>
+<li>use the script in `./Task 3/References cited how often in
+four.qmd</li>
+<li>resulting files are saved in
+<code>./Task 3/... - citation occurances.csv</code>. The columns are:
+<ul>
+<li><strong>first Number</strong>: Internal number</li>
+<li><strong>ref</strong>: Reference number of the cited reference in the
+key-paper</li>
+<li><strong>Freq</strong>: Number of times the reference is cited in the
+key-paper</li>
+<li><strong>citation</strong>: The complete citation of the
+reference</li>
+</ul></li>
+</ol>
+<p>## Task 4 The <strong>global importance</strong> is determined by
+counting the number of times a reference is cited in a key-paper. For
+this, an automated script is required that automatically reads the
+number of times cited.</p>
+<!-- https://www.nature.com/articles/d41586-022-00138-y
+https://blog.ourresearch.org/new-study-shows-openalex-is-a-good-alternative-to-scopus-for-demographic-research/
+https://blog.ourresearch.org/openalex-update-june/ -->
