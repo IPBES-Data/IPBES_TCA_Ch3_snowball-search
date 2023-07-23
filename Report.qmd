@@ -72,10 +72,25 @@ The **local importance** is determined by counting the number of times a referen
     - **Freq**: Number of times the reference is cited in the key-paper
     - **citation**: The complete citation of the reference
  
- ## Task 4
+## Task 4
 The **global importance** is determined by counting the number of times a reference is cited in a key-paper. 
 For this, an automated script is required that automatically reads the number of times cited. 
 
 <!-- https://www.nature.com/articles/d41586-022-00138-y
 https://blog.ourresearch.org/new-study-shows-openalex-is-a-good-alternative-to-scopus-for-demographic-research/
 https://blog.ourresearch.org/openalex-update-june/ -->
+
+# Calls
+## TODO 17. July 2023
+1. [x] [by 21st of July] Create Excel sheet of all papers in the corpus with the following columns:
+	- Bibliometric fields
+	- Number of citations in paper
+	- Number of times cited in corpus
+	- Number of Edges
+	- Number of global citations
+	- Number of average global citations per year
+	- Three highest score level one concepts
+2. [ ] [by 21st of July] Redo graph with size not number of global citations but standardised to average number of global citations per year
+3. [ ] [by 28th of July] Add Table with only three highest score Level 1 concepts
+4. [ ] [by 28th of July] Add (3) as colour to graph
+5. [ ] [by 21st of July] Create similar graph for unpublished and report

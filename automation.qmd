@@ -85,14 +85,55 @@ cited_by_kp <- lapply(
 )
 names(cited_by_kp) <- ids
 
-## get the snowball data
-snowball <- oa_snowball(
-    identifier = ids,
-    verbose = FALSE
-)
+if (file.exists("snowball.rds")) {
+    snowball <- readRDS("snowball.rds")
+} else {
+    snowball <- oa_snowball(
+        identifier = ids,
+        verbose = FALSE
+    )
+    saveRDS(snowball, "snowball.rds")
+}
 
-flat_snow <- snowball2df(snowball)
+flat_snow <- snowball2df(snowball) |>
+as_tibble()
 ```
+
+### Save snowball as Excel file (`.csv)
+
+```{r}
+export <- flat_snow |>
+    select(
+        id,
+        publication_year,
+        display_name,
+        doi,
+        cited_by_count,
+        ab
+    )
+export$author <- sapply(
+    flat_snow$author,
+    function(z) {
+        paste(unlist(z["au_display_name"]), collapse = ", ")
+    }
+)
+export$citing <- sapply(
+    flat_snow$author,
+    function(z) {
+        paste(unlist(z["au_display_name"]), collapse = ", ")
+    }
+)
+export |>
+    dplyr::relocate(author, .after = id) |>
+    arrange(desc(cited_by_count)) |>
+    write.csv("snowball_excel.csv")
+
+## Manual editing line 298 necessary!!!!
+
+```
+
+
+
 
 ### Graph of links between references
 
