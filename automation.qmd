@@ -19,22 +19,22 @@ format:
 # Setup
 ```{r}
 #| label: setup
-#| 
+#|
 
 library(bibtex)
 library(openalexR)
-
-#library(dplyr)
-#library(ggplot2)
-#library(knitr)
+library(writexl)
+# library(dplyr)
+# library(ggplot2)
+# library(knitr)
 
 kp <- bibtex::read.bib("./key-paper.bib")
 dois <- sapply(
-    kp, 
-    function(x){
+    kp,
+    function(x) {
         x$doi
     }
-    )
+)
 
 ```
 
@@ -46,7 +46,7 @@ dois <- sapply(
 
 ```{r}
 #| label: openalex_prep
-#| 
+#|
 
 library(ggraph)
 library(tidygraph)
@@ -96,12 +96,56 @@ if (file.exists("snowball.rds")) {
 }
 
 flat_snow <- snowball2df(snowball) |>
-as_tibble()
+    as_tibble()
 ```
 
-### Save snowball as Excel file (`.csv)
+### Save snowball as Excel file (`snowball_excel.xlsx`)
 
 ```{r}
+###
+no_edges <- snowball$edges |>
+    unlist() |>
+    table() |>
+    sort() |>
+    as.data.frame() |>
+    rename(
+        local_cites = Freq,
+        id = Var1
+    )
+
+###
+no_referenced_works <- sapply(
+    snowball$node["referenced_works"][[1]],
+    length
+)
+
+no_referenced_works <- data.frame(
+    id = snowball$node["id"],
+    no_referenced_works = no_referenced_works
+)
+
+###
+citations_per_year <- flat_snow |>
+    select(
+        id,
+        publication_year,
+        cited_by_count
+    ) |>
+    mutate(
+        years_published = 2023 - publication_year
+    ) |>
+    mutate(
+        avg_citations_per_year = cited_by_count / years_published
+    ) |>
+    arrange(desc(cited_by_count)) |>
+    select(
+        id,
+        avg_citations_per_year
+    ) |>
+    rename(cited_global_per_year = avg_citations_per_year)
+
+###
+
 export <- flat_snow |>
     select(
         id,
@@ -110,26 +154,39 @@ export <- flat_snow |>
         doi,
         cited_by_count,
         ab
+    ) |>
+    rename(
+        cited_global = cited_by_count,
+        title = display_name,
+        abstract = ab
     )
+
+
 export$author <- sapply(
     flat_snow$author,
     function(z) {
         paste(unlist(z["au_display_name"]), collapse = ", ")
     }
 )
-export$citing <- sapply(
-    flat_snow$author,
-    function(z) {
-        paste(unlist(z["au_display_name"]), collapse = ", ")
-    }
-)
-export |>
+
+
+xlsx <- export |>
+    full_join(no_edges, by = "id") |>
+    full_join(no_referenced_works, by = "id") |>
+    full_join(citations_per_year, by = "id") |>
     dplyr::relocate(author, .after = id) |>
-    arrange(desc(cited_by_count)) |>
-    write.csv("snowball_excel.csv")
+    arrange(desc(cited_global))
 
-## Manual editing line 298 necessary!!!!
+la <- xlsx$abstract |>
+    nchar() >= 3000
 
+xlsx$abstract[la] <- substr(xlsx$abstract[la], 1, 3000)
+
+xlsx |>
+    dplyr::relocate(cited_global_per_year, .after = cited_global) |>
+    dplyr::relocate(no_referenced_works, .after = doi) |>
+    dplyr::relocate(local_cites, .before = abstract) |>
+    writexl::write_xlsx("snowball_excel.xlsx")
 ```
 
 
@@ -139,9 +196,37 @@ export |>
 
 ```{r}
 #| label: openalex_graph
-#| 
+#|
 
-ggraph(graph = as_tbl_graph(snowball), layout = "stress") +
+
+snowball$nodes$cited_by_count_by_year <- snowball$nodes$cited_by_count / (2024 - snowball$nodes$publication_year)
+
+### Size cited_by_count_by_year
+p_cby <- snowball |>
+    as_tbl_graph() |>
+    ggraph(graph = , layout = "stress") +
+    geom_edge_link(aes(alpha = after_stat(index)), show.legend = FALSE) +
+    geom_node_point(aes(fill = oa_input, size = cited_by_count_by_year), shape = 21, color = "white") +
+    geom_node_label(aes(filter = oa_input, label = id), nudge_y = 0.2, size = 3) +
+    scale_edge_width(range = c(0.1, 1.5), guide = "none") +
+    scale_size(range = c(3, 10), guide = "none") +
+    scale_fill_manual(values = c("#a3ad62", "#d46780"), na.value = "grey", name = "") +
+    theme_graph() +
+    theme(
+        plot.background = element_rect(fill = "transparent", colour = NA),
+        panel.background = element_rect(fill = "transparent", colour = NA),
+        legend.position = "bottom"
+    ) +
+    guides(fill = "none") +
+    ggtitle("Cited by average count per year")
+
+ggsave("cited_by_count_by_year.pdf", plot = p_cby, device = cairo_pdf, width = 20, height = 15)
+ggsave("cited_by_count_by_year.png", plot = p_cby, width = 20, height = 15, bg = "white")
+
+### Size cited_by_count
+p_cb <- snowball |>
+    as_tbl_graph() |>
+    ggraph(graph = , layout = "stress") +
     geom_edge_link(aes(alpha = after_stat(index)), show.legend = FALSE) +
     geom_node_point(aes(fill = oa_input, size = cited_by_count), shape = 21, color = "white") +
     geom_node_label(aes(filter = oa_input, label = id), nudge_y = 0.2, size = 3) +
@@ -154,7 +239,11 @@ ggraph(graph = as_tbl_graph(snowball), layout = "stress") +
         panel.background = element_rect(fill = "transparent", colour = NA),
         legend.position = "bottom"
     ) +
-    guides(fill = "none")
+    guides(fill = "none") +
+    ggtitle("Cited by count")
+
+ggsave("cited_by_count.pdf", plot = p_cb, device = cairo_pdf, width = 20, height = 15)
+ggsave("cited_by_count.png", plot = p_cb, width = 20, height = 15, bg = "white")
 
 ```
 
@@ -164,8 +253,8 @@ This is the number of connections (`connection_count)`of the paper (`id`)
 
 ```{r}
 #| label: openalex_edgecount
-#| 
-    
+#|
+
 mult_edge <- flat_snow |>
     select(id, connection_count) |>
     filter(connection_count > 1) |>
