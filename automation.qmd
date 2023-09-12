@@ -3,15 +3,18 @@ title: "Snowball Search and global quantification of the references"
 format:
     html:
         toc: true
+        toc-depth: 2
         embed-resources: true
         code-fold: true
         code-summary: "Show the code"
     docx:
         toc: true
+        toc-depth: 2
         number-sections: true
         highlight-style: github
     pdf:
         toc: true
+        toc-depth: 2
         number-sections: true
 
 ---
@@ -102,6 +105,9 @@ flat_snow <- snowball2df(snowball) |>
 ### Save snowball as Excel file (`snowball_excel.xlsx`)
 
 ```{r}
+#| label: openalex_excel
+#| 
+
 ###
 no_edges <- snowball$edges |>
     unlist() |>
@@ -109,7 +115,7 @@ no_edges <- snowball$edges |>
     sort() |>
     as.data.frame() |>
     rename(
-        local_cites = Freq,
+        no_connections = Freq,
         id = Var1
     )
 
@@ -170,6 +176,103 @@ export$author <- sapply(
 )
 
 
+export$author_institute <- sapply(
+    flat_snow$author,
+    function(z) {
+        paste(unlist(z["institution_display_name"]), collapse = ", ")
+    }
+)
+
+
+export$institute_country <- sapply(
+    flat_snow$author,
+    function(z) {
+        paste(unlist(z["institution_country_code"]), collapse = ", ")
+    }
+)
+
+
+concepts <- lapply(
+    flat_snow$concepts,
+    function(x){
+        x |> 
+        select(level, display_name, score)
+    }
+)
+
+export$concepts_l0  <- sapply(
+    concepts,
+    function(x) {
+       x |>
+       filter(level == 0) |>
+       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
+       select(name) |>
+       unlist() |>
+       paste0(collapse = ", ")
+    }
+)
+
+export$concepts_l1  <- sapply(
+    concepts,
+    function(x) {
+       x |>
+       filter(level == 1) |>
+       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
+       select(name) |>
+       unlist() |>
+       paste0(collapse = ", ")
+    }
+)
+
+export$concepts_l2  <- sapply(
+    concepts,
+    function(x) {
+       x |>
+       filter(level == 2) |>
+       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
+       select(name) |>
+       unlist() |>
+       paste0(collapse = ", ")
+    }
+)
+
+export$concepts_l3  <- sapply(
+    concepts,
+    function(x) {
+       x |>
+       filter(level == 3) |>
+       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
+       select(name) |>
+       unlist() |>
+       paste0(collapse = ", ")
+    }
+)
+
+export$concepts_l4  <- sapply(
+    concepts,
+    function(x) {
+       x |>
+       filter(level == 4) |>
+       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
+       select(name) |>
+       unlist() |>
+       paste0(collapse = ", ")
+    }
+)
+
+export$concepts_l5  <- sapply(
+    concepts,
+    function(x) {
+       x |>
+       filter(level == 5) |>
+       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
+       select(name) |>
+       unlist() |>
+       paste0(collapse = ", ")
+    }
+)
+
+
 xlsx <- export |>
     full_join(no_edges, by = "id") |>
     full_join(no_referenced_works, by = "id") |>
@@ -185,19 +288,23 @@ xlsx$abstract[la] <- substr(xlsx$abstract[la], 1, 3000)
 xlsx |>
     dplyr::relocate(cited_global_per_year, .after = cited_global) |>
     dplyr::relocate(no_referenced_works, .after = doi) |>
-    dplyr::relocate(local_cites, .before = abstract) |>
-    writexl::write_xlsx("snowball_excel.xlsx")
+    dplyr::relocate(no_connections, .before = abstract) |>
+    dplyr::relocate(concepts_l0, .before = abstract) |>
+    dplyr::relocate(concepts_l1, .before = abstract) |>
+    dplyr::relocate(concepts_l2, .before = abstract) |>
+    dplyr::relocate(concepts_l3, .before = abstract) |>
+    dplyr::relocate(concepts_l4, .before = abstract) |>
+    dplyr::relocate(concepts_l5, .before = abstract) |>
+    dplyr::relocate(author_institute, .before = abstract) |>
+    dplyr::relocate(institute_country, .before = abstract) |>
+    writexl::write_xlsx(file.path(".", "data", "snowball_excel.xlsx"))
 ```
-
-
-
 
 ### Graph of links between references
 
 ```{r}
 #| label: openalex_graph
 #|
-
 
 snowball$nodes$cited_by_count_by_year <- snowball$nodes$cited_by_count / (2024 - snowball$nodes$publication_year)
 
@@ -277,7 +384,10 @@ OpenAlex assigns all works concepts. The concepts are in hirarchical order, rang
 
 #### Level 0
 ```{r}
-lapply(
+#| label: l0
+#| 
+
+x <- lapply(
     flat_snow[["concepts"]],
     FUN = function(x) {
         x[["display_name"]][x[["level"]] == 0]
@@ -285,13 +395,24 @@ lapply(
 ) |>
     unlist() |>
     table() |>
-    sort(decreasing = TRUE) |>
-    knitr::kable()
+    as.data.frame() |> 
+    rename(
+        l0_concept = Var1,
+        count = Freq
+    ) |>
+    arrange(desc(count))
+
+writexl::write_xlsx(x, file.path(".", "data", "concepts_l0.xlsx"))
+
+knitr::kable(x)
 ```
 
 #### Level 1
 ```{r}
-lapply(
+#| label: l1
+#| 
+
+x <- lapply(
     flat_snow[["concepts"]],
     function(x) {
         x[["display_name"]][x[["level"]] == 1]
@@ -299,14 +420,25 @@ lapply(
 ) |>
     unlist() |>
     table() |>
-    sort(decreasing = TRUE) |>
-    knitr::kable()
+    as.data.frame() |> 
+    rename(
+        l1_concept = Var1,
+        count = Freq
+    ) |>
+    arrange(desc(count))
+    
+writexl::write_xlsx(x, file.path(".", "data", "concepts_l1.xlsx"))
+
+knitr::kable(x)
 ```
 
 #### Level 2
 
 ```{r}
-lapply(
+#| label: l2
+#| 
+
+x <- lapply(
     flat_snow[["concepts"]],
     function(x) {
         x[["display_name"]][x[["level"]] == 2]
@@ -314,14 +446,25 @@ lapply(
 ) |>
     unlist() |>
     table() |>
-    sort(decreasing = TRUE) |>
-    knitr::kable()
+    as.data.frame() |> 
+    rename(
+        l2_concept = Var1,
+        count = Freq
+    ) |>
+    arrange(desc(count))
+    
+writexl::write_xlsx(x, file.path(".", "data", "concepts_l2.xlsx"))
+
+knitr::kable(x)
 ```
 
 #### Level 3
 
 ```{r}
-lapply(
+#| label: l3
+#| 
+
+x <- lapply(
     flat_snow[["concepts"]],
     function(x) {
         x[["display_name"]][x[["level"]] == 3]
@@ -329,7 +472,67 @@ lapply(
 ) |>
     unlist() |>
     table() |>
-    sort(decreasing = TRUE) |>
-    knitr::kable()
+    as.data.frame() |> 
+    rename(
+        l3_concept = Var1,
+        count = Freq
+    ) |>
+    arrange(desc(count))
+    
+writexl::write_xlsx(x, file.path(".", "data", "concepts_l3.xlsx"))
+
+knitr::kable(x)
+```
+
+#### Level 4
+
+```{r}
+#| label: l4
+#| 
+
+x <- lapply(
+    flat_snow[["concepts"]],
+    function(x) {
+        x[["display_name"]][x[["level"]] == 4]
+    }
+) |>
+    unlist() |>
+    table() |>
+    as.data.frame() |> 
+    rename(
+        l4_concept = Var1,
+        count = Freq
+    ) |>
+    arrange(desc(count))
+    
+writexl::write_xlsx(x, file.path(".", "data", "concepts_l4.xlsx"))
+    
+knitr::kable(x)
+```
+
+#### Level 5
+
+```{r}
+#| label: l5
+#| 
+
+x <- lapply(
+    flat_snow[["concepts"]],
+    function(x) {
+        x[["display_name"]][x[["level"]] == 5]
+    }
+) |>
+    unlist() |>
+    table() |>
+    as.data.frame() |> 
+    rename(
+        l5_concept = Var1,
+        count = Freq
+    ) |>
+    arrange(desc(count))
+    
+writexl::write_xlsx(x, file.path(".", "data", "concepts_l5.xlsx"))
+
+knitr::kable(x)
 ```
 
