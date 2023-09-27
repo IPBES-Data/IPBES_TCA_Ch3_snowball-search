@@ -16,7 +16,6 @@ format:
         toc: true
         toc-depth: 2
         number-sections: true
-
 ---
 
 # Setup
@@ -351,8 +350,8 @@ p_cb <- snowball |>
 
 ggsave("cited_by_count.pdf", plot = p_cb, device = cairo_pdf, width = 20, height = 15)
 ggsave("cited_by_count.png", plot = p_cb, width = 20, height = 15, bg = "white")
-
 ```
+![Cited by count](cited_by_count.png)
 
 ### Identification of references with more than one edge
 
