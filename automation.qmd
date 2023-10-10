@@ -26,7 +26,8 @@ format:
 library(bibtex)
 library(openalexR)
 library(writexl)
-# library(dplyr)
+library(tibble)
+library(dplyr)
 # library(ggplot2)
 # library(knitr)
 
@@ -49,7 +50,7 @@ dois <- sapply(
 ```{r}
 #| label: openalex_prep
 #|
-
+library(IPBES.R)
 library(ggraph)
 library(tidygraph)
 
@@ -98,7 +99,7 @@ if (file.exists("snowball.rds")) {
 }
 
 flat_snow <- snowball2df(snowball) |>
-    as_tibble()
+    tibble::as_tibble()
 ```
 
 ### Save snowball as Excel file (`snowball_excel.xlsx`)
@@ -106,197 +107,7 @@ flat_snow <- snowball2df(snowball) |>
 ```{r}
 #| label: openalex_excel
 #| 
-
-###
-no_edges <- snowball$edges |>
-    unlist() |>
-    table() |>
-    sort() |>
-    as.data.frame() |>
-    rename(
-        no_connections = Freq,
-        id = Var1
-    )
-
-###
-no_referenced_works <- sapply(
-    snowball$node["referenced_works"][[1]],
-    length
-)
-
-no_referenced_works <- data.frame(
-    id = snowball$node["id"],
-    no_referenced_works = no_referenced_works
-)
-
-###
-citations_per_year <- flat_snow |>
-    select(
-        id,
-        publication_year,
-        cited_by_count
-    ) |>
-    mutate(
-        years_published = 2023 - publication_year
-    ) |>
-    mutate(
-        avg_citations_per_year = cited_by_count / years_published
-    ) |>
-    arrange(desc(cited_by_count)) |>
-    select(
-        id,
-        avg_citations_per_year
-    ) |>
-    rename(cited_global_per_year = avg_citations_per_year)
-
-###
-
-export <- flat_snow |>
-    select(
-        id,
-        publication_year,
-        display_name,
-        doi,
-        cited_by_count,
-        ab
-    ) |>
-    rename(
-        cited_global = cited_by_count,
-        title = display_name,
-        abstract = ab
-    )
-
-
-export$author <- sapply(
-    flat_snow$author,
-    function(z) {
-        paste(unlist(z["au_display_name"]), collapse = ", ")
-    }
-)
-
-
-export$author_institute <- sapply(
-    flat_snow$author,
-    function(z) {
-        paste(unlist(z["institution_display_name"]), collapse = ", ")
-    }
-)
-
-
-export$institute_country <- sapply(
-    flat_snow$author,
-    function(z) {
-        paste(unlist(z["institution_country_code"]), collapse = ", ")
-    }
-)
-
-
-concepts <- lapply(
-    flat_snow$concepts,
-    function(x){
-        x |> 
-        select(level, display_name, score)
-    }
-)
-
-export$concepts_l0  <- sapply(
-    concepts,
-    function(x) {
-       x |>
-       filter(level == 0) |>
-       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
-       select(name) |>
-       unlist() |>
-       paste0(collapse = ", ")
-    }
-)
-
-export$concepts_l1  <- sapply(
-    concepts,
-    function(x) {
-       x |>
-       filter(level == 1) |>
-       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
-       select(name) |>
-       unlist() |>
-       paste0(collapse = ", ")
-    }
-)
-
-export$concepts_l2  <- sapply(
-    concepts,
-    function(x) {
-       x |>
-       filter(level == 2) |>
-       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
-       select(name) |>
-       unlist() |>
-       paste0(collapse = ", ")
-    }
-)
-
-export$concepts_l3  <- sapply(
-    concepts,
-    function(x) {
-       x |>
-       filter(level == 3) |>
-       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
-       select(name) |>
-       unlist() |>
-       paste0(collapse = ", ")
-    }
-)
-
-export$concepts_l4  <- sapply(
-    concepts,
-    function(x) {
-       x |>
-       filter(level == 4) |>
-       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
-       select(name) |>
-       unlist() |>
-       paste0(collapse = ", ")
-    }
-)
-
-export$concepts_l5  <- sapply(
-    concepts,
-    function(x) {
-       x |>
-       filter(level == 5) |>
-       mutate(name = paste0(display_name, " (", round(score, digits = 3), ")")) |>
-       select(name) |>
-       unlist() |>
-       paste0(collapse = ", ")
-    }
-)
-
-
-xlsx <- export |>
-    full_join(no_edges, by = "id") |>
-    full_join(no_referenced_works, by = "id") |>
-    full_join(citations_per_year, by = "id") |>
-    dplyr::relocate(author, .after = id) |>
-    arrange(desc(cited_global))
-
-la <- xlsx$abstract |>
-    nchar() >= 3000
-
-xlsx$abstract[la] <- substr(xlsx$abstract[la], 1, 3000)
-
-xlsx |>
-    dplyr::relocate(cited_global_per_year, .after = cited_global) |>
-    dplyr::relocate(no_referenced_works, .after = doi) |>
-    dplyr::relocate(no_connections, .before = abstract) |>
-    dplyr::relocate(concepts_l0, .before = abstract) |>
-    dplyr::relocate(concepts_l1, .before = abstract) |>
-    dplyr::relocate(concepts_l2, .before = abstract) |>
-    dplyr::relocate(concepts_l3, .before = abstract) |>
-    dplyr::relocate(concepts_l4, .before = abstract) |>
-    dplyr::relocate(concepts_l5, .before = abstract) |>
-    dplyr::relocate(author_institute, .before = abstract) |>
-    dplyr::relocate(institute_country, .before = abstract) |>
-    writexl::write_xlsx(file.path(".", "data", "snowball_excel.xlsx"))
+IPBES.R::to_xlsx(snowball, file.path(".", "data", "snowball_.xlsx"))
 ```
 
 ### Graph of links between references
@@ -307,51 +118,47 @@ xlsx |>
 
 snowball$nodes$cited_by_count_by_year <- snowball$nodes$cited_by_count / (2024 - snowball$nodes$publication_year)
 
-### Size cited_by_count_by_year
-p_cby <- snowball |>
-    as_tbl_graph() |>
-    ggraph(graph = , layout = "stress") +
-    geom_edge_link(aes(alpha = after_stat(index)), show.legend = FALSE) +
-    geom_node_point(aes(fill = oa_input, size = cited_by_count_by_year), shape = 21, color = "white") +
-    geom_node_label(aes(filter = oa_input, label = id), nudge_y = 0.2, size = 3) +
-    scale_edge_width(range = c(0.1, 1.5), guide = "none") +
-    scale_size(range = c(3, 10), guide = "none") +
-    scale_fill_manual(values = c("#a3ad62", "#d46780"), na.value = "grey", name = "") +
-    theme_graph() +
-    theme(
-        plot.background = element_rect(fill = "transparent", colour = NA),
-        panel.background = element_rect(fill = "transparent", colour = NA),
-        legend.position = "bottom"
-    ) +
-    guides(fill = "none") +
-    ggtitle("Cited by average count per year")
-
-ggsave("cited_by_count_by_year.pdf", plot = p_cby, device = cairo_pdf, width = 20, height = 15)
-ggsave("cited_by_count_by_year.png", plot = p_cby, width = 20, height = 15, bg = "white")
-
-### Size cited_by_count
-p_cb <- snowball |>
-    as_tbl_graph() |>
-    ggraph(graph = , layout = "stress") +
-    geom_edge_link(aes(alpha = after_stat(index)), show.legend = FALSE) +
-    geom_node_point(aes(fill = oa_input, size = cited_by_count), shape = 21, color = "white") +
-    geom_node_label(aes(filter = oa_input, label = id), nudge_y = 0.2, size = 3) +
-    scale_edge_width(range = c(0.1, 1.5), guide = "none") +
-    scale_size(range = c(3, 10), guide = "none") +
-    scale_fill_manual(values = c("#a3ad62", "#d46780"), na.value = "grey", name = "") +
-    theme_graph() +
-    theme(
-        plot.background = element_rect(fill = "transparent", colour = NA),
-        panel.background = element_rect(fill = "transparent", colour = NA),
-        legend.position = "bottom"
-    ) +
-    guides(fill = "none") +
-    ggtitle("Cited by count")
-
-ggsave("cited_by_count.pdf", plot = p_cb, device = cairo_pdf, width = 20, height = 15)
-ggsave("cited_by_count.png", plot = p_cb, width = 20, height = 15, bg = "white")
+tmp <- IPBES.R::plot_snowball(snowball, name = "snowball", path = "figures")
 ```
-![Cited by count](cited_by_count.png)
+![Cited by count](figures/snowball_cited_by_count.png)
+
+### Supplemented by edges between all papers
+
+```{r}
+#| label: openalex_supplement
+#| 
+
+new_edges <- tibble(
+    from = character(0),
+    to = character(0)
+)
+
+works <- snowball$nodes$id
+
+for (i in 1:nrow(snowball$nodes)) {
+    from <- works[[i]]
+ to <- gsub("https://openalex.org/", "", snowball$nodes$referenced_works[[i]])
+    to_in_works <- to[to %in% works]
+    if (length(to_in_works) > 0) {
+        new_edges <- add_row(
+            new_edges,
+            tibble(
+                from = from,
+                to = to_in_works
+            )
+        )
+    }
+}
+
+snowball_supplemented <- snowball
+snowball_supplemented$edges <- add_row(snowball_supplemented$edges, new_edges) |>
+    distinct()
+
+IPBES.R::plot_snowball(snowball_supplemented, name = "snowball_supplemented", path = "figures")
+
+IPBES.R::to_xlsx(snowball_supplemented, file.path(".", "data", "snowball_supplemented.xlsx"))
+```
+![Supplemented Cited by count](figures/snowball_supplemented_cited_by_count.png)
 
 ### Identification of references with more than one edge
 
