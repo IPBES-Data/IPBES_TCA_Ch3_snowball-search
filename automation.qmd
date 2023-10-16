@@ -7,15 +7,6 @@ format:
         embed-resources: true
         code-fold: true
         code-summary: "Show the code"
-    docx:
-        toc: true
-        toc-depth: 2
-        number-sections: true
-        highlight-style: github
-    pdf:
-        toc: true
-        toc-depth: 2
-        number-sections: true
 ---
 
 # Setup
@@ -28,6 +19,10 @@ library(openalexR)
 library(writexl)
 library(tibble)
 library(dplyr)
+library(IPBES.R)
+library(ggraph)
+library(tidygraph)
+
 # library(ggplot2)
 # library(knitr)
 
@@ -50,9 +45,6 @@ dois <- sapply(
 ```{r}
 #| label: openalex_prep
 #|
-library(IPBES.R)
-library(ggraph)
-library(tidygraph)
 
 key_works <- oa_fetch(
     entity = "works",
@@ -62,52 +54,64 @@ key_works <- oa_fetch(
 
 ids <- openalexR:::shorten_oaid(key_works$id)
 
-citing_kp <- lapply(
-    ids,
-    function(id) {
-        oa_fetch(
-            entity = "works",
-            output = "tibble",
-            cites = id,
-            verbose = FALSE
-        )
-    }
-)
-names(citing_kp) <- ids
+# citing_kp <- lapply(
+#     ids,
+#     function(id) {
+#         oa_fetch(
+#             entity = "works",
+#             output = "tibble",
+#             cites = id,
+#             verbose = FALSE
+#         )
+#     }
+# )
+# names(citing_kp) <- ids
 
-cited_by_kp <- lapply(
-    ids,
-    function(id) {
-        oa_fetch(
-            entity = "works",
-            output = "tibble",
-            cited_by = id,
-            verbose = FALSE
-        )
-    }
-)
-names(cited_by_kp) <- ids
+# cited_by_kp <- lapply(
+#     ids,
+#     function(id) {
+#         oa_fetch(
+#             entity = "works",
+#             output = "tibble",
+#             cited_by = id,
+#             verbose = FALSE
+#         )
+#     }
+# )
+# names(cited_by_kp) <- ids
 
-if (file.exists("snowball.rds")) {
-    snowball <- readRDS("snowball.rds")
+fn <- file.path("data", "snowball.rds")
+if (file.exists(fn)) {
+    snowball <- readRDS(fn)
 } else {
     snowball <- oa_snowball(
         identifier = ids,
         verbose = FALSE
     )
-    saveRDS(snowball, "snowball.rds")
+    saveRDS(snowball, fn)
 }
 
 flat_snow <- snowball2df(snowball) |>
     tibble::as_tibble()
+
+key_works_cit <- list(
+    c(cit = "Fisher et al. 2022", id = "W4220786370"),
+    c(cit = "Patterson et al. 2017", id = "W2520670351"),
+    c(cit = "Feola et al. 2015", id = "W2020319093"),
+    c(cit = "Loorbach et al. 2017", id = "W2204133637"),
+    c(cit = "Scoones et al. 2020", id = "W3001406994"),
+    c(cit = "Evans et al. 2023", id = "W4379647013")
+)
 ```
 
 ### Save snowball as Excel file (`snowball_excel.xlsx`)
 
 ```{r}
 #| label: openalex_excel
-#| 
-IPBES.R::to_xlsx(snowball, file.path(".", "data", "snowball_.xlsx"))
+fn <- file.path(".", "data", "snowball_.xlsx")
+if (!file.exists(fn)){
+    IPBES.R::to_xlsx(snowball, fn)
+}
 ```
 
 ### Graph of links between references
@@ -118,7 +122,16 @@ IPBES.R::to_xlsx(snowball, file.path(".", "data", "snowball_.xlsx"))
 
 snowball$nodes$cited_by_count_by_year <- snowball$nodes$cited_by_count / (2024 - snowball$nodes$publication_year)
 
-tmp <- IPBES.R::plot_snowball(snowball, name = "snowball", path = "figures")
+snowball_p <- snowball
+
+for (i in seq_along(key_works_cit)) {
+    snowball_p$nodes$id[snowball_p$nodes$id %in% key_works_cit[[i]]["id"]] <- key_works_cit[[i]]["cit"]
+    snowball_p$edges$from[snowball_p$edges$from %in% key_works_cit[[i]]["id"]] <- key_works_cit[[i]]["cit"]
+    snowball_p$edges$to[snowball_p$edges$to %in% key_works_cit[[i]]["id"]] <- key_works_cit[[i]]["cit"]
+}
+
+IPBES.R::plot_snowball(snowball_p, name = "snowball", path = "figures")
+rm(snowball_p)
 ```
 ![Cited by count](figures/snowball_cited_by_count.png)
 
@@ -128,35 +141,52 @@ tmp <- IPBES.R::plot_snowball(snowball, name = "snowball", path = "figures")
 #| label: openalex_supplement
 #| 
 
-new_edges <- tibble(
-    from = character(0),
-    to = character(0)
-)
+fn <- file.path("data", "snowball_supplemented.rds")
+if (file.exists(fn)) {
+    snowball_supplemented <- readRDS(fn)
+} else {
+    new_edges <- tibble(
+        from = character(0),
+        to = character(0)
+    )
 
-works <- snowball$nodes$id
+    works <- snowball$nodes$id
 
-for (i in 1:nrow(snowball$nodes)) {
-    from <- works[[i]]
- to <- gsub("https://openalex.org/", "", snowball$nodes$referenced_works[[i]])
-    to_in_works <- to[to %in% works]
-    if (length(to_in_works) > 0) {
-        new_edges <- add_row(
-            new_edges,
-            tibble(
-                from = from,
-                to = to_in_works
+    for (i in 1:nrow(snowball$nodes)) {
+        from <- works[[i]]
+        to <- gsub("https://openalex.org/", "", snowball$nodes$referenced_works[[i]])
+        to_in_works <- to[to %in% works]
+        if (length(to_in_works) > 0) {
+            new_edges <- add_row(
+                new_edges,
+                tibble(
+                    from = from,
+                    to = to_in_works
+                )
             )
-        )
+        }
     }
+
+    snowball_supplemented <- snowball
+    snowball_supplemented$edges <- add_row(snowball_supplemented$edges, new_edges) |>
+        distinct()
+}
+snowball_p <- snowball_supplemented
+
+for (i in seq_along(key_works_cit)) {
+    snowball_p$nodes$id[snowball_p$nodes$id %in% key_works_cit[[i]]["id"]] <- key_works_cit[[i]]["cit"]
+    snowball_p$edges$from[snowball_p$edges$from %in% key_works_cit[[i]]["id"]] <- key_works_cit[[i]]["cit"]
+    snowball_p$edges$to[snowball_p$edges$to %in% key_works_cit[[i]]["id"]] <- key_works_cit[[i]]["cit"]
 }
 
-snowball_supplemented <- snowball
-snowball_supplemented$edges <- add_row(snowball_supplemented$edges, new_edges) |>
-    distinct()
+IPBES.R::plot_snowball(snowball_p, name = "snowball_supplemented", path = "figures")
 
-IPBES.R::plot_snowball(snowball_supplemented, name = "snowball_supplemented", path = "figures")
+rm(snowball_p)
 
-IPBES.R::to_xlsx(snowball_supplemented, file.path(".", "data", "snowball_supplemented.xlsx"))
+fn <- file.path(".", "data", "snowball_supplemented.xlsx")
+if (!file.exists(fn)){
+    IPBES.R::to_xlsx(snowball_supplemented, file.path(".", "data", "snowball_supplemented.xlsx"))
+}
 ```
 ![Supplemented Cited by count](figures/snowball_supplemented_cited_by_count.png)
 
@@ -342,3 +372,30 @@ writexl::write_xlsx(x, file.path(".", "data", "concepts_l5.xlsx"))
 knitr::kable(x)
 ```
 
+
+# Get number of papers cited by keypapers
+```{r}
+keypapers <- c("W4379647013", "W4220786370", "W2020319093", "W3001406994", "W2520670351", "W2204133637")
+snowball$edges |>
+    filter(from %in% keypapers) |>
+    select(from) |>
+    table() |>
+    sum()
+
+snowball$edges |>
+    filter(from %in% keypapers) |>
+    select(to) |>
+    unique() |>
+    table() |>
+    sum()
+```
+
+
+# TODO
+iGraph clustering of the snowball graph and especially snowball_supplemented graph
+
+https://stackoverflow.com/questions/44372499/igraph-split-graph-into-clusters
+
+https://rdocumentation.org/packages/igraph/versions/1.3.5/topics/cluster_edge_betweenness
+
+https://stackoverflow.com/questions/53249609/r-igraph-plot-communies-and-selectively-highlight-some
