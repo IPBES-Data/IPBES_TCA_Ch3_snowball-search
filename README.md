@@ -8,15 +8,13 @@ This repository is part of an ongoing IPBES project.
 
 The authors do not take any responsibility for it's copntent or the correct working of the code. If scripts in here wipe your data, you are on your own.
 
-Nevertheless, please feel free to browse the code and re-use it at your own risk. 
+Nevertheless, please feel free to browse the code and re-use it at your own risk.
 
-Once finalised, the final repo will be published on Zenodo 
+Once finalised, the final repo will be published on Zenodo
+
 - LICENSE?
 
-
-
 The info in `% %` need to be changed to the appropriate values. In addition, the empty fields need to be filled in.
-
 
 ## Metadata
 
@@ -27,7 +25,7 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 
 - **Status**: waiting for response
 
-- **Assigned To**: Rainer ,Rainer.Krug@senckenberg.de> <Rainer@krugs.de>
+- **Assigned To**: Rainer ,<Rainer.Krug@senckenberg.de>> <Rainer@krugs.de>
 
 - **email to**:
   - [Catherine Sabinot](catherine.sabinot@ird.fr)
@@ -35,10 +33,10 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 - **email cc**:
   - [Zuhre Aksoy](zuhre.aksoy@boun.edu.tr)
   - [Andressa](andressavmansur@gmail.com)
-  - [TfC tsu](ipbes-tsu-transformative-change@umontpellier.fr)
+  - [TCA tsu](ipbes-tsu-transformative-change@umontpellier.fr)
   - ...
 
-- **Github Repo**: [IPBES_TFC_Ch3_snowball-search](https://github.com/IPBES-Data/IPBES_TFC_Ch3_snowball-search)
+- **Github Repo**: [IPBES_TCA_Ch3_snowball-search](https://github.com/IPBES-Data/IPBES_TCA_Ch3_snowball-search)
 - **Google Drive Folder**: [Google Drive Folder](https://drive.google.com/drive/folders/1Byjj-2K-tzcgemw4_kMiM0gGWAfoPtVs)
 
 ## Project Description
@@ -47,12 +45,12 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 - objectives
 - expected product
 
-
 ## Status
+
 - ...
 
-
 ## Reports
+
 - [Snowball results](automation.html)
 - [Report](Report.html)
 - [High-Resolution Figures](cited_by_count_by_year.pdf)

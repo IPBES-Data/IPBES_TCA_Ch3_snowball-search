@@ -11,7 +11,7 @@ format:
 
 # Forward - Backward search of literature based on key papers
 
-# Working Title:TfC Ch 3 Team 1
+# Working Title:TCA Ch 3 Team 1
 
 ## Contact Points
 
@@ -20,7 +20,7 @@ format:
 ### cc
     - [Zuhre Aksoy](zuhre.aksoy@boun.edu.tr)
     - [Andressa](andressavmansur@gmail.com)
-    - [TfC tsu](ipbes-tsu-transformative-change@umontpellier.fr)
+    - [TCA tsu](ipbes-tsu-transformative-change@umontpellier.fr)
 
 # Approach
 The authors provided a list of four key-references:
