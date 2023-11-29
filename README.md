@@ -51,6 +51,11 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 
 ## Reports
 
-- [Snowball results](automation.html)
-- [Report](Report.html)
-- [High-Resolution Figures](cited_by_count_by_year.pdf)
+- Data Management Reports
+  - [SOD](IPBES_TCA_Ch3_snowball_DMR_SOD.html)
+  - [TOD - TO BE ADDED](IPBES_TCA_Ch3_snowball_DMR_TOD.html)  
+  - [Final - TO BE ADDED](IPBES_TCA_Ch3_snowball_DMR_Final.pdf)
+- Intermediate Reports
+  - [Snowball results](automation.html)
+- Redundant Reports
+  - [Report](Report.html)
