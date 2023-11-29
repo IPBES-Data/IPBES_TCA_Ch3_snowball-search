@@ -1,6 +1,8 @@
-[![DOI](https://zenodo.org/badge/DOI/99.9999/zenodo.9999999.svg)](https://doi.org/99.9999/zenodo.9999999)
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10218647.svg)](https://doi.org/10.5281/zenodo.10218647)
+[![GitHub release](https://img.shields.io/github/release/IPBES-Data/IPBES_TCA_Ch3_snowball-search.svg)](https://github.com/IPBES-Data/IPBES_TCA_Ch3_snowball-search/releases/latest)
+[![GitHub commits since latest release](https://img.shields.io/github/commits-since/IPBES-Data/IPBES_TCA_Ch3_snowball-search/latest)](https://github.com/IPBES-Data/IPBES_TCA_Ch3_snowball-search/commits/main)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # Forward - Backward search of literature based on key papers
 
@@ -52,10 +54,10 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 ## Reports
 
 - Data Management Reports
-  - [SOD](IPBES_TCA_Ch3_snowball_DMR_SOD.html)
-  - [TOD - TO BE ADDED](IPBES_TCA_Ch3_snowball_DMR_TOD.html)  
-  - [Final - TO BE ADDED](IPBES_TCA_Ch3_snowball_DMR_Final.pdf)
+  - [SOD DOI](LINK TO DOI)
+  - [TOD DOI - TO BE ADDED](LINK TO DOI)  
+  - [Final DOI - TO BE ADDED](LINK TO DOI)
 - Intermediate Reports
-  - [Snowball results](automation.html)
+  - [Snowball results](IPBES_BBA_Ch3_snowball_DMP.html)
 - Redundant Reports
   - [Report](Report.html)
