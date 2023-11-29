@@ -53,11 +53,11 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 
 ## Reports
 
+- Reports
+  - [Snowball results](IPBES_BBA_Ch3_snowball_DMP.html)
 - Data Management Reports
   - [SOD DOI](LINK TO DOI)
   - [TOD DOI - TO BE ADDED](LINK TO DOI)  
   - [Final DOI - TO BE ADDED](LINK TO DOI)
-- Intermediate Reports
-  - [Snowball results](IPBES_BBA_Ch3_snowball_DMP.html)
 - Redundant Reports
   - [Report](Report.html)
