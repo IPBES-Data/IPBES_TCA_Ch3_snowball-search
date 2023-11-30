@@ -188,7 +188,7 @@ snowball$edges |>
 #| label: openalex_excel
 #| 
 
-fn <- file.path(".", "data", "snowball_.xlsx")
+fn <- file.path(".", "data", "snowball_excel.xlsx")
 if (!file.exists(fn)){
     IPBES.R::to_xlsx(snowball, fn)
 }
