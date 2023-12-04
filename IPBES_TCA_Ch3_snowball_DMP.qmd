@@ -302,6 +302,7 @@ if (!file.exists(fn)){
         arrange(desc(count))
 
     writexl::write_xlsx(x, file.path(".", "data", "concepts_l0.xlsx"))
+    saveRDS(x, fn)
 } else {
     x <- readRDS(fn)
 }
@@ -335,6 +336,7 @@ if (!file.exists(fn)){
         arrange(desc(count))
         
     writexl::write_xlsx(x, file.path(".", "data", "concepts_l1.xlsx"))
+    saveRDS(x, fn)
 } else {
     x <- readRDS(fn)
 }
@@ -368,6 +370,7 @@ if (!file.exists(fn)){
         arrange(desc(count))
         
     writexl::write_xlsx(x, file.path(".", "data", "concepts_l2.xlsx"))
+    saveRDS(x, fn)
 } else {
     x <- readRDS(fn)
 }
@@ -402,6 +405,7 @@ if (!file.exists(fn)){
         arrange(desc(count))
         
     writexl::write_xlsx(x, file.path(".", "data", "concepts_l3.xlsx"))
+    saveRDS(x, fn)
 } else {
     x <- readRDS(fn)
 }
@@ -436,6 +440,7 @@ if (!file.exists(fn)){
         arrange(desc(count))
         
     writexl::write_xlsx(x, file.path(".", "data", "concepts_l4.xlsx"))
+    saveRDS(x, fn)
 } else {
     x <- readRDS(fn)
 }
@@ -470,6 +475,7 @@ if (!file.exists(fn)){
         arrange(desc(count))
         
     writexl::write_xlsx(x, file.path(".", "data", "concepts_l5.xlsx"))
+    saveRDS(x, fn)
 } else {
     x <- readRDS(fn)
 }
