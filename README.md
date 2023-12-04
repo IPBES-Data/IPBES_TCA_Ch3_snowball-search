@@ -54,9 +54,9 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 ## Reports
 
 - Reports
-  - [Snowball results](IPBES_BBA_Ch3_snowball_DMP.html)
+  - [Snowball results](IPBES_TCA_Ch3_snowball_DMP.html)
 - Data Management Reports
-  - [SOD DOI](LINK TO DOI)
+  - [SOD DOI](https://doi.org/10.5281/zenodo.10218647)
   - [TOD DOI - TO BE ADDED](LINK TO DOI)  
   - [Final DOI - TO BE ADDED](LINK TO DOI)
 - Redundant Reports

@@ -283,22 +283,28 @@ OpenAlex assigns all works concepts. The concepts are in hirarchical order, rang
 #| label: l0
 #| 
 
-x <- lapply(
-    flat_snow[["concepts"]],
-    FUN = function(x) {
-        x[["display_name"]][x[["level"]] == 0]
-    }
-) |>
-    unlist() |>
-    table() |>
-    as.data.frame() |> 
-    rename(
-        l0_concept = Var1,
-        count = Freq
-    ) |>
-    arrange(desc(count))
+fn <- file.path("data", "concepts_l0.rds")
 
-writexl::write_xlsx(x, file.path(".", "data", "concepts_l0.xlsx"))
+if (!file.exists(fn)){
+    x <- lapply(
+        flat_snow[["concepts"]],
+        FUN = function(x) {
+            x[["display_name"]][x[["level"]] == 0]
+        }
+    ) |>
+        unlist() |>
+        table() |>
+        as.data.frame() |> 
+        rename(
+            l0_concept = Var1,
+            count = Freq
+        ) |>
+        arrange(desc(count))
+
+    writexl::write_xlsx(x, file.path(".", "data", "concepts_l0.xlsx"))
+} else {
+    x <- readRDS(fn)
+}
 
 knitr::kable(x)
 ```
@@ -310,23 +316,28 @@ To download the Excel file, please [click here](data/concepts_l0.xlsx).
 #| label: l1
 #| 
 
-x <- lapply(
-    flat_snow[["concepts"]],
-    function(x) {
-        x[["display_name"]][x[["level"]] == 1]
-    }
-) |>
-    unlist() |>
-    table() |>
-    as.data.frame() |> 
-    rename(
-        l1_concept = Var1,
-        count = Freq
-    ) |>
-    arrange(desc(count))
-    
-writexl::write_xlsx(x, file.path(".", "data", "concepts_l1.xlsx"))
+fn <- file.path("data", "concepts_l1.rds")
 
+if (!file.exists(fn)){
+    x <- lapply(
+        flat_snow[["concepts"]],
+        function(x) {
+            x[["display_name"]][x[["level"]] == 1]
+        }
+    ) |>
+        unlist() |>
+        table() |>
+        as.data.frame() |> 
+        rename(
+            l1_concept = Var1,
+            count = Freq
+        ) |>
+        arrange(desc(count))
+        
+    writexl::write_xlsx(x, file.path(".", "data", "concepts_l1.xlsx"))
+} else {
+    x <- readRDS(fn)
+}
 knitr::kable(x)
 ```
 
@@ -338,22 +349,28 @@ To download the Excel file, please [click here](data/concepts_l1.xlsx).
 #| label: l2
 #| 
 
-x <- lapply(
-    flat_snow[["concepts"]],
-    function(x) {
-        x[["display_name"]][x[["level"]] == 2]
-    }
-) |>
-    unlist() |>
-    table() |>
-    as.data.frame() |> 
-    rename(
-        l2_concept = Var1,
-        count = Freq
+fn <- file.path("data", "concepts_l2.rds")
+
+if (!file.exists(fn)){
+    x <- lapply(
+        flat_snow[["concepts"]],
+        function(x) {
+            x[["display_name"]][x[["level"]] == 2]
+        }
     ) |>
-    arrange(desc(count))
-    
-writexl::write_xlsx(x, file.path(".", "data", "concepts_l2.xlsx"))
+        unlist() |>
+        table() |>
+        as.data.frame() |> 
+        rename(
+            l2_concept = Var1,
+            count = Freq
+        ) |>
+        arrange(desc(count))
+        
+    writexl::write_xlsx(x, file.path(".", "data", "concepts_l2.xlsx"))
+} else {
+    x <- readRDS(fn)
+}
 
 knitr::kable(x)
 ```
@@ -366,22 +383,28 @@ To download the Excel file, please [click here](data/concepts_l2.xlsx).
 #| label: l3
 #| 
 
-x <- lapply(
-    flat_snow[["concepts"]],
-    function(x) {
-        x[["display_name"]][x[["level"]] == 3]
-    }
-) |>
-    unlist() |>
-    table() |>
-    as.data.frame() |> 
-    rename(
-        l3_concept = Var1,
-        count = Freq
+fn <- file.path("data", "concepts_l3.rds")
+
+if (!file.exists(fn)){
+    x <- lapply(
+        flat_snow[["concepts"]],
+        function(x) {
+            x[["display_name"]][x[["level"]] == 3]
+        }
     ) |>
-    arrange(desc(count))
-    
-writexl::write_xlsx(x, file.path(".", "data", "concepts_l3.xlsx"))
+        unlist() |>
+        table() |>
+        as.data.frame() |> 
+        rename(
+            l3_concept = Var1,
+            count = Freq
+        ) |>
+        arrange(desc(count))
+        
+    writexl::write_xlsx(x, file.path(".", "data", "concepts_l3.xlsx"))
+} else {
+    x <- readRDS(fn)
+}
 
 knitr::kable(x)
 ```
@@ -394,22 +417,28 @@ To download the Excel file, please [click here](data/concepts_l3.xlsx).
 #| label: l4
 #| 
 
-x <- lapply(
-    flat_snow[["concepts"]],
-    function(x) {
-        x[["display_name"]][x[["level"]] == 4]
-    }
-) |>
-    unlist() |>
-    table() |>
-    as.data.frame() |> 
-    rename(
-        l4_concept = Var1,
-        count = Freq
+fn <- file.path("data", "concepts_l4.rds")
+
+if (!file.exists(fn)){
+    x <- lapply(
+        flat_snow[["concepts"]],
+        function(x) {
+            x[["display_name"]][x[["level"]] == 4]
+        }
     ) |>
-    arrange(desc(count))
-    
-writexl::write_xlsx(x, file.path(".", "data", "concepts_l4.xlsx"))
+        unlist() |>
+        table() |>
+        as.data.frame() |> 
+        rename(
+            l4_concept = Var1,
+            count = Freq
+        ) |>
+        arrange(desc(count))
+        
+    writexl::write_xlsx(x, file.path(".", "data", "concepts_l4.xlsx"))
+} else {
+    x <- readRDS(fn)
+}
     
 knitr::kable(x)
 ```
@@ -422,22 +451,28 @@ To download the Excel file, please [click here](data/concepts_l4.xlsx).
 #| label: l5
 #| 
 
-x <- lapply(
-    flat_snow[["concepts"]],
-    function(x) {
-        x[["display_name"]][x[["level"]] == 5]
-    }
-) |>
-    unlist() |>
-    table() |>
-    as.data.frame() |> 
-    rename(
-        l5_concept = Var1,
-        count = Freq
+fn <- file.path("data", "concepts_l5.rds")
+
+if (!file.exists(fn)){
+    x <- lapply(
+        flat_snow[["concepts"]],
+        function(x) {
+            x[["display_name"]][x[["level"]] == 5]
+        }
     ) |>
-    arrange(desc(count))
-    
-writexl::write_xlsx(x, file.path(".", "data", "concepts_l5.xlsx"))
+        unlist() |>
+        table() |>
+        as.data.frame() |> 
+        rename(
+            l5_concept = Var1,
+            count = Freq
+        ) |>
+        arrange(desc(count))
+        
+    writexl::write_xlsx(x, file.path(".", "data", "concepts_l5.xlsx"))
+} else {
+    x <- readRDS(fn)
+}
 
 knitr::kable(x)
 ```
