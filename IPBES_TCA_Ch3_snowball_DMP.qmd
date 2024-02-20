@@ -273,6 +273,36 @@ links |>
 ```
 
 
+# Identification of Topics
+ ```{r}
+#| label: prim_topic
+#| eval: false
+
+fn <- file.path("data", "topics.rds")
+
+if (!file.exists(fn)){
+    x <- lapply(
+        flat_snow[["concepts"]],
+        FUN = function(x) {
+            x[["display_name"]][x[["level"]] == 0]
+        }
+    ) |>
+        unlist() |>
+        table() |>
+        as.data.frame() |> 
+        rename(
+            l0_concept = Var1,
+            count = Freq
+        ) |>
+        arrange(desc(count))
+
+    writexl::write_xlsx(x, file.path(".", "data", "concepts_l0.xlsx"))
+    saveRDS(x, fn)
+} else {
+    x <- readRDS(fn)
+```
+
+
 # Identification of Concepts
 
 OpenAlex assigns all works concepts. The concepts are in hirarchical order, ranging from 0 to 3. The higher the number, the more specific the concept. The concepts are assigned to the paper (`id`)
