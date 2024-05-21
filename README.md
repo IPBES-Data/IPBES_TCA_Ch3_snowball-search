@@ -1,3 +1,7 @@
+# This Repo has merged into the [IPBES TCA Ch3 Clusters](https://github.com/IPBES-Data/IPBES_TCA_Ch3_clusters).
+# The report is part of the [report at](https://ipbes-data.github.io/IPBES_TCA_Ch3_clusters/snowball.html)
+
+
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10218647.svg)](https://doi.org/10.5281/zenodo.10218647)
 [![GitHub release](https://img.shields.io/github/release/IPBES-Data/IPBES_TCA_Ch3_snowball-search.svg)](https://github.com/IPBES-Data/IPBES_TCA_Ch3_snowball-search/releases/latest)
